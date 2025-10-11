@@ -1,0 +1,60 @@
+site_ID,site_name,site_code,continent,country,state,first_year,latitude,longitude,habitat,elevation,slope,aspect,invaded,grazed,burned,managed,agricultural,anthropogenic,experiment_type_ID,region_ID,year_last_mowed,year_last_plowed,year_last_cropped,mowed,year_last_burned,year_restored,mowing_frequency,active,hide_site,burn_frequency
+251,Kellogg Biological Station (KBS),kell_dn.us,North America,US,Michigan,2020,42.41639,-85.36917,NULL,287,1,90,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+253,Bayreuth DRAGNet,bayr_dn.de,Europe,DE,NULL,2020,49.922,11.5838,mesic grassland,365,0,180,0,0,0,1,0,1,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+269,Sandflats,sdft_dn.us,North America,US,Utah,2021,38.58181921,-109.4947242,NULL,1450,0,180,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+308,Abeokuta,abeo_dn.ng,Africa,NG,NULL,2022,7.226472,3.423556,pasture,74,0.05,296.56,0,0,0,0,0,1,6,0,NULL,2015,2015,0,NULL,NULL,NULL,1,0,NULL
+309,Ainsdale Dune Slacks,ains_dn.uk,Europe,UK,NULL,2021,53.59,-3.07,Sand dune,7,0,0,0,1,0,1,0,0,7,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+310,Algaida,alga_dn.es,Europe,ES,NULL,2020,36.54002,-6.20391,Annual Grassland,0,0,0,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+311,Archbold Biological Station,arch_dn.us,North America,US,Florida,2020,27.16998,-81.21846,Mixed prairie,10.2,0,0,0,0,1,1,0,0,6,0,NULL,NULL,NULL,0,2020,NULL,NULL,1,0,NULL
+312,Bad Lauchstaedt,badlau_dn.de,Europe,DE,NULL,2020,51.383333,11.883333,old field,118,0,0,0,0,0,1,1,1,6,0,2021,2013,2013,1,NULL,NULL,Twice annually,1,0,NULL
+313,Bladen Lakes State Forest,blsf_dn.us,North America,US,North Carolina,2019,34.71954,-78.49034,savanna,27.72,0,0,0,0,1,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+314,Blandy Experimental Farm,blan_dn.us,North America,US,Virginia,2021,39.06263,-78.06261,Old field,174,0,0,0,0,0,0,1,0,6,0,NULL,2003,NULL,0,NULL,NULL,NULL,1,0,NULL
+315,Cass,cass_dn.nz,Oceania,NZ,NULL,2022,-43.0368,171.7528,short tussock grassland,580,0,0,0,0,0,0,0,1,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+316,Cedar Creek LTER,cedr_dn.us,North America,US,Minnesota,2021,45.404164,-93.200312,tallgrass prairie,282,0,0,0,0,0,0,1,0,6,0,NULL,1942,1942,0,NULL,NULL,NULL,1,0,NULL
+317,CEREEP - Ecotron IDF,cereep_dn.fr,Europe,FR,NULL,2022,48.282472,2.666167,Grassland old field,83,0,0,0,0,0,1,1,0,6,0,2021,NULL,NULL,1,NULL,NULL,0,1,0,0
+318,Agroscope Changins,chan_dn.ch,Europe,CH,NULL,2020,46.403333,6.228889,Permanent grassland,430,10,0,0,0,0,1,0,0,6,0,2021,NULL,NULL,1,NULL,NULL,Twice annually,1,0,0
+319,Churning Rapids,chur_dn.us,North America,US,Michigan,2021,47.1790273,-88.6147752,old field,212,4,283,0,1,0,1,0,1,7,0,NULL,NULL,NULL,1,NULL,1969,NULL,1,0,NULL
+320,Domaninek,doma_dn.cz,Europe,CZ,NULL,2022,49.5388,16.2484,mesic grassland,530,2,315,0,0,0,1,0,1,6,0,2021,NULL,NULL,1,NULL,NULL,Twice annually,1,0,NULL
+321,Fowlers Gap,fowl_dn.au,Australia,AU,NULL,0,-31.07276308,141.7651157,arid grassland,162,0,0,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+322,GCE LTER - Sapelo Island,sape_dn.us,North America,US,Georgia,2021,31.4215,-81.2905,salt marsh,0,0,0,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+323,Hobcaw Barony,hoca_dn.us,North America,US,South Carolina,2022,33.323056,-79.218333,old field,4,0,0,0,0,0,1,1,1,6,0,2021,2015,2010,1,NULL,2015,annually,1,0,0
+324,Hulun Buir,hulu_dn.cn,Asia,CN,NULL,2019,49.333333,119.95,Temperate grassland,638.5,0,0,0,0,0,1,0,0,6,0,2016,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+325,Jena,jena_dn.de,Europe,DE,NULL,2020,50.938383,11.52825,mesic grassland,320,0,0,0,0,0,1,0,1,6,0,2021,NULL,NULL,1,NULL,NULL,Twice annually,1,0,NULL
+326,Kniezenberg,kzbg_dn.at,Europe,AT,NULL,2021,46.9626,15.2747,pasture,400,2.5,170.7,0,0,0,1,0,1,6,0,2021,NULL,NULL,1,NULL,NULL,Annually,1,0,NULL
+327,LSU Botanical Garden,lsbg_dn.us,North America,US,Louisiana,2021,30.414525,-91.1182444,cajun prairie,16.5,0,0,0,0,0,1,0,1,6,0,2020,NULL,NULL,1,NULL,1998,Annually,1,0,NULL
+328,Lublin,lubl_dn.pl,Europe,PL,NULL,2021,51.145515,22.151615,old field,163,0,0,0,0,0,1,1,0,6,0,2021,2010,2009,1,NULL,NULL,Annually,1,0,NULL
+329,Meranges,mera_dn.es,Europe,ES,NULL,0,42.434,1.777,montane grassland,1706,10,70,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+330,Millville,mill_dn.us,North America,US,Utah,2020,41.649846,-111.81024,annual grassland,4800,0.05,285,0,1,0,1,1,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+331,Nillahcootie,nilla_dn.au,Australia,AU,NULL,0,-36.8962383,146.0067397,pasture,276,2.27,56.2,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+332,Park Shaked,shak_dn.il,Asia,IL,NULL,2022,31.26924,34.65478,annual grassland,190,5,30,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+333,San Claudio,sanc_dn.ar,South America,AR,NULL,2021,-35.922282,-61.158115,old field,85,0.5,180,0,0,0,0,1,0,6,0,2005,1995,2004,0,2016,NULL,NULL,1,0,NULL
+334,Sierra Foothills REC,sier_dn.us,North America,US,California,0,39.2634,-121.3225,annual grassland,0,5,0,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+335,Temple,temple_dn.us,North America,US,Texas,2021,31.098056,-97.3425,Tallgrass Prairie,194,2,90,0,0,0,1,0,0,6,0,2022,NULL,NULL,1,NULL,NULL,Annually,1,0,NULL
+336,Ukulinga,ukul_dn.za,Africa,ZA,NULL,2020,-29.67037,30.400944,Mesic grassland,842,2,151,0,0,1,1,0,0,6,0,2017,NULL,NULL,0,2022,NULL,NULL,1,0,Annually
+337,University of Michigan Biological Station,umbs_dn.us,North America,US,Michigan,2021,45.562015,-84.6797,grassland,237,0,0,0,0,0,1,0,1,6,0,2020,NULL,NULL,0,NULL,1994,NULL,1,0,NULL
+338,University of Wyoming - SAREC,uwyo_dn.us,North America,US,Wyoming,2021,42.082122,-104.401151,Annual grassland,1340,0,0,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+339,WSL,wald_dn.ch,Europe,CH,NULL,2020,47.36187,8.457485,old field,555,9,285,0,0,0,1,1,1,6,0,2020,1995,1995,1,NULL,1995,Twice annually,1,0,NULL
+340,Wytham Woods,wyth_dn.uk,Europe,UK,NULL,2021,51.771053,-1.332625,calcareous grassland,159,5,78,0,0,0,1,1,1,6,0,2021,1985,1985,1,NULL,1985,Twice annually,1,0,0
+344,Wallula Gap Biological Station-South Face,wgso_dn.us,North America,US,Washington,2020,46.0042,-118.9117,Annual grassland,417,27,124,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,2015,NULL,NULL,1,0,NULL
+345,Caracoles,cara_dn.es,Europe,ES,NULL,2021,37.066028,-6.317639,annual grassland,0,0.16,258,0,0,0,0,1,1,6,0,NULL,1985,1985,0,NULL,1995,0,1,0,NULL
+346,Cary IES,cary_dn.us,North America,US,New York,2022,41.787495,-73.7404,old field,126.7164424,0,0,0,0,0,1,1,1,6,0,2020,NULL,1940,1,NULL,NULL,Every two years,1,0,NULL
+347,Mendoza,mend_dn.ar,South America,AR,NULL,0,-32.89418,-68.87578,grassland,861,5,90,0,0,0,0,0,1,6,0,NULL,NULL,NULL,0,NULL,1975,Twice annually,1,0,NULL
+348,Potrok Aike,potrok_dn.ar,South America,AR,NULL,0,-51.91602778,-70.40744444,grassland steppe,150,0,0,0,1,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+349,Piedmont Prairie,pied_dn.us,North America,US,Georgia,2022,33.890328,-83.3593,Oldfield,214,0,0,0,0,1,1,0,1,6,0,NULL,NULL,NULL,0,2021,NULL,NULL,1,0,Annually
+350,Shortgrass Steppe LTER,sgs_dn.us,North America,US,Colorado,2021,40.81667,-104.76667,semiarid grassland,1650,0,0,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,0,1,0,NULL
+351,Songyuan,song_dn.cn,Asia,CN,NULL,0,44.75,123.7,grassland steppe,140,10,173,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+352,Old Town Road,olro_dn.us,North America,US,Maryland,0,39.5445,-78.6762,tallgrass prairie,561,-9,135,0,0,1,1,1,1,6,0,2021,NULL,2021,1,NULL,2023,NULL,1,0,Every four years
+353,Wallula Gap Biological Station-North Face,wgno_dn.us,North America,US,Washington,2020,46.0047,-118.9121,semiarid grassland,423,22,332,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,2015,NULL,NULL,1,0,NULL
+354,Oak Lake Field Station,olfs_dn.us,North America,US,South Dakota,0,44.50936516,-96.53201183,tallgrass prairie,572.1,5,90,0,0,0,1,1,1,6,0,2022,1987,2018,1,NULL,NULL,Twice annually,1,0,0
+355,Hazelrigg,lancaster_dn.uk,Europe,UK,NULL,2021,54.013714,-2.77558,mesic grassland,100,0,0,0,0,0,1,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+357,Ladybird Johnson Wildflower Center,ljwc_dn.us,North America,US,Texas,0,30.179315,-97.876819,mixedgrass prairie,241,0,0,0,0,1,1,0,0,6,0,NULL,NULL,NULL,0,2021,NULL,NULL,1,0,NULL
+360,Stoderzinken,stod_dn.at,Europe,AT,NULL,2023,47.456123,13.814147,alpine grassland,1762,12,177,0,1,0,1,0,1,6,0,2023,NULL,NULL,1,NULL,NULL,Annually,1,0,NULL
+361,Dauphin Island,daup_dn.us,North America,US,Alabama,2021,30.2498,-88.19583,Sand dune,1,0,0,0,0,0,0,0,0,6,0,NULL,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+362,Cowichan,cowi_dn.ca,North America,CA,NULL,2019,48.80847008,-123.6338465,PASTURE,15,4,253,0,0,0,0,1,1,6,0,1970,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+363,Saihanba,saih_dn.cn,Asia,CN,NULL,0,42.3262667,117.3227164,grassland,1541.27,3,201,0,0,0,0,0,1,6,0,2023,NULL,NULL,1,NULL,2020,annually,1,0,NULL
+375,Jasper Ridge Biological Preserve,jasp_dn.us,North America,US,California,0,37.404001,-122.228781,annual grassland,122,4,135,0,0,0,0,0,0,6,0,0,NULL,0,0,NULL,NULL,NULL,1,0,NULL
+378,Konza LTER DRAGNet,konz_dn.us,North America,US,Kansas,2021,39.098056,-96.591667,tallgrass prairie,350,NULL,NULL,0,0,1,1,0,1,6,0,NULL,NULL,NULL,0,2023,NULL,NULL,1,0,annually
+380,Izaak Walton League of America (IWLA),iwla_dn.us,North America,US,Maryland,2022,39.1002192,-77.4179329,tallgrass prairie,NULL,NULL,NULL,0,0,0,1,1,1,6,0,2022,NULL,NULL,1,NULL,1985,annually,1,0,NULL
+382,Castellanos,cast_dn.us,South America,AR,NULL,2023,-24.6985528,-65.4855083,pasture,1445,NULL,NULL,0,0,0,0,0,1,6,0,2020,NULL,NULL,0,NULL,NULL,NULL,1,0,NULL
+383,Colombia Missouri,como_dn.us,North America,US,NULL,2020,38.8995,-92.20856,tallgrass prairie,270,NULL,NULL,0,0,1,1,1,1,6,0,NULL,2009,2009,0,2021,2010,NULL,1,0,every 2-3 years
+384,Morella la Vella,more_dn.es,Europe,ES,NULL,0,40.6389,0.1312,grassland,1034,15,23,0,0,1,0,1,1,6,0,NULL,0,0,0,2020,0,NULL,1,0,UNKNOWN
