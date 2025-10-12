@@ -1,8 +1,10 @@
 # R Thornley
 # 07/10/2025
 # Project: P1_COMPADRE_DRAGNET
-# S9_comm_OLS_models_robust_scaled_not_logged
+# S9_comm_OLS_models_robust_scaled
 # Fit the robust interaction models scaled with demo vars not logged
+
+rm(list= ls())
 
 ################################################################################
 # Instructions
@@ -133,10 +135,10 @@ unique(both$Taxon) # 38 taxa
 # export that list of species we are using in the final models
 taxa_list <- unique(both$Taxon)
 length(taxa_list) # 38 taxa here
-# saveRDS(taxa_list, "results/List_taxa_OLS_mods.R")
+saveRDS(taxa_list, "results/List_taxa_OLS_mods.R")
 
 # save the modelling data
-# write_csv(both, "results/OLS_comm_var_modelling_master_data_T0.csv")
+write_csv(both, "results/OLS_comm_var_modelling_master_data_T0.csv")
 
 ################################################################################
 # 3) Load community variables; create and tidy a nested df for modelling
@@ -176,7 +178,7 @@ all_comm <-
   dplyr::select(-time_period)
 
 # read in in the species provenance data
-native <- read_csv("results/native_status.csv") %>% 
+native <- read_csv("data/DRAGNet_native_status.csv") %>% 
   dplyr::select(site_name, New_taxon, new_provenance) %>%
   rename(Taxon = New_taxon)
 
@@ -236,7 +238,7 @@ nested_all <- all_scaled %>%
 # clean up data frame by removing rows with NA/ INF etc.
 nested_clean <- 
   nested_all %>%
-  mutate(data = map(data, ~ .x %>% 
+  mutate(data = purrr::map(data, ~ .x %>% 
                       filter(if_all(everything(), ~ is.finite(Demo_value))) %>%  # keep only finite values
                       drop_na(Demo_value)))
 
@@ -264,9 +266,9 @@ augment_lmrob <- function(m) {
 # run the functions on the nested df
 comm_results <- nested_clean %>%
   mutate(
-    mod     = map(data, fit_rlm_safe_lmrob),
-    results = map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x)),
-    aug     = map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))
+    mod     = purrr::map(data, fit_rlm_safe_lmrob),
+    results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x)),
+    aug     = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))
   )
 
 # save to disk for model checking and plotting
@@ -314,7 +316,7 @@ nested_all <- all %>%
 # clean up the NA values etc..
 nested_clean <- 
   nested_all %>%
-  mutate(data = map(data, ~ .x %>% 
+  mutate(data = purrr::map(data, ~ .x %>% 
                       filter(if_all(everything(), ~ is.finite(Demo_value))) %>%  # keep only finite values
                       drop_na(Demo_value) %>%
                       filter(if_all(everything(), ~ !is.na(new_provenance)))))
@@ -342,9 +344,9 @@ augment_lmrob <- function(m) {
 # run the models on the nested df
 comm_results <- nested_clean %>%
   mutate(
-    mod     = map(data, fit_rlm_safe_lmrob),
-    results = map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x)),
-    aug     = map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))
+    mod     = purrr::map(data, fit_rlm_safe_lmrob),
+    results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x)),
+    aug     = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))
   )
 
 # save to disk for model checking and plotting
@@ -356,7 +358,7 @@ comm_results <- comm_results %>%
   unnest(results) %>%
   filter(term != "(Intercept)")
 
-# write_csv(comm_results, "results/robust_OLS_provenance_results_T0.csv")
+write_csv(comm_results, "results/robust_OLS_provenance_results_T0.csv")
 
 # only look at models with significant interaction terms 
 # there are some which should be investigated further

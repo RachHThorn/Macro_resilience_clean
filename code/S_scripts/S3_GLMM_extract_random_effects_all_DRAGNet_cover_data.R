@@ -7,32 +7,14 @@
 # Instructions
 ################################################################################
 
-# 1) Packages that aren't in CRAN that need downloading from Github
-# 2) Create functions that run the GLMMS and extract the random effects at species 
+# 1) Create functions that run the GLMMS and extract the random effects at species 
 # and species in site level
-# 3) Wrapper function to process the data for each experiment (treatment + control)
-# 4) Run functions for all time periods and save to file
+# 2) Wrapper function to process the data for each experiment (treatment + control)
+# 3) Run functions for all time periods and save to file
 
 ################################################################################
-# 1) Packages that aren't in CRAN that need downloading from Github
-################################################################################
-
-# install the mixed up package directly from Github
-remotes::install_github('m-clark/mixedup')
-
-# load packages
-packages <- c("rstan", "assertthat", "remotes", "mixedup")
-
-for (p in packages) {
-  if (!requireNamespace(p, quietly = TRUE)) {
-    install.packages(p)
-  }
-  library(p, character.only = TRUE)
-}
-
-################################################################################
-# 2) Create functions that run the GLMMS and extract the random effects at species 
-# and species in site level
+# 1) Create functions that run the GLMMS and extract the random effects at species 
+# and species in site (population) level
 ################################################################################
 
 get_RE_taxon <- function(data, experiments) {
@@ -115,6 +97,7 @@ process_time_period <- function(file, time_label) {
 # 4) Run functions for all time periods and save to file
 ################################################################################
 
+# use the file paths from 
 files <- c(
   "results/DRAGNet_T0_T1_all.csv",
   "results/DRAGNet_T0_T2_all.csv",

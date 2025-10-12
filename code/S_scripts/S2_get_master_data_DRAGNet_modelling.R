@@ -60,14 +60,14 @@ process_dragnet <- function(drag, wanted_file_path, years) {
   wanted <- read_csv(wanted_file_path) %>%
     dplyr::select(2, 4:9) %>%
     setNames(c("site_name", "T0", "T1", "T2", "T3", "T4", "T5")) %>%
-    select(site_name, T0, !!sym(paste0(years[length(years)]))) %>%
+    dplyr::select(site_name, T0, !!sym(paste0(years[length(years)]))) %>%
     pull(site_name)
 
   # Filter data
   dat <- drag %>%
     dplyr::filter(site_name %in% wanted) %>%
     dplyr::filter(year_trt %in% years) %>%
-    select(site_name, New_taxon, block, trt, year_trt, max_cover) %>%
+    dplyr::select(site_name, New_taxon, block, trt, year_trt, max_cover) %>%
     group_by(site_name) %>%
     complete(New_taxon, year_trt, trt, block) %>%
     replace(is.na(.), 0) %>%

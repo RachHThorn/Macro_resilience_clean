@@ -3,6 +3,10 @@
 # Spread community values - for establishing the ranges of prediction values 
 # to work with in interpretation of the interaction effects in the community models
 
+# this is not yet included in the appendix but someone may ask for it
+# we may need to show that the community variables are not correlated 
+# especially funcitonal specialisation and diversity
+
 ################################################################################
 # 1) Load community variables
 ################################################################################

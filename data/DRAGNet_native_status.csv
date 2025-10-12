@@ -1,0 +1,304 @@
+site_name,New_taxon,local_provenance,new_provenance
+Ainsdale Dune Slacks,Lotus_corniculatus,NAT,NAT
+Ainsdale Dune Slacks,Cirsium_palustre,NAT,NAT
+Ainsdale Dune Slacks,Ranunculus_repens,NAT,NAT
+Ainsdale Dune Slacks,Cirsium_arvense,NAT,NAT
+Ainsdale Dune Slacks,Linum_catharticum,NAT,NAT
+Ainsdale Dune Slacks,Jacobaea_vulgaris,NAT,NAT
+Algaida,Echium_vulgare,NAT,NAT
+Algaida,Jacobaea_vulgaris,NAT,NAT
+Algaida,Plantago_coronopus,NAT,NAT
+Algaida,Trifolium_pratense,NAT,NAT
+Algaida,Lotus_corniculatus,NAT,NAT
+Algaida,Ranunculus_repens,NAT,NAT
+Algaida,Hypochaeris_radicata,NAT,NAT
+Bad Lauchstaedt,Tragopogon_orientalis,NAT,NAT
+Bad Lauchstaedt,Picris_hieracioides,NAT,NAT
+Bad Lauchstaedt,Veronica_arvensis,NAT,NAT
+Bad Lauchstaedt,Cirsium_arvense,NAT,NAT
+Bad Lauchstaedt,Elymus_repens,NAT,NAT
+Bad Lauchstaedt,Cerastium_fontanum,NAT,NAT
+Bad Lauchstaedt,Achillea_millefolium,NAT,NAT
+Bad Lauchstaedt,Daucus_carota,NAT,NAT
+Bad Lauchstaedt,Arenaria_serpyllifolia,NAT,NAT
+Bad Lauchstaedt,Rosa_canina,NAT,NAT
+Bad Lauchstaedt,Hypochaeris_radicata,NAT,NAT
+Bad Lauchstaedt,Echium_vulgare,NAT,NAT
+Bad Lauchstaedt,Lactuca_serriola,NAT,NAT
+Bad Lauchstaedt,Cirsium_vulgare,NAT,NAT
+Bad Lauchstaedt,Knautia_arvensis,NAT,NAT
+Bayreuth DRAGNet,Lotus_corniculatus,NAT,NAT
+Bayreuth DRAGNet,Taraxacum_campylodes,NAT,NAT
+Bayreuth DRAGNet,Anthoxanthum_odoratum,NAT,NAT
+Bayreuth DRAGNet,Centaurea_jacea,NAT,NAT
+Bayreuth DRAGNet,Ranunculus_acris,NAT,NAT
+Bayreuth DRAGNet,Trifolium_pratense,NAT,NAT
+Bayreuth DRAGNet,Hypochaeris_radicata,NAT,NAT
+Bayreuth DRAGNet,Elymus_repens,NAT,NAT
+Bayreuth DRAGNet,Cerastium_fontanum,NAT,NAT
+Bayreuth DRAGNet,Knautia_arvensis,NAT,NAT
+Bayreuth DRAGNet,Veronica_arvensis,NAT,NAT
+Bayreuth DRAGNet,Ranunculus_repens,NAT,NAT
+Bayreuth DRAGNet,Fragaria_vesca,NA,NAT
+Bayreuth DRAGNet,Lactuca_serriola,NAT,NAT
+Bayreuth DRAGNet,Achillea_millefolium,NAT,NAT
+Bayreuth DRAGNet,Cirsium_vulgare,NAT,NAT
+Bayreuth DRAGNet,Erigeron_canadensis,INT,INT
+Blandy Experimental Farm,Verbascum_thapsus,INT,INT
+Blandy Experimental Farm,Cirsium_arvense,INT,INT
+Blandy Experimental Farm,Allium_vineale,INT,INT
+Blandy Experimental Farm,Cirsium_vulgare,INT,INT
+Blandy Experimental Farm,Centaurea_stoebe,INT,INT
+Blandy Experimental Farm,Anthoxanthum_odoratum,INT,INT
+Blandy Experimental Farm,Lactuca_serriola,NA,INT
+Bladen Lakes State Forest,Pinus_palustris,NAT,NAT
+Caracoles,Plantago_coronopus,NAT,NAT
+Cary IES,Elymus_repens,INT,INT
+Cary IES,Anthoxanthum_odoratum,INT,INT
+Cary IES,Achillea_millefolium,NAT,NAT
+Cary IES,Centaurea_stoebe,INT,INT
+Cary IES,Vincetoxicum_nigrum,INT,INT
+Cary IES,Rosa_multiflora,INT,INT
+Cary IES,Trifolium_pratense,INT,INT
+Cary IES,Acer_saccharum,NAT,NAT
+Cary IES,Verbascum_thapsus,INT,INT
+Cary IES,Erigeron_canadensis,NAT,NAT
+Cary IES,Prunus_serotina,NAT,NAT
+Cary IES,Ailanthus_altissima,INT,INT
+Cass,Anthoxanthum_odoratum,INT,INT
+Cass,Hypochaeris_radicata,INT,INT
+Cass,Cirsium_vulgare,INT,INT
+Castellanos,Alternanthera_philoxeroides,NA,NA
+Cedar Creek LTER,Elymus_repens,INT,INT
+Cedar Creek LTER,Verbascum_thapsus,INT,INT
+CEREEP - Ecotron IDF,Veronica_arvensis,NAT,NAT
+CEREEP - Ecotron IDF,Picris_hieracioides,NAT,NAT
+CEREEP - Ecotron IDF,Daucus_carota,NAT,NAT
+CEREEP - Ecotron IDF,Anthoxanthum_odoratum,NAT,NAT
+CEREEP - Ecotron IDF,Hypochaeris_radicata,NAT,NAT
+CEREEP - Ecotron IDF,Ranunculus_bulbosus,NAT,NAT
+CEREEP - Ecotron IDF,Jacobaea_vulgaris,NAT,NAT
+CEREEP - Ecotron IDF,Cerastium_fontanum,NA,NAT
+CEREEP - Ecotron IDF,Erigeron_canadensis,NA,INT
+CEREEP - Ecotron IDF,Alliaria_petiolata,NA,NAT
+CEREEP - Ecotron IDF,Achillea_millefolium,NA,NAT
+CEREEP - Ecotron IDF,Myosotis_ramosissima,NA,NAT
+CEREEP - Ecotron IDF,Ranunculus_acris,NA,NA
+CEREEP - Ecotron IDF,Rosa_canina,NA,NA
+CEREEP - Ecotron IDF,Cytisus_scoparius,NA,NA
+Agroscope Changins,Cerastium_fontanum,NAT,NAT
+Agroscope Changins,Veronica_arvensis,NAT,NAT
+Agroscope Changins,Lotus_corniculatus,NAT,NAT
+Agroscope Changins,Centaurea_jacea,NAT,NAT
+Agroscope Changins,Achillea_millefolium,NAT,NAT
+Agroscope Changins,Ranunculus_acris,NAT,NAT
+Agroscope Changins,Trifolium_pratense,NAT,NAT
+Agroscope Changins,Knautia_arvensis,NAT,NAT
+Agroscope Changins,Daucus_carota,NAT,NAT
+Agroscope Changins,Tragopogon_pratensis,NAT,NAT
+Agroscope Changins,Ranunculus_bulbosus,NAT,NAT
+Agroscope Changins,Elymus_repens,NAT,NAT
+Agroscope Changins,Anthoxanthum_odoratum,NAT,NAT
+Agroscope Changins,Rumex_obtusifolius,NAT,NAT
+Churning Rapids,Potentilla_recta,INT,INT
+Churning Rapids,Fragaria_vesca,NAT,NAT
+Churning Rapids,Centaurea_stoebe,INT,INT
+Churning Rapids,Tragopogon_dubius,NAT,NAT
+Churning Rapids,Daucus_carota,INT,INT
+Churning Rapids,Achillea_millefolium,INT,INT
+Churning Rapids,Ranunculus_acris,NAT,NAT
+Churning Rapids,Hypochaeris_radicata,INT,INT
+Churning Rapids,Anthoxanthum_odoratum,INT,INT
+Churning Rapids,Verbascum_thapsus,INT,INT
+Churning Rapids,Elymus_repens,INT,INT
+Churning Rapids,Solidago_altissima,INT,INT
+Colombia Missouri,Andropogon_gerardii,NAT,NAT
+Colombia Missouri,Chamaecrista_fasciculata,NAT,NAT
+Colombia Missouri,Lotus_corniculatus,INT,INT
+Colombia Missouri,Lactuca_serriola,INT,INT
+Cowichan,Cirsium_arvense,INT,INT
+Cowichan,Veronica_arvensis,INT,INT
+Cowichan,Cirsium_vulgare,INT,INT
+Cowichan,Anthoxanthum_odoratum,INT,INT
+Domaninek,Anthoxanthum_odoratum,NAT,NAT
+Domaninek,Trifolium_pratense,NAT,NAT
+Domaninek,Arenaria_serpyllifolia,NAT,NAT
+Domaninek,Achillea_millefolium,NAT,NAT
+Domaninek,Veronica_arvensis,NA,NA
+Domaninek,Cerastium_fontanum,NAT,NAT
+Fowlers Gap,Salsola_kali,NA,NA
+Hulun Buir,Koeleria_macrantha,NAT,NAT
+Hulun Buir,Cirsium_arvense,NAT,NAT
+Hulun Buir,Erigeron_canadensis,NAT,NAT
+Hulun Buir,Agropyron_cristatum,NA,NA
+Izaak Walton League of America (IWLA),Solidago_altissima,NAT,NAT
+Izaak Walton League of America (IWLA),Rosa_multiflora,INT,INT
+Izaak Walton League of America (IWLA),Achillea_millefolium,NAT,NAT
+Izaak Walton League of America (IWLA),Daucus_carota,INT,INT
+Izaak Walton League of America (IWLA),Polygonum_perfoliatum,INT,INT
+Izaak Walton League of America (IWLA),Verbascum_thapsus,INT,INT
+Jena,Cerastium_fontanum,NAT,NAT
+Jena,Picris_hieracioides,NAT,NAT
+Jena,Elymus_repens,NAT,NAT
+Jena,Arenaria_serpyllifolia,NAT,NAT
+Jena,Achillea_millefolium,NAT,NAT
+Jena,Veronica_arvensis,NAT,NAT
+Jena,Agrimonia_eupatoria,NAT,NAT
+Jena,Lactuca_serriola,NAT,NAT
+Jena,Erophila_verna,NAT,NAT
+Jena,Cirsium_arvense,NAT,NAT
+Jena,Cirsium_vulgare,NAT,NAT
+Kellogg Biological Station (KBS),Chamaecrista_fasciculata,NAT,NAT
+Kellogg Biological Station (KBS),Daucus_carota,INT,INT
+Kellogg Biological Station (KBS),Taraxacum_campylodes,INT,INT
+Kellogg Biological Station (KBS),Andropogon_gerardii,NAT,NAT
+Kellogg Biological Station (KBS),Solidago_altissima,NAT,NAT
+Kellogg Biological Station (KBS),Achillea_millefolium,NAT,NAT
+Kellogg Biological Station (KBS),Trifolium_pratense,INT,INT
+Kellogg Biological Station (KBS),Cirsium_arvense,INT,INT
+Kellogg Biological Station (KBS),Potentilla_recta,INT,INT
+Kellogg Biological Station (KBS),Elymus_repens,INT,INT
+Kellogg Biological Station (KBS),Cerastium_fontanum,INT,INT
+Kellogg Biological Station (KBS),Koeleria_macrantha,NAT,NAT
+Kellogg Biological Station (KBS),Setaria_faberi,INT,INT
+Konza LTER DRAGNet,Achillea_millefolium,NAT,NAT
+Konza LTER DRAGNet,Cirsium_undulatum,NAT,NAT
+Konza LTER DRAGNet,Koeleria_macrantha,NAT,NAT
+Konza LTER DRAGNet,Solidago_altissima,NAT,NAT
+Konza LTER DRAGNet,Amaranthus_retroflexus,NAT,NAT
+Kniezenberg,Ranunculus_acris,NAT,NAT
+Kniezenberg,Anthoxanthum_odoratum,NAT,NAT
+Kniezenberg,Achillea_millefolium,NAT,NAT
+Kniezenberg,Elymus_repens,NAT,NAT
+Kniezenberg,Lotus_corniculatus,NAT,NAT
+Kniezenberg,Daucus_carota,NAT,NAT
+Kniezenberg,Trifolium_pratense,NAT,NAT
+Kniezenberg,Cerastium_fontanum,NAT,NAT
+Kniezenberg,Ranunculus_repens,NAT,NAT
+Kniezenberg,Lactuca_serriola,NAT,NAT
+Kniezenberg,Veronica_arvensis,NAT,NAT
+Hazelrigg,Cirsium_arvense,NAT,NAT
+Hazelrigg,Anthoxanthum_odoratum,NAT,NAT
+Hazelrigg,Cerastium_fontanum,NAT,NAT
+Hazelrigg,Ranunculus_repens,NAT,NAT
+Hazelrigg,Achillea_millefolium,NAT,NAT
+Hazelrigg,Ranunculus_acris,NA,NAT
+Ladybird Johnson Wildflower Center,Bothriochloa_ischaemum,INT,INT
+Ladybird Johnson Wildflower Center,Prosopis_glandulosa,NAT,NAT
+Ladybird Johnson Wildflower Center,Opuntia_macrorhiza,NAT,NAT
+Ladybird Johnson Wildflower Center,Ratibida_columnifera,NAT,NAT
+Ladybird Johnson Wildflower Center,Bouteloua_rigidiseta,NAT,NAT
+LSU Botanical Garden,Solidago_altissima,NAT,NAT
+Lublin,Cirsium_arvense,NAT,NAT
+Lublin,Elymus_repens,NAT,NAT
+Lublin,Fragaria_vesca,NAT,NAT
+Lublin,Achillea_millefolium,NAT,NAT
+Lublin,Cerastium_fontanum,NAT,NAT
+Lublin,Ranunculus_repens,NAT,NAT
+Lublin,Betula_pendula,NAT,NAT
+Lublin,Daucus_carota,NAT,NAT
+Lublin,Jacobaea_vulgaris,NAT,NAT
+Lublin,Hypochaeris_radicata,NAT,NAT
+Lublin,Echinochloa_crus-galli,INT,INT
+Lublin,Erigeron_canadensis,INT,INT
+Lublin,Plantago_media,NAT,NAT
+Lublin,Melampyrum_pratense,NAT,NAT
+Lublin,Agrimonia_eupatoria,NAT,NAT
+Lublin,Cirsium_vulgare,NAT,NAT
+Meranges,Ranunculus_acris,NAT,NAT
+Meranges,Lotus_corniculatus,NAT,NAT
+Meranges,Plantago_media,NAT,NAT
+Meranges,Pimpinella_saxifraga,NAT,NAT
+Meranges,Achillea_millefolium,NAT,NAT
+Meranges,Trifolium_pratense,NAT,NAT
+Millville,Isatis_tinctoria,INT,INT
+Millville,Tragopogon_dubius,INT,INT
+Millville,Agropyron_cristatum,INT,INT
+Millville,Bromus_tectorum,INT,INT
+Millville,Centaurea_stoebe,INT,INT
+Millville,Elymus_repens,INT,INT
+Nillahcootie,Themeda_triandra,NAT,NAT
+Nillahcootie,Hypochaeris_radicata,INT,INT
+Nillahcootie,Anthoxanthum_odoratum,INT,INT
+Oak Lake Field Station,Cirsium_arvense,NA,NA
+Oak Lake Field Station,Andropogon_gerardii,NA,NA
+Oak Lake Field Station,Trifolium_pratense,NA,NA
+Oak Lake Field Station,Lactuca_serriola,NA,NA
+Piedmont Prairie,Erigeron_canadensis,NAT,NAT
+Piedmont Prairie,Andropogon_gerardii,NAT,NAT
+Piedmont Prairie,Verbascum_thapsus,NA,INT
+Piedmont Prairie,Rhus_copallinum,NA,NA
+Piedmont Prairie,Carduus_nutans,NA,NA
+Potrok Aike,Armeria_maritima,NAT,NAT
+Saihanba,Picris_hieracioides,NAT,NAT
+Saihanba,Fragaria_vesca,NA,NA
+San Claudio,Cirsium_vulgare,INT,INT
+San Claudio,Lactuca_serriola,INT,INT
+GCE LTER - Sapelo Island,Spartina_alterniflora,NAT,NAT
+Sandflats,Bromus_tectorum,INT,INT
+Sandflats,Salsola_kali,INT,INT
+Shortgrass Steppe LTER,Sphaeralcea_coccinea,NAT,NAT
+Shortgrass Steppe LTER,Bromus_tectorum,INT,INT
+Shortgrass Steppe LTER,Tragopogon_dubius,INT,INT
+Stoderzinken,Primula_elatior,NAT,NAT
+Stoderzinken,Trifolium_pratense,NAT,NAT
+Stoderzinken,Rhinanthus_minor,NAT,NAT
+Stoderzinken,Cerastium_fontanum,NAT,NAT
+Stoderzinken,Plantago_media,NAT,NAT
+Stoderzinken,Achillea_millefolium,NAT,NAT
+Stoderzinken,Ranunculus_bulbosus,NAT,NAT
+Stoderzinken,Ranunculus_acris,NAT,NAT
+Stoderzinken,Ranunculus_repens,NAT,NAT
+Stoderzinken,Poa_alpina,NAT,NAT
+Temple,Stenaria_nigricans,NAT,NAT
+Temple,Andropogon_gerardii,NAT,NAT
+Temple,Lactuca_serriola,NA,NA
+Ukulinga,Themeda_triandra,NAT,NAT
+Ukulinga,Heteropogon_contortus,NAT,NAT
+Ukulinga,Scabiosa_columbaria,NAT,NAT
+Ukulinga,Cirsium_vulgare,INT,INT
+Ukulinga,Lantana_camara,INT,INT
+University of Michigan Biological Station,Centaurea_stoebe,INT,INT
+University of Michigan Biological Station,Verbascum_thapsus,INT,INT
+University of Michigan Biological Station,Erigeron_canadensis,NAT,NAT
+University of Michigan Biological Station,Cirsium_vulgare,INT,INT
+University of Michigan Biological Station,Tragopogon_dubius,NA,INT
+University of Wyoming - SAREC,Tragopogon_dubius,NA,INT
+University of Wyoming - SAREC,Bromus_tectorum,NA,INT
+University of Wyoming - SAREC,Lactuca_serriola,NA,INT
+WSL,Trifolium_pratense,NAT,NAT
+WSL,Ranunculus_acris,NAT,NAT
+WSL,Veronica_arvensis,NAT,NAT
+WSL,Rumex_obtusifolius,NAT,NAT
+WSL,Tragopogon_pratensis,NAT,NAT
+WSL,Achillea_millefolium,NAT,NAT
+WSL,Anthoxanthum_odoratum,NAT,NAT
+WSL,Knautia_arvensis,NAT,NAT
+WSL,Ranunculus_repens,NAT,NAT
+WSL,Centaurea_jacea,NAT,NAT
+Wallula Gap Biological Station-North Face,Achillea_millefolium,NAT,NAT
+Wallula Gap Biological Station-North Face,Bromus_tectorum,INT,INT
+Wallula Gap Biological Station-North Face,Lactuca_serriola,INT,INT
+Wallula Gap Biological Station-North Face,Tragopogon_dubius,INT,INT
+Wallula Gap Biological Station-South Face,Bromus_tectorum,INT,INT
+Wallula Gap Biological Station-South Face,Tragopogon_dubius,INT,INT
+Wallula Gap Biological Station-South Face,Achillea_millefolium,NAT,NAT
+Wytham Woods,Tragopogon_pratensis,NAT,NAT
+Wytham Woods,Ranunculus_acris,NAT,NAT
+Wytham Woods,Agrimonia_eupatoria,NAT,NAT
+Wytham Woods,Lotus_corniculatus,NAT,NAT
+Wytham Woods,Trifolium_pratense,NAT,NAT
+Wytham Woods,Cerastium_fontanum,NAT,NAT
+Wytham Woods,Ranunculus_repens,NAT,NAT
+Wytham Woods,Rosa_canina,NAT,NAT
+Wytham Woods,Primula_veris,NAT,NAT
+Wytham Woods,Linum_catharticum,NAT,NAT
+Wytham Woods,Ranunculus_bulbosus,NA,NAT
+Wytham Woods,Knautia_arvensis,NAT,NAT
+Wytham Woods,Rhinanthus_minor,NAT,NAT
+Wytham Woods,Cirsium_vulgare,NAT,NAT
+Wytham Woods,Cirsium_arvense,NAT,NAT
+Wytham Woods,Elymus_repens,NAT,NAT
+Wytham Woods,Arenaria_serpyllifolia,NAT,NAT
+Wytham Woods,Hypochaeris_radicata,NAT,NAT
+Wytham Woods,Myosotis_ramosissima,NAT,NAT

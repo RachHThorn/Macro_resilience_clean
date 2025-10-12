@@ -1,0 +1,19 @@
+Demographic variable,Phylogenetic test,Phylogenetic test value,p value
+Generation time,Blomberg_k,0.028064082696101708,0.6896896896896807
+Generation time,Pagel_lambda,7.354465302278716e-5,1
+Net reproductive rate,Blomberg_k,0.07347158507872009,0.2502502502502511
+Net reproductive rate,Pagel_lambda,0.10903246397300023,0.5850775806428616
+Per Capita Reproduction,Blomberg_k,0.06783481126686287,0.30430430430430394
+Per Capita Reproduction,Pagel_lambda,7.354465302278716e-5,1
+Mean Life Expectancy,Blomberg_k,0.06807165808194154,0.2432432432432441
+Mean Life Expectancy,Pagel_lambda,7.354465302278716e-5,1
+Age At First Reproduction,Blomberg_k,0.03438999678508191,0.49349349349348887
+Age At First Reproduction,Pagel_lambda,7.354465302278716e-5,1
+Population Growth Rate,Blomberg_k,0.04332059443998953,0.2732732732732736
+Population Growth Rate,Pagel_lambda,7.354465302278716e-5,1
+Reactivity,Blomberg_k,0.23596396372911646,0.058058058058057985
+Reactivity,Pagel_lambda,1.0028787713122318,1.5093647853295972e-6
+First step attenuation,Blomberg_k,0.039417147803219685,0.3533533533533519
+First step attenuation,Pagel_lambda,7.354465302278716e-5,1
+Maximum Life Expectancy,Blomberg_k,0.07296433296897317,0.19419419419419479
+Maximum Life Expectancy,Pagel_lambda,7.354465302278716e-5,1

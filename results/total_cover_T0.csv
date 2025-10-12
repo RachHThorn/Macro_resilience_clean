@@ -1,0 +1,217 @@
+site_name,year_trt,trt,mean_cover,experiment
+Agroscope Changins,T0,Control,101.63529411764705,CONTROL
+Agroscope Changins,T0,Disturbance,103.4956043956044,DIST
+Agroscope Changins,T0,NPK,101.67362637362638,NPK
+Agroscope Changins,T0,NPK+Disturbance,104.11739130434782,INTER
+Ainsdale Dune Slacks,T0,Control,254.70340909090908,CONTROL
+Ainsdale Dune Slacks,T0,Disturbance,245.44774774774774,DIST
+Algaida,T0,Control,65.04444444444445,CONTROL
+Algaida,T0,Disturbance,60.4,DIST
+Algaida,T0,NPK,93.87179487179488,NPK
+Algaida,T0,NPK+Disturbance,84.23809523809524,INTER
+Archbold Biological Station,T0,Control,92.96153846153847,CONTROL
+Archbold Biological Station,T0,Disturbance,99.55555555555556,DIST
+Archbold Biological Station,T0,NPK,107.75,NPK
+Archbold Biological Station,T0,NPK+Disturbance,97.78947368421052,INTER
+Bad Lauchstaedt,T0,Control,162.41346153846155,CONTROL
+Bad Lauchstaedt,T0,Disturbance,162.0068493150685,DIST
+Bad Lauchstaedt,T0,NPK,144.4920634920635,NPK
+Bad Lauchstaedt,T0,NPK+Disturbance,154.57333333333332,INTER
+Bayreuth DRAGNet,T0,Control,127.77464788732394,CONTROL
+Bayreuth DRAGNet,T0,Disturbance,133.03703703703704,DIST
+Bayreuth DRAGNet,T0,NPK,135.42372881355934,NPK
+Bayreuth DRAGNet,T0,NPK+Disturbance,115.5,INTER
+Bladen Lakes State Forest,T0,Control,84.92307692307692,CONTROL
+Bladen Lakes State Forest,T0,Disturbance,32.6,DIST
+Bladen Lakes State Forest,T0,NPK,34.44444444444444,NPK
+Bladen Lakes State Forest,T0,NPK+Disturbance,40.13333333333333,INTER
+Blandy Experimental Farm,T0,Control,56.65909090909091,CONTROL
+Blandy Experimental Farm,T0,Disturbance,65.0625,DIST
+Blandy Experimental Farm,T0,NPK,42.61538461538461,NPK
+Blandy Experimental Farm,T0,NPK+Disturbance,61.11904761904762,INTER
+Caracoles,T0,Control,55.333333333333336,CONTROL
+Caracoles,T0,Disturbance,81.4090909090909,DIST
+Caracoles,T0,NPK,90.41666666666667,NPK
+Caracoles,T0,NPK+Disturbance,62.86363636363637,INTER
+Cary IES,T0,Control,86.275,CONTROL
+Cary IES,T0,Disturbance,75.32,DIST
+Cary IES,T0,NPK,97.43181818181819,NPK
+Cary IES,T0,NPK+Disturbance,94.91666666666667,INTER
+Cass,T0,Control,98.87173913043478,CONTROL
+Cass,T0,Disturbance,104.23863636363636,DIST
+Cass,T0,NPK,110.945,NPK
+Cass,T0,NPK+Disturbance,97.44081632653061,INTER
+Castellanos,T0,Control,45.37837837837838,CONTROL
+Castellanos,T0,Disturbance,60.642857142857146,DIST
+Castellanos,T0,NPK,42.526315789473685,NPK
+Castellanos,T0,NPK+Disturbance,75.82222222222222,INTER
+Cedar Creek LTER,T0,Control,76.06666666666666,CONTROL
+Cedar Creek LTER,T0,Disturbance,78.64999999999999,DIST
+Cedar Creek LTER,T0,NPK,106.38076923076923,NPK
+Cedar Creek LTER,T0,NPK+Disturbance,107.18529411764706,INTER
+Churning Rapids,T0,Control,58.98,CONTROL
+Churning Rapids,T0,Disturbance,76.05882352941177,DIST
+Churning Rapids,T0,NPK,64.08510638297872,NPK
+Churning Rapids,T0,NPK+Disturbance,61.19047619047619,INTER
+Cowichan,T0,Control,89.3157894736842,CONTROL
+Cowichan,T0,Disturbance,83.50980392156863,DIST
+Cowichan,T0,NPK,86.52941176470588,NPK
+Cowichan,T0,NPK+Disturbance,91.81632653061224,INTER
+Dauphin Island,T0,Control,46,CONTROL
+Dauphin Island,T0,Disturbance,27.857142857142854,DIST
+Dauphin Island,T0,NPK,40.56,NPK
+Dauphin Island,T0,NPK+Disturbance,38.55555555555556,INTER
+Domaninek,T0,Control,101.18,CONTROL
+Domaninek,T0,Disturbance,108.94444444444444,DIST
+Domaninek,T0,NPK,75,NPK
+Domaninek,T0,NPK+Disturbance,86,INTER
+Fowlers Gap,T0,Control,61.11864406779661,CONTROL
+Fowlers Gap,T0,Disturbance,55.196969696969695,DIST
+Fowlers Gap,T0,NPK,55.578947368421055,NPK
+Fowlers Gap,T0,NPK+Disturbance,57.80769230769231,INTER
+GCE LTER - Sapelo Island,T0,Control,94,CONTROL
+GCE LTER - Sapelo Island,T0,Disturbance,92.5,DIST
+GCE LTER - Sapelo Island,T0,NPK,94.16666666666667,NPK
+GCE LTER - Sapelo Island,T0,NPK+Disturbance,92.5,INTER
+Hazelrigg,T0,Control,108.66666666666667,CONTROL
+Hazelrigg,T0,Disturbance,103.38461538461539,DIST
+Hazelrigg,T0,NPK,102.44,NPK
+Hazelrigg,T0,NPK+Disturbance,103.16666666666667,INTER
+Hobcaw Barony,T0,Control,28.102564102564102,CONTROL
+Hobcaw Barony,T0,Disturbance,29.545454545454547,DIST
+Hobcaw Barony,T0,NPK,35.878787878787875,NPK
+Hobcaw Barony,T0,NPK+Disturbance,26.756756756756758,INTER
+Hulun Buir,T0,Control,82.58943089430895,CONTROL
+Hulun Buir,T0,Disturbance,88.84848484848484,DIST
+Hulun Buir,T0,NPK,80.77586206896552,NPK
+Hulun Buir,T0,NPK+Disturbance,82,INTER
+Izaak Walton League of America (IWLA),T0,Control,112.51724137931035,CONTROL
+Izaak Walton League of America (IWLA),T0,Disturbance,98.25510204081633,DIST
+Izaak Walton League of America (IWLA),T0,NPK,102.73611111111111,NPK
+Izaak Walton League of America (IWLA),T0,NPK+Disturbance,99.95,INTER
+Jasper Ridge Biological Preserve,T0,Control,88,CONTROL
+Jasper Ridge Biological Preserve,T0,Disturbance,98.92307692307692,DIST
+Jasper Ridge Biological Preserve,T0,NPK,82.76923076923077,NPK
+Jasper Ridge Biological Preserve,T0,NPK+Disturbance,99.64285714285714,INTER
+Jena,T0,Control,188.10256410256412,CONTROL
+Jena,T0,Disturbance,154.58235294117648,DIST
+Jena,T0,NPK,154.36,NPK
+Jena,T0,NPK+Disturbance,196.12626262626262,INTER
+Kellogg Biological Station (KBS),T0,Control,116.93333333333334,CONTROL
+Kellogg Biological Station (KBS),T0,Disturbance,114.92592592592592,DIST
+Kellogg Biological Station (KBS),T0,NPK,119.12820512820512,NPK
+Kellogg Biological Station (KBS),T0,NPK+Disturbance,111.21052631578948,INTER
+Kniezenberg,T0,Control,101.23728813559322,CONTROL
+Kniezenberg,T0,Disturbance,113.83333333333333,DIST
+Kniezenberg,T0,NPK,108.26153846153846,NPK
+Kniezenberg,T0,NPK+Disturbance,105.72222222222223,INTER
+Konza LTER DRAGNet,T0,Control,111.88235294117646,CONTROL
+Konza LTER DRAGNet,T0,Disturbance,113.97872340425532,DIST
+Konza LTER DRAGNet,T0,NPK,110.75409836065573,NPK
+Konza LTER DRAGNet,T0,NPK+Disturbance,99.46808510638297,INTER
+LSU Botanical Garden,T0,Control,73.66666666666667,CONTROL
+LSU Botanical Garden,T0,Disturbance,84.30882352941177,DIST
+LSU Botanical Garden,T0,NPK,53.06818181818182,NPK
+LSU Botanical Garden,T0,NPK+Disturbance,38.644067796610166,INTER
+Ladybird Johnson Wildflower Center,T0,Control,111.04891304347827,CONTROL
+Ladybird Johnson Wildflower Center,T0,Disturbance,62.7109375,DIST
+Ladybird Johnson Wildflower Center,T0,NPK,59.19417475728155,NPK
+Ladybird Johnson Wildflower Center,T0,NPK+Disturbance,59.25409836065574,INTER
+Lublin,T0,Control,150.080303030303,CONTROL
+Lublin,T0,Disturbance,144.5142857142857,DIST
+Lublin,T0,NPK,170.13636363636363,NPK
+Lublin,T0,NPK+Disturbance,154.49264705882354,INTER
+Mendoza,T0,Control,99.25,CONTROL
+Mendoza,T0,Disturbance,82.85714285714286,DIST
+Mendoza,T0,NPK,97.66666666666667,NPK
+Mendoza,T0,NPK+Disturbance,91.33333333333333,INTER
+Meranges,T0,Control,130.66666666666666,CONTROL
+Meranges,T0,Disturbance,139.33333333333334,DIST
+Meranges,T0,NPK,159.7608695652174,NPK
+Meranges,T0,NPK+Disturbance,127.95652173913044,INTER
+Millville,T0,Control,22.5,CONTROL
+Millville,T0,Disturbance,27.058823529411764,DIST
+Millville,T0,NPK,22.25,NPK
+Millville,T0,NPK+Disturbance,25.58823529411765,INTER
+Morella la Vella,T0,Control,89.53125,CONTROL
+Morella la Vella,T0,Disturbance,99.06818181818181,DIST
+Morella la Vella,T0,NPK,124.24242424242425,NPK
+Morella la Vella,T0,NPK+Disturbance,129.7941176470588,INTER
+Nillahcootie,T0,Control,100.31394736842105,CONTROL
+Nillahcootie,T0,Disturbance,103.76341463414634,DIST
+Nillahcootie,T0,NPK,101.65128205128204,NPK
+Nillahcootie,T0,NPK+Disturbance,99.31232558139534,INTER
+Oak Lake Field Station,T0,Control,42.08695652173913,CONTROL
+Oak Lake Field Station,T0,Disturbance,43.48837209302326,DIST
+Oak Lake Field Station,T0,NPK,32.75757575757576,NPK
+Oak Lake Field Station,T0,NPK+Disturbance,38.114285714285714,INTER
+Park Shaked,T0,Control,117.5,CONTROL
+Park Shaked,T0,Disturbance,150.2,DIST
+Park Shaked,T0,NPK,161.00000000000003,NPK
+Park Shaked,T0,NPK+Disturbance,173.5,INTER
+Piedmont Prairie,T0,Control,15.934285714285714,CONTROL
+Piedmont Prairie,T0,Disturbance,36.331818181818186,DIST
+Piedmont Prairie,T0,NPK,15.434375000000001,NPK
+Piedmont Prairie,T0,NPK+Disturbance,18.265,INTER
+Potrok Aike,T0,Control,33.48148148148148,CONTROL
+Potrok Aike,T0,Disturbance,35.5,DIST
+Potrok Aike,T0,NPK,40.892857142857146,NPK
+Potrok Aike,T0,NPK+Disturbance,38.14705882352941,INTER
+Saihanba,T0,Control,115.03571428571429,CONTROL
+Saihanba,T0,Disturbance,105.30578512396694,DIST
+Saihanba,T0,NPK,109.8305785123967,NPK
+Saihanba,T0,NPK+Disturbance,101.38345864661655,INTER
+San Claudio,T0,Control,76.1029411764706,CONTROL
+San Claudio,T0,Disturbance,92.27985074626865,DIST
+San Claudio,T0,NPK,72.97222222222223,NPK
+San Claudio,T0,NPK+Disturbance,84.39344262295081,INTER
+Sandflats,T0,Control,11.4,CONTROL
+Sandflats,T0,Disturbance,21.919354838709676,DIST
+Sandflats,T0,NPK,13.089285714285714,NPK
+Sandflats,T0,NPK+Disturbance,14.444444444444445,INTER
+Shortgrass Steppe LTER,T0,Control,47.57692307692308,CONTROL
+Shortgrass Steppe LTER,T0,Disturbance,43.774193548387096,DIST
+Shortgrass Steppe LTER,T0,NPK,51.78260869565217,NPK
+Shortgrass Steppe LTER,T0,NPK+Disturbance,48.0625,INTER
+Sierra Foothills REC,T0,Control,86.60526315789474,CONTROL
+Sierra Foothills REC,T0,Disturbance,91.84848484848484,DIST
+Sierra Foothills REC,T0,NPK,80.76153846153846,NPK
+Sierra Foothills REC,T0,NPK+Disturbance,80.29850746268657,INTER
+Songyuan,T0,Control,56.2,CONTROL
+Songyuan,T0,Disturbance,71.36,DIST
+Songyuan,T0,NPK,66.46153846153847,NPK
+Songyuan,T0,NPK+Disturbance,75.57692307692308,INTER
+Stoderzinken,T0,Control,45.628571428571426,CONTROL
+Stoderzinken,T0,Disturbance,42.59701492537314,DIST
+Temple,T0,Control,228.9,CONTROL
+Temple,T0,Disturbance,211.43434343434345,DIST
+Temple,T0,NPK,201.37234042553192,NPK
+Temple,T0,NPK+Disturbance,216.48648648648648,INTER
+Ukulinga,T0,Control,181.6206896551724,CONTROL
+Ukulinga,T0,Disturbance,168.16129032258064,DIST
+Ukulinga,T0,NPK,178.57142857142858,NPK
+Ukulinga,T0,NPK+Disturbance,166.38709677419354,INTER
+University of Michigan Biological Station,T0,Control,72.92857142857143,CONTROL
+University of Michigan Biological Station,T0,Disturbance,49.07142857142857,DIST
+University of Michigan Biological Station,T0,NPK,65.08,NPK
+University of Michigan Biological Station,T0,NPK+Disturbance,69.89473684210526,INTER
+University of Wyoming - SAREC,T0,Control,49.52058823529412,CONTROL
+University of Wyoming - SAREC,T0,Disturbance,54.973684210526315,DIST
+University of Wyoming - SAREC,T0,NPK,50.18181818181818,NPK
+University of Wyoming - SAREC,T0,NPK+Disturbance,49.026315789473685,INTER
+WSL,T0,Control,135.95689655172413,CONTROL
+WSL,T0,Disturbance,130.3706896551724,DIST
+WSL,T0,NPK,149.26315789473685,NPK
+WSL,T0,NPK+Disturbance,121.43454545454546,INTER
+Wallula Gap Biological Station-North Face,T0,Control,29.4375,CONTROL
+Wallula Gap Biological Station-North Face,T0,Disturbance,11.24390243902439,DIST
+Wallula Gap Biological Station-North Face,T0,NPK,10.78125,NPK
+Wallula Gap Biological Station-North Face,T0,NPK+Disturbance,10.833333333333334,INTER
+Wallula Gap Biological Station-South Face,T0,Control,28.46153846153846,CONTROL
+Wallula Gap Biological Station-South Face,T0,Disturbance,19.125,DIST
+Wallula Gap Biological Station-South Face,T0,NPK,30.08695652173913,NPK
+Wallula Gap Biological Station-South Face,T0,NPK+Disturbance,25.2,INTER
+Wytham Woods,T0,Control,129.359756097561,CONTROL
+Wytham Woods,T0,Disturbance,211.81818181818184,DIST
+Wytham Woods,T0,NPK,188.2,NPK
+Wytham Woods,T0,NPK+Disturbance,133.43154761904762,INTER

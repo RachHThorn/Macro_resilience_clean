@@ -1,9 +1,10 @@
 # R Thornley
 # 09/09/2025
+# Project: P1_COMPADRE_DRAGNET
+# T1_variables.R
 # Table of Variables for manuscript
 
-library(tidyverse)
-library(gt)
+rm(list = ls())
 
 ################################################################################
 #  Build text data as a plain data.frame
@@ -124,15 +125,8 @@ tab_bw <- vars_ordered |>
   ) 
 tab_bw
 
-
-
-# export the table (size is to cover a half width of a column in a journal)
-gtsave(tab_bw, "figures/T1_variables_table_bw_half_width.pdf", vwidth = 1200)
-
-gtsave(
-  data = tab_bw,
-  "figures/T1_variables_table_bw_half_width.pdf",
-  vwidth = 700)
+# export table
+# this actually is not the best res. (need to modify this)
 gtsave(
   tab_bw,
   filename = "figures/T1_final.png",

@@ -74,7 +74,7 @@ Com_dat <- Com_dat %>% mutate(SpeciesAccepted = str_replace_all(SpeciesAccepted,
 Com_dat$SpeciesAccepted
 Com_dat <- Com_dat %>% filter(SpeciesAccepted %in% common)
 names(Com_dat)
-Com_dat <- Com_dat %>% as.tibble() %>% select(MatrixID, SpeciesAccepted, Lat, Lon, Country, Continent, DOI_ISBN)
+Com_dat <- Com_dat %>% as.tibble() %>% dplyr::select(MatrixID, SpeciesAccepted, Lat, Lon, Country, Continent, DOI_ISBN)
 Com_dat <- Com_dat %>% drop_na(Lat) %>% distinct(Lat, Lon, SpeciesAccepted, .keep_all=TRUE)
 
 write_csv(Com_dat, "results/matrix_locations_dragnet.csv")
@@ -92,7 +92,7 @@ blocks_surveyed <- drag %>%
   summarise(n_block = n_distinct(block)) %>%
   pivot_wider(names_from = year_trt, values_from = n_block) %>% 
   replace(is.na(.),0) %>%
-  select(site_name, "-1", "0", "1", "2", "3", "4", "5") %>%
+  dplyr::select(site_name, "-1", "0", "1", "2", "3", "4", "5") %>%
   print(n = 56)
 
 colnames(blocks_surveyed)

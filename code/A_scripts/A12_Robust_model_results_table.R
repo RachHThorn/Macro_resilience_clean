@@ -5,8 +5,6 @@
 # for the univariate OLS results
 # for the community results
 
-library(tidyverse) 
-
 ################################################################################
 # BIVARIATE OLS TABLE
 ################################################################################
