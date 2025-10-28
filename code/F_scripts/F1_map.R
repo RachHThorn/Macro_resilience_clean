@@ -17,7 +17,7 @@
 ################################################################################
 
 # DRAGNet data load
-Drag <- read_csv("results/RE_SE_Taxon_site_all_DRAGNet.csv") %>%
+Drag_dat <- read_csv("results/RE_SE_Taxon_site_all_DRAGNet.csv") %>%
   filter(group_var == "taxon_site") %>%
   filter(model == "Ordbeta") %>%
   separate(group, into = c("sp1", "sp2", "site_name"), sep = "_") %>%
@@ -26,12 +26,12 @@ Drag <- read_csv("results/RE_SE_Taxon_site_all_DRAGNet.csv") %>%
 
 # Load the list of taxa used in the modelling and filter the DRAGNet data for these taxa
 mod_taxa <- readRDS("results/List_taxa_OLS_mods.R")
-Drag <- Drag %>% filter(Taxon %in% mod_taxa)
-Drag <- Drag %>% filter(experiment %in% c("DIST", "NPK"))
-Drag <- Drag %>% 
+Drag <- 
+  Drag_dat %>% filter(Taxon %in% mod_taxa) %>%
+  filter(experiment %in% c("DIST", "NPK")) %>%
   count(site_name, name = "number_species_occ_in_site") %>%
   arrange(-number_species_occ_in_site)
-
+# get a unique list of sites we are using
 list_sites <- unique(Drag$site_name)
 
 # load the DRAGNet meta data

@@ -43,7 +43,7 @@ demo <- read_csv("results/all_COMPADRE_metrics.csv") %>%
 demo %>% group_by(Taxon, Demo_trait) %>% count()
 
 # save a vector of taxa names to use in the next stage of modelling
-comp_taxa <- unique(demo$Taxon) # 41 taxa
+comp_taxa <- unique(demo$Taxon) # 42 taxa
 comp_taxa
 
 # read in effect sizes from the whole of DRAGNet 

@@ -94,7 +94,7 @@ process_dragnet <- function(drag, wanted_file_path, years) {
 species <- 
   read_csv("results/common_species_drag_comp.csv") %>%
   pull(x)
-length(species) # 84 species that overlap
+length(species) # 85 species that overlap
 
 
 ################################################################################
