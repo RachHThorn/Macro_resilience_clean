@@ -3,6 +3,8 @@
 # Project: P1_COMPADRE_DRAGNET
 # Script: S3_GLMM_extract_random_effects_all_DRAG_data
 
+rm(list = ls())
+
 ################################################################################
 # Instructions
 ################################################################################

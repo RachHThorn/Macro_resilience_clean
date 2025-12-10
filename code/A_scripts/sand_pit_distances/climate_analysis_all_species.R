@@ -3,12 +3,6 @@
 # Project: P1_COMPADRE_DRAGNET
 # Appendices data overlap: distance metrics for climate data 
 
-library(tidyverse)
-library(terra)
-library(sp)
-library(geodata)
-library(proxy) # for the distance metrics
-library(purrr)
 
 ################################################################################
 # 1) READ IN THE DATA - extract the climate variables for DRAGNet and COMPADRE
