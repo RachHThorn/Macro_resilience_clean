@@ -49,7 +49,7 @@ demo <- demo %>%
 demo %>% group_by(Taxon, Demo_trait) %>% count()
 
 # save a vector of taxa names to use in the modelling
-comp_taxa <- unique(demo$Taxon) # 41 taxa
+comp_taxa <- unique(demo$Taxon) # 42 taxa
 
 # read in effect sizes from the whole of DRAGNet 
 taxa <- read_csv("results/RE_SE_Taxon_all_DRAGNet.csv")
@@ -69,7 +69,7 @@ taxa <-
   rename(Taxon = group, RE = value, RE_se = se) %>%
   filter(ID == "1")
 names(taxa)
-unique(taxa$Taxon) # 40 unique taxa here
+unique(taxa$Taxon) # 41 unique taxa here
 
 # first simplify the demo data to just the mean values
 demo <- 
@@ -97,7 +97,7 @@ unique(both$Taxon)
 
 # export that list of species we are using in the final models
 taxa_list <- unique(both$Taxon)
-length(taxa_list) # 40 taxa here
+length(taxa_list) # 41 taxa here
 saveRDS(taxa_list, "results/List_taxa_OLS_mods.R")
 
 # save the modelling data
@@ -113,8 +113,8 @@ nested_both <- both %>% group_by(model, time_period, experiment, Demo_trait) %>%
 # clean up data frame by removing rows with NA/ INF etc.
 nested_clean <- 
   nested_both %>%
-  mutate(data = map(data, ~ .x %>% dplyr::select(Taxon, RE, Demo_value))) %>%
-  mutate(data = map(data, ~ .x %>% 
+  mutate(data = purrr::map(data, ~ .x %>% dplyr::select(Taxon, RE, Demo_value))) %>%
+  mutate(data = purrr::map(data, ~ .x %>% 
                       filter(if_all(everything(), ~ is.finite(Demo_value))) %>%  # keep only finite values
                       drop_na(Demo_value)))
 
@@ -167,28 +167,30 @@ augment_lmrob <- function(m) {
 }
 
 # Now run the models / get results / 
-robust_models_3 <- 
+robust_models <- 
   nested_clean %>%
-  mutate(mod = map(data, fit_rlm_safe_lmrob)) %>%
-  mutate(results = map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x))) %>%
-  mutate(aug = map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x)))
+  mutate(mod = purrr::map(data, fit_rlm_safe_lmrob)) %>%
+  mutate(results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x))) %>%
+  mutate(aug = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))) %>%
+  mutate(r2 = purrr::map_dbl(mod, ~ if (is.null(.x)) NA_real_ else summary(.x)$r.squared)) %>%
+  mutate(confint = purrr::map(mod, ~ if (is.null(.x)) tibble() else as_tibble(confint(.x), rownames = "term")))
 
 # save to disk for model checking and plotting
-saveRDS(robust_models_3, file = "results/robust_model_results.rds")
+saveRDS(robust_models, file = "results/robust_model_results.rds")
 
 ################################################################################
-# 5) VISUALISE (ROUGH) results of the models / filter for significant terms
+# 5) VISUALISE (ROUGH) results of the models / filter for significant terms for checking
 ################################################################################
 
 # extract the results of these models 
 # filter out the estimate and p-value for the New_demo_value term only
-robust_results_3 <- robust_models_3 %>%
+robust_results <- robust_models %>%
   dplyr::select(time_period, experiment, model, Demo_trait, results) %>%
   unnest(results) %>%
   filter(term == "Demo_value")
 
 # visualise the effect sizes and their std. error for the Ordbeta model
-robust_results_3 %>%
+robust_results %>%
   filter(model == "Ordbeta") %>%
   ggplot(aes(estimate, Demo_trait)) + 
   theme_bw()+
@@ -201,6 +203,5 @@ robust_results_3 %>%
 # ggsave("figures/Robust_3_effects_logged_vars.jpeg", height = 5, width = 12)
 
 # filter out any significant terms for the ordered beta model
-robust_results_3 %>% filter(model == "Ordbeta") %>% filter(p.value < 0.05)
-# the p-values are very small with this estimator - is this an issue????
+robust_results %>% filter(model == "Ordbeta") %>% filter(p.value < 0.05)
 

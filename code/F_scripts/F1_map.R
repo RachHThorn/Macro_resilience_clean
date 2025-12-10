@@ -79,7 +79,7 @@ make_robin_bbox <- function(lat_min = -60, lat_max = 80,
     ymin = bb_proj["ymin"], ymax = bb_proj["ymax"])
 }
 
-# Crop to remove empty polar space (tweak lat range if desired)
+# Crop to remove empty polar space (tweak lat/long range if desired)
 crop_bbox <- make_robin_bbox(lat_min = -60, lat_max = 80)
 
 ################################################################################
@@ -93,10 +93,16 @@ TOP_ROW_REL   <- 0.9   # relative height of top row (maps)
 BOT_ROW_REL   <- 1.1   # relative height of bottom row (hypothesis)
 MAX_DOT_MM    <- 3.8   # max symbol size (consistent across maps)
 
+# colour palette specify
 col_green  <- "#37a354"
 col_orange <- "#f39c12"
 
-# ── Legend break helpers ───────────────────────────────────────────────────────
+################################################################################
+# 4) HELPER FUNCTIONS 
+################################################################################
+
+# Breaks for the DRAGNet map categories
+# function that specifies the number of 'breaks' required for the nos of sites included
 get_quantile_breaks <- function(z) {
   z <- z[is.finite(z) & z > 0]
   if (!length(z)) return(NULL)
@@ -110,7 +116,9 @@ get_quantile_breaks <- function(z) {
   br
 }
 
-
+# Breaks for the COMPADRE map categories
+# function that specifies the number of 'breaks' required for the nos of matrices included
+# quantile breaks
 get_compadre_breaks <- function(z) {
   z <- z[is.finite(z) & z > 0]
   if (!length(z)) return(NULL)
@@ -124,8 +132,30 @@ get_compadre_breaks <- function(z) {
   br
 }
 
-# ── Generic point map with 4-side border and no axis lines ────────────────────
-make_point_map <- function(df, lon, lat, size_col, fill_color, title_text,
+# Breaks specified manually
+get_compadre_breaks_manual <- function(z, breaks = c(1, 10, 36)) {
+  # keep only finite positive values
+  z <- z[is.finite(z) & z > 0]
+  if (!length(z)) return(NULL)
+  
+  # ensure min and max coverage
+  min_z <- min(z)
+  max_z <- max(z)
+  
+  br <- sort(unique(c(min_z, breaks, max_z)))
+  
+  br
+}
+
+matrix_locations$number_matrices
+cover_locations$number_species_occ_in_site
+
+################################################################################
+# 5a) MAP CREATION FUNCTION WITH BREAKS DISCRETELY SPECIFIED as quantile functions
+################################################################################
+
+# function to make the global maps for both data sets with discrete breaks
+make_point_map_discrete <- function(df, lon, lat, size_col, fill_color, title_text,
                            legend_title = "Amount of data",
                            breaks = NULL,
                            max_pt_mm = MAX_DOT_MM, base_pt = 8.5, title_pt = 8) {
@@ -178,17 +208,91 @@ make_point_map <- function(df, lon, lat, size_col, fill_color, title_text,
     )
 }
 
-# ── Build maps with required legend logic ──────────────────────────────────────
-comp_breaks <- get_compadre_breaks(matrix_locations$number_matrices)
-p_matrices <- make_point_map(
+################################################################################
+# 5b) MAP FUNCTION WITH BREAKS CONTIUNOUSLY SPECIFIED
+################################################################################
+
+# function to make the global maps for both data sets with continuous breaks
+make_point_map_cont <- function(df, lon, lat, size_col, fill_color, title_text,
+                           legend_title = "Amount of data",
+                           max_pt_mm = MAX_DOT_MM, min_pt_mm = 1.25,
+                           base_pt = 8.5, title_pt = 8,
+                           trans = "sqrt") {
+  # build sf points in Robinson projection
+  pts <- sf::st_as_sf(df, coords = c(lon, lat), crs = 4326) |>
+    sf::st_transform(crs_robin)
+  
+  # label formatter for legend
+  lab_fmt <- scales::label_number(accuracy = 1, big.mark = ",")
+  
+  # keep only finite positive values for sizing; others plotted but not sized
+  vals <- pts[[size_col]]
+  vals_ok <- is.finite(vals) & vals > 0
+  pts[[size_col]][!vals_ok] <- NA_real_
+  
+  ggplot() +
+    geom_sf(data = world_p, fill = "grey96", color = "grey80", linewidth = 0.2) +
+    geom_sf(
+      data = pts, aes(size = .data[[size_col]]),
+      shape = 21, fill = fill_color, color = "black",
+      stroke = 0.20, alpha = 0.85
+    ) +
+    coord_sf(
+      crs = crs_robin,
+      xlim = c(crop_bbox["xmin"], crop_bbox["xmax"]),
+      ylim = c(crop_bbox["ymin"], crop_bbox["ymax"]),
+      expand = FALSE
+    ) +
+    # continuous size scaling
+    scale_size_continuous(
+      name   = legend_title,
+      range  = c(min_pt_mm, max_pt_mm),   # size in mm for smallest/largest dots
+      trans  = trans,                     # e.g., "sqrt" (default), "log10", or "identity"
+      labels = lab_fmt
+    ) +
+    labs(title = title_text, x = NULL, y = NULL) +
+    theme_classic(base_size = base_pt) +
+    theme(
+      plot.title       = element_text(size = title_pt, face = "bold",
+                                      lineheight = 1.0, margin = margin(b = 1)),
+      axis.text        = element_blank(),
+      axis.ticks       = element_blank(),
+      axis.line        = element_blank(),
+      panel.border     = element_rect(colour = "black", fill = NA, linewidth = 0.3),
+      legend.position  = "top",
+      legend.direction = "horizontal",
+      legend.title     = element_text(size = base_pt),
+      legend.text      = element_text(size = base_pt - 0.5),
+      legend.key.width  = unit(6, "mm"),
+      legend.key.height = unit(3, "mm"),
+      legend.spacing.x  = unit(1, "mm"),
+      legend.spacing.y  = unit(0.5, "mm"),
+      legend.margin     = margin(0,0,0,0),
+      legend.box.margin = margin(0,0,0,0),
+      plot.margin       = margin(1, 2, 1, 2),
+      aspect.ratio      = 0.55
+    )
+}
+
+
+#################################################################################
+# 5c) BUILD MAPS WITH BREAKS SPECIFIED MANUALLY
+################################################################################
+
+# use the helper functions to get the breaks required for the nos of matrices
+comp_breaks <- get_compadre_breaks_manual(matrix_locations$number_matrices)
+# now build the map from the function
+p_matrices <- make_point_map_discrete(
   matrix_locations, "Lon", "Lat", "number_matrices",
   col_green,
   "A) COMPADRE — points sized by number of matrices",
   legend_title = "Matrices per site",
-  breaks = comp_breaks
-)
+  breaks = comp_breaks)
+p_matrices
 
+# use the helper functions to get the breaks required for the nos of species in each site
 drag_breaks <- get_quantile_breaks(cover_locations$number_species_occ_in_site)
+# now build the map from the function
 p_cover <- make_point_map(
   cover_locations, "longitude", "latitude", "number_species_occ_in_site",
   col_orange,
@@ -196,6 +300,23 @@ p_cover <- make_point_map(
   legend_title = "Species records per site",
   breaks = drag_breaks
 )
+p_cover
+
+#################################################################################
+# BUILD MAPS WITH BREAKS CONTINUOUS
+################################################################################
+
+# use the helper functions to get the breaks required for the nos of matrices
+comp_breaks <- get_compadre_breaks(matrix_locations$number_matrices)
+# now build the map from the function
+p_matrices <- make_point_map_cont(
+  matrix_locations, "Lon", "Lat", "number_matrices",
+  col_green,
+  "A) COMPADRE — points sized by number of matrices",
+  legend_title = "Matrices per site")
+p_matrices
+matrix_locations
+
 
 ################################################################################
 # 4) PUT TOGETHER FINAL FIGURE 
@@ -203,7 +324,7 @@ p_cover <- make_point_map(
 # and make then accompanying maps
 ################################################################################
 
-# ── Panel C: title as a separate row (no overlap) ─────────────────────────────
+# ── Panel A: title as a separate row (no overlap) ─────────────────────────────
 graphic_path <- "figures/Hypothesis_figure.tiff"
 img <- magick::image_read(graphic_path) |> magick::image_trim()
 
@@ -231,12 +352,15 @@ p_graphic <- patchwork::wrap_plots(
   heights = c(0.08, 0.92)  # adjust to move title higher/lower
 )
 
+################################################################################
 # ── Layout: AB on top, CC full-width bottom ───────────────────────────────────
+################################################################################
+
 design <- "
 AB
 CC
 "
-p_full <- (p_matrices + p_cover + p_graphic) +
+p_full <- (p_graphic + p_matrices + p_cover) +
   patchwork::plot_layout(design = design,
               heights = c(TOP_ROW_REL, BOT_ROW_REL))
 p_full

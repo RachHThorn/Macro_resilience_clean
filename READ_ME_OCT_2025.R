@@ -18,7 +18,7 @@ packages <- c("rstan", "assertthat", "remotes", "mixedup", "tidyverse", "Rcompad
               "popbio", "popdemo", 'Rage', "glmmTMB", "lme4", 'mixedup', 'DHARMa', 'broom', 
               "MASS", 'robustbase', 'vegan', 'rtry', 'ggtern', 'patchwork', 'gt', 
               "phytools", "ape", "kableExtra", "gt", "sf", "rnaturalearth", "rnaturalearthdata",
-              "scales", "magick")
+              "scales", "magick", "ggh4x")
 
 for (p in packages) {
   if (!requireNamespace(p, quietly = TRUE)) {
@@ -27,6 +27,7 @@ for (p in packages) {
   library(p, character.only = TRUE)
 }
 
+################################################################################
 
 library(tidyverse) # general data wrangling
 library(Rcompadre) # package to interact with COMPADRE database
@@ -57,14 +58,16 @@ library(ggtern) # plotting CSR strategies in ternary plot (this won't load now i
 library(patchwork) # helps in creating plot layouts within ggplot
 library(gt) # creates tables
 library(kableExtra)
+library(ggh4x)
 
-library(sf) # plotting vector data for maps
 library(rnaturalearth) # plotting maps 
 library(rnaturalearthdata) # plotting maps
 library(scales) # for displaying maps 
 library(magick) # for trimming and displaying maps 
 
 library(gt) # for modifying tables
+
+library(sf) # plotting vector data for maps
 
 ################################################################################
 # Data Processing and Analysis Scripts # (folder: S_scripts)
@@ -108,7 +111,7 @@ source("code/S_scripts/S9_comm_OLS_models_robust_scaled.R")
 # Figure 1: Map figure with hypotheses
 source("code/F_scripts/F1_map.R")
 
-# Figure 2 is a schematic of the analysis work flow and is producde outside R
+# Figure 2 is a schematic of the analysis work flow and is produced outside R
 
 # Figure 3: Robust OLS 
 source("code/F_scripts/F3_robust_OLS_effects.R")
@@ -156,3 +159,5 @@ source("code/A_scripts/A12_robust_model_results_table.R")
 
 # A13: Predictions of interactions by hypothesis
 source("code/A_scripts/A13_results_interactions_by_hypoth.R")
+
+# 

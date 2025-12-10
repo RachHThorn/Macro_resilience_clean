@@ -42,7 +42,7 @@ Drag_taxa <- read_csv("data/full-cover-2025-09-11.csv") %>%
   dplyr::select(New_taxon) %>%
   pull(New_taxon)
 
-length(Drag_taxa) # there are 1301 taxa in the DRAGNet data set
+length(Drag_taxa) # there are 1346 taxa in the DRAGNet data set
 Drag_taxa # all these names now look ok = all taxa and no subspecies present
 write.csv(Drag_taxa, "results/all_drag_taxa.csv") # export a list of taxa found in DRAGNet 
 
@@ -61,11 +61,12 @@ Com_taxa <- str_replace_all(Com_taxa, " ", "_")
 
 # Find shared taxa between the two data sets
 common <- Com_taxa[Com_taxa %in% Drag_taxa] 
-length(common) # there are 84 shared taxa
+common
+length(common) # there are 85 shared taxa
 write.csv(common, "results/common_species_drag_comp.csv")
 
 ################################################################################
-# 3) Get a filtered compadre data base with the 82 shared taxa locations for plotting
+# 3) Get a filtered compadre data base with the 85 shared taxa locations for plotting
 ################################################################################
 
 Com_dat <- cdb_fetch("compadre")

@@ -34,13 +34,13 @@ NPK <- data %>% filter(trt %in% NPK)
 
 # model options 
 
-# model 1: 
+# model 1 
 mod_1 <- glmmTMB(
   new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
   family = ordbeta(link = "logit"),
   data = DIST)
 
-# model 2: 
+# model 2 
 mod_2 <- glmmTMB(
   new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
   family = beta_family(link = "logit"),
@@ -50,56 +50,18 @@ mod_2 <- glmmTMB(
 # model 3
 mod_3 <- glmmTMB(
   new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
-  family = beta_family(link = "logit"),
-  ziformula = ~ 1 + trt * year_trt,
-  data = DIST)
+  family = ordbeta(link = "logit"),
+  data = NPK)
 
 # model 4
 mod_4 <- glmmTMB(
   new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
   family = beta_family(link = "logit"),
   ziformula = ~ 1 + trt * year_trt,
-  data = DIST)
-
-# model 5
-mod_5 <- glmmTMB(
-  new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
-  family = ordbeta(link = "logit"),
   data = NPK)
-
-# model 6
-mod_6 <- glmmTMB(
-  new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
-  family = ordbeta(link = "logit"),
-  data = NPK)
-
-# model 7
-mod_7 <- glmmTMB(
-  new_max_cover ~ trt * year_trt + (1|New_taxon) + (1|site_block_taxon),
-  family = ordbeta(link = "logit"),
-  data = NPK)
-
 
 ###############################################################################
 
-# now these 2 models won't converge and I don't get why -
-# leave for now and figure out later
-
-# model 3:
-mod_3 <- glmmTMB(
-  new_max_cover ~ trt * year_trt + (1|taxon_site) + (1|site_block_taxon),
-  family = ordbeta(link = "logit"),
-  data = data)
-
-# model 4: 
-mod_4 <- glmmTMB(
-  new_max_cover ~ trt * year_trt + (1|taxon_site) + (1|site_block_taxon),
-  family = beta_family(link = "logit"),
-  ziformula = ~ 1 + trt * year_trt,
-  data = data)
-
-
-###############################################################################
 #function to extract model R2 and variances
 create_model_summary <- function(model){
   
@@ -125,24 +87,30 @@ create_model_summary <- function(model){
 }
 
 mod_1 <- create_model_summary(mod_1)
+mod_1$model <- "Ordered_beta"
+mod_1$treatment <- "Disturbance"
 mod_2 <- create_model_summary(mod_2)    
+mod_2$model <- "Hurdle"
+mod_2$treatment <- "NPK"
 mod_3 <- create_model_summary(mod_3)
+mod_3$model <- "Ordered_beta"
+mod_3$treatment <- "Disturbance"
 mod_4 <- create_model_summary(mod_4)
+mod_4$model <- "Hurdle"
+mod_4$treatment <- "NPK"
+
 
 results <- rbind(mod_1, mod_2, mod_3, mod_4)
+results$random_effect <- "Species"
+results <- results[c(1:3, 10:14)]
+names(results)
+names(results) <- c("Marginal R2", "Conditional R2", "ICC", "Prop. of var. (fixed)", 
+                 "Prop. of var. (random)", "Prop. of var. (residual)", "Model", "Treatment")
+results <- results %>% dplyr::select(Model, Treatment, everything())
 
-################################################################################
+write_csv(results, "results/Model_comparison_table_app.csv")
 
-mod_1$model <- "Ordbeta"
-mod_2$model <- "Hurdle"
-
-both <- rbind(mod_1, mod_2)
-both <- both[c(1:3, 10:13)]
-names(both) <- c("Marginal R2", "Conditional R2", "ICC", "Prop. of var. (fixed)", 
-                 "Prop. of var. (random)", "Prop. of var. (residual)", "Model")
-both <- both %>% dplyr::select(Model, everything())
-
-write_csv(both, "figures/Model_comparison_table_app.csv")
+# this is the result in the appendices as of 01/12/2025
 
 ###############################################################################
 # RUN THIS CODE FOR ALL MODELS

@@ -172,7 +172,9 @@ csr <- read_csv("data/CSR_results_StateFy.csv", show_col_types = FALSE) %>%
 CSRtable <- csr %>%
   dplyr::select(AccSpeciesName, percent_c, percent_s, percent_r) %>%
   rename(Taxon = AccSpeciesName, C = percent_c, S = percent_s, R = percent_r) %>%
-  as.data.frame()                                     # base df
+  as.data.frame()
+
+unique(CSRtable$Taxon)
 
 # robust name parsing
 CSRtable <- CSRtable %>%

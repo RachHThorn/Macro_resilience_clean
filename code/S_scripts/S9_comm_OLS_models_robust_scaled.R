@@ -73,7 +73,7 @@ taxa <- taxa %>%
   rename(Taxon_site = group, RE = value, RE_se = se) %>%
   filter(ID == "1")
 names(taxa)
-unique(taxa$Taxon) # 40 unique taxa here
+unique(taxa$Taxon) # 41 unique taxa here
 
 # now join the data
 # first simplify the demo data to just the mean values
@@ -124,9 +124,9 @@ both <- both %>% mutate(hypoth = case_when(
   TRUE ~ "none")) %>%
   filter(hypoth != "none")
 
-unique(both$site_name) # 39 sites
-unique(both$Taxon_site) # 138 unique site taxa combinations
-unique(both$Taxon) # 38 taxa
+unique(both$site_name) # 40 sites
+unique(both$Taxon_site) # 139 unique site taxa combinations
+unique(both$Taxon) # 39 taxa
 
 ################################################################################
 # 2) Export some useful dfs for summary information relating to final modelling data set
@@ -134,7 +134,7 @@ unique(both$Taxon) # 38 taxa
 
 # export that list of species we are using in the final models
 taxa_list <- unique(both$Taxon)
-length(taxa_list) # 38 taxa here
+length(taxa_list) # 39 taxa here
 saveRDS(taxa_list, "results/List_taxa_OLS_mods.R")
 
 # save the modelling data
@@ -264,15 +264,17 @@ augment_lmrob <- function(m) {
 }
 
 # run the functions on the nested df
-comm_results <- nested_clean %>%
-  mutate(
-    mod     = purrr::map(data, fit_rlm_safe_lmrob),
-    results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x)),
-    aug     = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))
-  )
+comm_results <- 
+  nested_clean %>%
+  mutate(mod = purrr::map(data, fit_rlm_safe_lmrob)) %>%
+  mutate(results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x))) %>%
+  mutate(aug = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))) %>%
+  mutate(r2 = purrr::map_dbl(mod, ~ if (is.null(.x)) NA_real_ else summary(.x)$r.squared)) %>%
+  mutate(confint = purrr::map(mod, ~ if (is.null(.x)) tibble() else as_tibble(confint(.x), rownames = "term")))
 
 # save to disk for model checking and plotting
 saveRDS(comm_results, file = "results/robust_model_comm_results_T0_scaled_not_logged.rds")
+
 
 # extract the results of these models 
 # filter out the estimate and p-value for the New_demo_value term only
@@ -341,19 +343,22 @@ augment_lmrob <- function(m) {
     )
 }
 
-# run the models on the nested df
-comm_results <- nested_clean %>%
-  mutate(
-    mod     = purrr::map(data, fit_rlm_safe_lmrob),
-    results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x)),
-    aug     = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))
-  )
+# extra model parameters add
+# Now run the models / get results / 
+prov_results <- 
+  nested_clean %>%
+  mutate(mod = purrr::map(data, fit_rlm_safe_lmrob)) %>%
+  mutate(results = purrr::map(mod, ~ if (is.null(.x)) tibble() else broom::tidy(.x))) %>%
+  mutate(aug = purrr::map(mod, ~ if (is.null(.x)) tibble() else augment_lmrob(.x))) %>%
+  mutate(r2 = purrr::map_dbl(mod, ~ if (is.null(.x)) NA_real_ else summary(.x)$r.squared)) %>%
+  mutate(confint = purrr::map(mod, ~ if (is.null(.x)) tibble() else as_tibble(confint(.x), rownames = "term")))
+
 
 # save to disk for model checking and plotting
-saveRDS(comm_results, file = "results/robust_model_provenance_results_T0_scaled_not_logged.rds")
+saveRDS(prov_results, file = "results/robust_model_provenance_results_T0_scaled_not_logged.rds")
 
 # pick out the results
-comm_results <- comm_results %>%
+prov_results <- prov_results %>%
   dplyr::select(time_period_cover_change, experiment, Demo_trait, results) %>%
   unnest(results) %>%
   filter(term != "(Intercept)")

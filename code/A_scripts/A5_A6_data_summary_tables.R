@@ -145,7 +145,7 @@ both <- both %>%
   filter(hypoth != "none") 
 names(both)
 
-# now tidy this table so it can be joined with the data from 
+# now tidy this table so it can be joined with the data frame 
 both <- 
   both %>%
   ungroup() %>%

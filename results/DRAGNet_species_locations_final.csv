@@ -1,147 +1,149 @@
-Taxon,site_name,site_code,latitude,longitude
-Agrimonia_eupatoria,Lublin,lubl_dn.pl,51.145515,22.151615
-Agrimonia_eupatoria,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Allium_vineale,Blandy Experimental Farm,blan_dn.us,39.06263,-78.06261
-Andropogon_gerardii,Kellogg Biological Station (KBS),kell_dn.us,42.41639,-85.36917
-Andropogon_gerardii,Oak Lake Field Station,olfs_dn.us,44.50936516,-96.53201183
-Andropogon_gerardii,Piedmont Prairie,pied_dn.us,33.890328,-83.3593
-Andropogon_gerardii,Temple,temple_dn.us,31.098056,-97.3425
-Arenaria_serpyllifolia,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Arenaria_serpyllifolia,Domaninek,doma_dn.cz,49.5388,16.2484
-Arenaria_serpyllifolia,Jena,jena_dn.de,50.938383,11.52825
-Armeria_maritima,Potrok Aike,potrok_dn.ar,-51.91602778,-70.40744444
-Centaurea_jacea,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Centaurea_jacea,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Cerastium_fontanum,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Cerastium_fontanum,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Cerastium_fontanum,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Cerastium_fontanum,Hazelrigg,lancaster_dn.uk,54.013714,-2.77558
-Cerastium_fontanum,Jena,jena_dn.de,50.938383,11.52825
-Cerastium_fontanum,Lublin,lubl_dn.pl,51.145515,22.151615
-Cerastium_fontanum,Stoderzinken,stod_dn.at,47.456123,13.814147
-Cerastium_fontanum,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Cirsium_arvense,Ainsdale Dune Slacks,ains_dn.uk,53.59,-3.07
-Cirsium_arvense,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Cirsium_arvense,Blandy Experimental Farm,blan_dn.us,39.06263,-78.06261
-Cirsium_arvense,Hazelrigg,lancaster_dn.uk,54.013714,-2.77558
-Cirsium_arvense,Jena,jena_dn.de,50.938383,11.52825
-Cirsium_arvense,Lublin,lubl_dn.pl,51.145515,22.151615
-Cirsium_arvense,Oak Lake Field Station,olfs_dn.us,44.50936516,-96.53201183
-Cirsium_arvense,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Cirsium_palustre,Ainsdale Dune Slacks,ains_dn.uk,53.59,-3.07
-Cirsium_vulgare,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Cirsium_vulgare,Cowichan,cowi_dn.ca,48.80847008,-123.6338465
-Cirsium_vulgare,Jena,jena_dn.de,50.938383,11.52825
-Cirsium_vulgare,Lublin,lubl_dn.pl,51.145515,22.151615
-Cirsium_vulgare,San Claudio,sanc_dn.ar,-35.922282,-61.158115
-Cirsium_vulgare,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Daucus_carota,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Daucus_carota,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Daucus_carota,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Daucus_carota,Churning Rapids,chur_dn.us,47.1790273,-88.6147752
-Daucus_carota,Kellogg Biological Station (KBS),kell_dn.us,42.41639,-85.36917
-Daucus_carota,Kniezenberg,kzbg_dn.at,46.9626,15.2747
-Daucus_carota,Lublin,lubl_dn.pl,51.145515,22.151615
-Echium_vulgare,Algaida,alga_dn.es,36.54002,-6.20391
-Elymus_repens,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Elymus_repens,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Elymus_repens,Cary IES,cary_dn.us,41.787495,-73.7404
-Elymus_repens,Cedar Creek LTER,cedr_dn.us,45.404164,-93.200312
-Elymus_repens,Churning Rapids,chur_dn.us,47.1790273,-88.6147752
-Elymus_repens,Jena,jena_dn.de,50.938383,11.52825
-Elymus_repens,Kellogg Biological Station (KBS),kell_dn.us,42.41639,-85.36917
-Elymus_repens,Lublin,lubl_dn.pl,51.145515,22.151615
-Erigeron_canadensis,Hulun Buir,hulu_dn.cn,49.333333,119.95
-Erigeron_canadensis,Lublin,lubl_dn.pl,51.145515,22.151615
-Erigeron_canadensis,Piedmont Prairie,pied_dn.us,33.890328,-83.3593
-Erigeron_canadensis,University of Michigan Biological Station,umbs_dn.us,45.562015,-84.6797
-Knautia_arvensis,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Knautia_arvensis,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Knautia_arvensis,WSL,wald_dn.ch,47.36187,8.457485
-Knautia_arvensis,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Lactuca_serriola,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Lactuca_serriola,Blandy Experimental Farm,blan_dn.us,39.06263,-78.06261
-Lactuca_serriola,Jena,jena_dn.de,50.938383,11.52825
-Lactuca_serriola,Kniezenberg,kzbg_dn.at,46.9626,15.2747
-Lactuca_serriola,Oak Lake Field Station,olfs_dn.us,44.50936516,-96.53201183
-Lactuca_serriola,San Claudio,sanc_dn.ar,-35.922282,-61.158115
-Lactuca_serriola,Wallula Gap Biological Station-North Face,wgno_dn.us,46.0047,-118.9121
-Linum_catharticum,Ainsdale Dune Slacks,ains_dn.uk,53.59,-3.07
-Linum_catharticum,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Picris_hieracioides,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Picris_hieracioides,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Picris_hieracioides,Jena,jena_dn.de,50.938383,11.52825
-Picris_hieracioides,Saihanba,saih_dn.cn,42.3262667,117.3227164
-Pimpinella_saxifraga,Meranges,mera_dn.es,42.434,1.777
-Plantago_coronopus,Algaida,alga_dn.es,36.54002,-6.20391
-Plantago_coronopus,Caracoles,cara_dn.es,37.066028,-6.317639
-Plantago_media,Meranges,mera_dn.es,42.434,1.777
-Plantago_media,Stoderzinken,stod_dn.at,47.456123,13.814147
-Poa_alpina,Stoderzinken,stod_dn.at,47.456123,13.814147
-Potentilla_recta,Churning Rapids,chur_dn.us,47.1790273,-88.6147752
-Potentilla_recta,Kellogg Biological Station (KBS),kell_dn.us,42.41639,-85.36917
-Primula_elatior,Stoderzinken,stod_dn.at,47.456123,13.814147
-Primula_veris,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Ranunculus_acris,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Ranunculus_acris,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Ranunculus_acris,Churning Rapids,chur_dn.us,47.1790273,-88.6147752
-Ranunculus_acris,Kniezenberg,kzbg_dn.at,46.9626,15.2747
-Ranunculus_acris,Meranges,mera_dn.es,42.434,1.777
-Ranunculus_acris,Stoderzinken,stod_dn.at,47.456123,13.814147
-Ranunculus_acris,WSL,wald_dn.ch,47.36187,8.457485
-Ranunculus_acris,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Ratibida_columnifera,Ladybird Johnson Wildflower Center,ljwc_dn.us,30.179315,-97.876819
-Salsola_kali,Fowlers Gap,fowl_dn.au,-31.07276308,141.7651157
-Salsola_kali,Sandflats,sdft_dn.us,38.58181921,-109.4947242
-Sphaeralcea_coccinea,Shortgrass Steppe LTER,sgs_dn.us,40.81667,-104.76667
-Stenaria_nigricans,Temple,temple_dn.us,31.098056,-97.3425
-Taraxacum_campylodes,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Taraxacum_campylodes,Kellogg Biological Station (KBS),kell_dn.us,42.41639,-85.36917
-Thymus_vulgaris,Morella la Vella,more_dn.es,40.6389,0.1312
-Verbascum_thapsus,Blandy Experimental Farm,blan_dn.us,39.06263,-78.06261
-Verbascum_thapsus,Cedar Creek LTER,cedr_dn.us,45.404164,-93.200312
-Verbascum_thapsus,Churning Rapids,chur_dn.us,47.1790273,-88.6147752
-Verbascum_thapsus,Izaak Walton League of America (IWLA),iwla_dn.us,39.1002192,-77.4179329
-Verbascum_thapsus,Piedmont Prairie,pied_dn.us,33.890328,-83.3593
-Veronica_arvensis,Agroscope Changins,chan_dn.ch,46.403333,6.228889
-Veronica_arvensis,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Veronica_arvensis,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Veronica_arvensis,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Veronica_arvensis,Cowichan,cowi_dn.ca,48.80847008,-123.6338465
-Veronica_arvensis,Jena,jena_dn.de,50.938383,11.52825
-Veronica_arvensis,Kniezenberg,kzbg_dn.at,46.9626,15.2747
-Veronica_arvensis,WSL,wald_dn.ch,47.36187,8.457485
-Cirsium_vulgare,Blandy Experimental Farm,blan_dn.us,39.06263,-78.06261
-Daucus_carota,Izaak Walton League of America (IWLA),iwla_dn.us,39.1002192,-77.4179329
-Elymus_repens,Kniezenberg,kzbg_dn.at,46.9626,15.2747
-Lactuca_serriola,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Plantago_media,Lublin,lubl_dn.pl,51.145515,22.151615
-Centaurea_jacea,WSL,wald_dn.ch,47.36187,8.457485
-Cerastium_fontanum,Kniezenberg,kzbg_dn.at,46.9626,15.2747
-Cirsium_arvense,Cowichan,cowi_dn.ca,48.80847008,-123.6338465
-Cirsium_arvense,Hulun Buir,hulu_dn.cn,49.333333,119.95
-Cirsium_vulgare,Ukulinga,ukul_dn.za,-29.67037,30.400944
-Echium_vulgare,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Lactuca_serriola,Temple,temple_dn.us,31.098056,-97.3425
-Acer_saccharum,Cary IES,cary_dn.us,41.787495,-73.7404
-Ailanthus_altissima,Cary IES,cary_dn.us,41.787495,-73.7404
-Carduus_nutans,Piedmont Prairie,pied_dn.us,33.890328,-83.3593
-Cerastium_fontanum,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Cerastium_fontanum,Domaninek,doma_dn.cz,49.5388,16.2484
-Cerastium_fontanum,Kellogg Biological Station (KBS),kell_dn.us,42.41639,-85.36917
-Cirsium_vulgare,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Cirsium_vulgare,Cass,cass_dn.nz,-43.0368,171.7528
-Elymus_repens,Millville,mill_dn.us,41.649846,-111.81024
-Erigeron_canadensis,Cary IES,cary_dn.us,41.787495,-73.7404
-Erigeron_canadensis,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Myosotis_ramosissima,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Veronica_arvensis,Domaninek,doma_dn.cz,49.5388,16.2484
-Knautia_arvensis,Bad Lauchstaedt,badlau_dn.de,51.383333,11.883333
-Cirsium_vulgare,University of Michigan Biological Station,umbs_dn.us,45.562015,-84.6797
-Erigeron_canadensis,Bayreuth DRAGNet,bayr_dn.de,49.922,11.5838
-Verbascum_thapsus,Cary IES,cary_dn.us,41.787495,-73.7404
-Arenaria_serpyllifolia,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Cytisus_scoparius,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Myosotis_ramosissima,Wytham Woods,wyth_dn.uk,51.771053,-1.332625
-Ranunculus_acris,CEREEP - Ecotron IDF,cereep_dn.fr,48.282472,2.666167
-Verbascum_thapsus,University of Michigan Biological Station,umbs_dn.us,45.562015,-84.6797
+site_name,Taxon,site_code,latitude,longitude
+Agroscope Changins,Centaurea_jacea,chan_dn.ch,46.403333,6.228889
+Agroscope Changins,Cerastium_fontanum,chan_dn.ch,46.403333,6.228889
+Agroscope Changins,Daucus_carota,chan_dn.ch,46.403333,6.228889
+Agroscope Changins,Elymus_repens,chan_dn.ch,46.403333,6.228889
+Agroscope Changins,Knautia_arvensis,chan_dn.ch,46.403333,6.228889
+Agroscope Changins,Ranunculus_acris,chan_dn.ch,46.403333,6.228889
+Agroscope Changins,Veronica_arvensis,chan_dn.ch,46.403333,6.228889
+Ainsdale Dune Slacks,Cirsium_arvense,ains_dn.uk,53.59,-3.07
+Ainsdale Dune Slacks,Cirsium_palustre,ains_dn.uk,53.59,-3.07
+Ainsdale Dune Slacks,Linum_catharticum,ains_dn.uk,53.59,-3.07
+Algaida,Echium_vulgare,alga_dn.es,36.54002,-6.20391
+Algaida,Plantago_coronopus,alga_dn.es,36.54002,-6.20391
+Bad Lauchstaedt,Arenaria_serpyllifolia,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Cerastium_fontanum,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Cirsium_arvense,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Cirsium_vulgare,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Daucus_carota,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Echium_vulgare,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Elymus_repens,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Knautia_arvensis,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Lactuca_serriola,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Picris_hieracioides,badlau_dn.de,51.383333,11.883333
+Bad Lauchstaedt,Veronica_arvensis,badlau_dn.de,51.383333,11.883333
+Bayreuth DRAGNet,Centaurea_jacea,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Cerastium_fontanum,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Cirsium_vulgare,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Erigeron_canadensis,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Knautia_arvensis,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Lactuca_serriola,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Ranunculus_acris,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Taraxacum_campylodes,bayr_dn.de,49.922,11.5838
+Bayreuth DRAGNet,Veronica_arvensis,bayr_dn.de,49.922,11.5838
+Blandy Experimental Farm,Allium_vineale,blan_dn.us,39.06263,-78.06261
+Blandy Experimental Farm,Cirsium_arvense,blan_dn.us,39.06263,-78.06261
+Blandy Experimental Farm,Cirsium_vulgare,blan_dn.us,39.06263,-78.06261
+Blandy Experimental Farm,Lactuca_serriola,blan_dn.us,39.06263,-78.06261
+Blandy Experimental Farm,Verbascum_thapsus,blan_dn.us,39.06263,-78.06261
+CEREEP - Ecotron IDF,Alliaria_petiolata,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Cerastium_fontanum,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Cytisus_scoparius,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Daucus_carota,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Erigeron_canadensis,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Myosotis_ramosissima,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Picris_hieracioides,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Ranunculus_acris,cereep_dn.fr,48.282472,2.666167
+CEREEP - Ecotron IDF,Veronica_arvensis,cereep_dn.fr,48.282472,2.666167
+Caracoles,Plantago_coronopus,cara_dn.es,37.066028,-6.317639
+Cary IES,Acer_saccharum,cary_dn.us,41.787495,-73.7404
+Cary IES,Ailanthus_altissima,cary_dn.us,41.787495,-73.7404
+Cary IES,Elymus_repens,cary_dn.us,41.787495,-73.7404
+Cary IES,Erigeron_canadensis,cary_dn.us,41.787495,-73.7404
+Cary IES,Verbascum_thapsus,cary_dn.us,41.787495,-73.7404
+Cass,Cirsium_vulgare,cass_dn.nz,-43.0368,171.7528
+Cedar Creek LTER,Elymus_repens,cedr_dn.us,45.404164,-93.200312
+Cedar Creek LTER,Verbascum_thapsus,cedr_dn.us,45.404164,-93.200312
+Churning Rapids,Daucus_carota,chur_dn.us,47.1790273,-88.6147752
+Churning Rapids,Elymus_repens,chur_dn.us,47.1790273,-88.6147752
+Churning Rapids,Potentilla_recta,chur_dn.us,47.1790273,-88.6147752
+Churning Rapids,Ranunculus_acris,chur_dn.us,47.1790273,-88.6147752
+Churning Rapids,Verbascum_thapsus,chur_dn.us,47.1790273,-88.6147752
+Cowichan,Cirsium_arvense,cowi_dn.ca,48.80847008,-123.6338465
+Cowichan,Cirsium_vulgare,cowi_dn.ca,48.80847008,-123.6338465
+Cowichan,Veronica_arvensis,cowi_dn.ca,48.80847008,-123.6338465
+Domaninek,Arenaria_serpyllifolia,doma_dn.cz,49.5388,16.2484
+Domaninek,Cerastium_fontanum,doma_dn.cz,49.5388,16.2484
+Domaninek,Veronica_arvensis,doma_dn.cz,49.5388,16.2484
+Fowlers Gap,Salsola_kali,fowl_dn.au,-31.07276308,141.7651157
+Hazelrigg,Cerastium_fontanum,lancaster_dn.uk,54.013714,-2.77558
+Hazelrigg,Cirsium_arvense,lancaster_dn.uk,54.013714,-2.77558
+Hulun Buir,Cirsium_arvense,hulu_dn.cn,49.333333,119.95
+Hulun Buir,Erigeron_canadensis,hulu_dn.cn,49.333333,119.95
+Izaak Walton League of America (IWLA),Daucus_carota,iwla_dn.us,39.1002192,-77.4179329
+Izaak Walton League of America (IWLA),Verbascum_thapsus,iwla_dn.us,39.1002192,-77.4179329
+Jena,Arenaria_serpyllifolia,jena_dn.de,50.938383,11.52825
+Jena,Cerastium_fontanum,jena_dn.de,50.938383,11.52825
+Jena,Cirsium_arvense,jena_dn.de,50.938383,11.52825
+Jena,Cirsium_vulgare,jena_dn.de,50.938383,11.52825
+Jena,Elymus_repens,jena_dn.de,50.938383,11.52825
+Jena,Lactuca_serriola,jena_dn.de,50.938383,11.52825
+Jena,Picris_hieracioides,jena_dn.de,50.938383,11.52825
+Jena,Veronica_arvensis,jena_dn.de,50.938383,11.52825
+Kellogg Biological Station (KBS),Andropogon_gerardii,kell_dn.us,42.41639,-85.36917
+Kellogg Biological Station (KBS),Cerastium_fontanum,kell_dn.us,42.41639,-85.36917
+Kellogg Biological Station (KBS),Daucus_carota,kell_dn.us,42.41639,-85.36917
+Kellogg Biological Station (KBS),Elymus_repens,kell_dn.us,42.41639,-85.36917
+Kellogg Biological Station (KBS),Potentilla_recta,kell_dn.us,42.41639,-85.36917
+Kellogg Biological Station (KBS),Taraxacum_campylodes,kell_dn.us,42.41639,-85.36917
+Kniezenberg,Cerastium_fontanum,kzbg_dn.at,46.9626,15.2747
+Kniezenberg,Daucus_carota,kzbg_dn.at,46.9626,15.2747
+Kniezenberg,Elymus_repens,kzbg_dn.at,46.9626,15.2747
+Kniezenberg,Lactuca_serriola,kzbg_dn.at,46.9626,15.2747
+Kniezenberg,Ranunculus_acris,kzbg_dn.at,46.9626,15.2747
+Kniezenberg,Veronica_arvensis,kzbg_dn.at,46.9626,15.2747
+Ladybird Johnson Wildflower Center,Ratibida_columnifera,ljwc_dn.us,30.179315,-97.876819
+Lublin,Agrimonia_eupatoria,lubl_dn.pl,51.145515,22.151615
+Lublin,Cerastium_fontanum,lubl_dn.pl,51.145515,22.151615
+Lublin,Cirsium_arvense,lubl_dn.pl,51.145515,22.151615
+Lublin,Cirsium_vulgare,lubl_dn.pl,51.145515,22.151615
+Lublin,Daucus_carota,lubl_dn.pl,51.145515,22.151615
+Lublin,Elymus_repens,lubl_dn.pl,51.145515,22.151615
+Lublin,Erigeron_canadensis,lubl_dn.pl,51.145515,22.151615
+Lublin,Plantago_media,lubl_dn.pl,51.145515,22.151615
+Meranges,Pimpinella_saxifraga,mera_dn.es,42.434,1.777
+Meranges,Plantago_media,mera_dn.es,42.434,1.777
+Meranges,Ranunculus_acris,mera_dn.es,42.434,1.777
+Millville,Elymus_repens,mill_dn.us,41.649846,-111.81024
+Morella la Vella,Thymus_vulgaris,more_dn.es,40.6389,0.1312
+Oak Lake Field Station,Andropogon_gerardii,olfs_dn.us,44.50936516,-96.53201183
+Oak Lake Field Station,Cirsium_arvense,olfs_dn.us,44.50936516,-96.53201183
+Oak Lake Field Station,Lactuca_serriola,olfs_dn.us,44.50936516,-96.53201183
+Piedmont Prairie,Andropogon_gerardii,pied_dn.us,33.890328,-83.3593
+Piedmont Prairie,Carduus_nutans,pied_dn.us,33.890328,-83.3593
+Piedmont Prairie,Erigeron_canadensis,pied_dn.us,33.890328,-83.3593
+Piedmont Prairie,Verbascum_thapsus,pied_dn.us,33.890328,-83.3593
+Potrok Aike,Armeria_maritima,potrok_dn.ar,-51.91602778,-70.40744444
+Saihanba,Picris_hieracioides,saih_dn.cn,42.3262667,117.3227164
+San Claudio,Cirsium_vulgare,sanc_dn.ar,-35.922282,-61.158115
+San Claudio,Lactuca_serriola,sanc_dn.ar,-35.922282,-61.158115
+Sandflats,Salsola_kali,sdft_dn.us,38.58181921,-109.4947242
+Shortgrass Steppe LTER,Sphaeralcea_coccinea,sgs_dn.us,40.81667,-104.76667
+Stoderzinken,Cerastium_fontanum,stod_dn.at,47.456123,13.814147
+Stoderzinken,Plantago_media,stod_dn.at,47.456123,13.814147
+Stoderzinken,Poa_alpina,stod_dn.at,47.456123,13.814147
+Stoderzinken,Primula_elatior,stod_dn.at,47.456123,13.814147
+Stoderzinken,Ranunculus_acris,stod_dn.at,47.456123,13.814147
+Temple,Andropogon_gerardii,temple_dn.us,31.098056,-97.3425
+Temple,Lactuca_serriola,temple_dn.us,31.098056,-97.3425
+Temple,Stenaria_nigricans,temple_dn.us,31.098056,-97.3425
+Ukulinga,Cirsium_vulgare,ukul_dn.za,-29.67037,30.400944
+Ukulinga,Scabiosa_columbaria,ukul_dn.za,-29.67037,30.400944
+University of Michigan Biological Station,Cirsium_vulgare,umbs_dn.us,45.562015,-84.6797
+University of Michigan Biological Station,Erigeron_canadensis,umbs_dn.us,45.562015,-84.6797
+University of Michigan Biological Station,Verbascum_thapsus,umbs_dn.us,45.562015,-84.6797
+WSL,Centaurea_jacea,wald_dn.ch,47.36187,8.457485
+WSL,Knautia_arvensis,wald_dn.ch,47.36187,8.457485
+WSL,Ranunculus_acris,wald_dn.ch,47.36187,8.457485
+WSL,Veronica_arvensis,wald_dn.ch,47.36187,8.457485
+Wallula Gap Biological Station-North Face,Lactuca_serriola,wgno_dn.us,46.0047,-118.9121
+Wytham Woods,Agrimonia_eupatoria,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Arenaria_serpyllifolia,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Cerastium_fontanum,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Cirsium_arvense,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Cirsium_vulgare,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Knautia_arvensis,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Linum_catharticum,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Myosotis_ramosissima,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Primula_veris,wyth_dn.uk,51.771053,-1.332625
+Wytham Woods,Ranunculus_acris,wyth_dn.uk,51.771053,-1.332625

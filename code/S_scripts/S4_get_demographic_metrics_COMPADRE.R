@@ -1,6 +1,7 @@
 # R Thornley
 # 19/11/2024
-# Calculate demographic metrics for the overlapping species of DRAGNet and COMPADRE
+# Project: P1_COMPADRE_DRAGNET
+# Script: S4_get_demographic_metrics_COMPADRE.R
 
 ################################################################################
 # Instructions
@@ -56,7 +57,7 @@ Drag_taxa_new
 # now we can filter the COMPADRE data for the DRAGNet species
 shared_data_more <- cdb_check_species(Com_clean, Drag_taxa_new, return_db = TRUE)
 unique(shared_data_more$SpeciesAccepted) # 73 species
-dim(shared_data_more) # 371 matrices 
+dim(shared_data_more) # 373 matrices 
 
 ################################################################################
 # 2) Calculate the Life History Traits and resilience metrics
@@ -176,9 +177,9 @@ output
 
 # we can now filter these matrices for the species in DRAGNet
 names(output)
-output %>% group_by(SpeciesAccepted) %>% tally() # we have metrics for 452 species
+output %>% group_by(SpeciesAccepted) %>% tally() # we have metrics for 460 species
 nos_matrix <- output %>% filter(DRAGNet == TRUE) %>% group_by(SpeciesAccepted) %>% tally()
-nos_matrix # we have 41 species
+nos_matrix # we have 42 species
 nos_matrix %>% filter(n > 1) # we have 25 species for which we have more than one matrix
 
 # some of the metrics are not reasonable values though
@@ -203,10 +204,12 @@ check <-
   mutate(value = case_when(demo_var == "FirstStepAtt" & value > 5000 ~ NA, TRUE ~ value)) %>%
   mutate(value = case_when(demo_var == "L_max" & value < 80 ~ NA, TRUE ~ value))
 
-# now save the dataframe
+# just check the number of species we have here now
+check %>% filter(DRAGNet == TRUE) %>% summarise(n_species = n_distinct(SpeciesAccepted))
+# there are just 42 taxa 
+# now save the dataframe (this is all metrics for all species in compadre but with a DRAGNet flag)
 write_csv(check, "results/all_COMPADRE_metrics.csv")
 
-################################################################################
 
 
 
