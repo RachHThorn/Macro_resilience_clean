@@ -117,50 +117,44 @@ source("code/F_scripts/F1_map.R")
 # Figure 2 is a schematic of the analysis work flow and is produced outside R
 
 # Figure 3: Robust OLS 
-source("code/F_scripts/F3_robust_OLS_effects.R")
+source("code/F_scripts/F3_robust_regressions.R")
 
 # Figure 4: Visualise Community variable interaction results
-source("code/F_scripts/F4_plot_robust_interactions.R")
+source("code/F_scripts/F4_robust_regressions_interactions.R")
 
-# Table 1: Variable description table
-source("code/T1_variables.R")
+# Table 1: created outside R
 
 ################################################################################
-# Appendices / supporting information figures and tables # (folder: A_scripts)
+# Supplementary Information / supporting information figures and tables # (folder: A_scripts)
 ################################################################################
 
-# A1: A summary description of the DRAGnet protocol
+# S1a and b: Summary tables overlap
+source("code/A_scripts/SM_S1a_b_summary_tables.R")
 
-# A2: get sample sizes with zeros (DRAGNet)
-source("code/A_scripts/A2_get_sample_sizes_with_zeros.R")
+# S1c : PCA of the demogarphic metrics
+source("code/A_scripts/SM_S1c_PCA.R")
 
-# A3 - equations of the beta reg models
+# S1d: Contextualisation of the random effects overlap 
+source("code/A_scripts/SM_S1d_random_effects_visualise.R")
 
-# A4: spread of the demographic metrics
-source("code/A_scripts/A4_spread_compadre_data.R")
+# S1e: Phylogenetic dependency
+source("code/A_scripts/SM_S1e_phylogenetci_dependency.R")
 
-# A5_A6: data summary tables
-source("code/A_scripts/A5_A6_data_summary_table.R")
+# S1f and g: Climatic contextualisation
+source("code/A_scripts/SM_S1f_g_climatic_distances.R")
 
-# A7: PCA Compadre
-source("code/A_scripts/PCA_compadre.R")
+# S2a: Sample sizes of analyses showing proportion of zeros
+source("code/A_scripts/SM_S2a_get_sample_sizes_with_zeros.R")
 
-# A8: effect size contextualisation from GLMM models
-source("code/A_scripts/A8_random_effects_visualise.R")
+# S2c: GLMM diagnostics table
+source("code/A_scripts/SM_S2c_GLMM_model_diagnostics_table.R")
 
-# A9: effect size contextualisation from GLMM models
-source("code/A_scripts/A9_test_for_phylogenetic_signal.R")
+# S3a: Example residuals of OLS model
+source("code/A_scripts/SM_S3a_residuals_robust_regression_example.R")
 
-# A10: GLMM diagnostics
-source("code/A_scripts/A10_GLMM_model_diagnostics_signal.R")
+# S3b and c: Model results tables (bivariate OLS and interaction models)
+source("code/A_scripts/SM_S3b_c_robust_regression_tables.R")
 
-# A11: Example residuals of OLS models
-source("code/A_scripts/A11_residual_patterns_interactions.R")
+# S3d: Results of all interaction models: graphically with predictions
+source("code/A_scripts/SM_S3d_results_graphical_interactions_by_hypoth.R")
 
-# A12: Model results tables (bivariate OLS and interaction models)
-source("code/A_scripts/A12_robust_model_results_table.R")
-
-# A13: Predictions of interactions by hypothesis
-source("code/A_scripts/A13_results_interactions_by_hypoth.R")
-
-# 
