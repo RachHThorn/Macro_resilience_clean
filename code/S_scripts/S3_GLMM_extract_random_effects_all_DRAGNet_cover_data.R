@@ -82,12 +82,12 @@ process_time_period <- function(file, time_label) {
     INTER = c("Control", "NPK+Disturbance")
   )
   
-  taxon <- map_dfr(names(exp_list), function(e) {
+  taxon <- purrr::map_dfr(names(exp_list), function(e) {
     get_RE_taxon(dat, exp_list[[e]]) %>%
       mutate(time_period = time_label, experiment = e)
   })
   
-  taxon_site <- map_dfr(names(exp_list), function(e) {
+  taxon_site <- purrr::map_dfr(names(exp_list), function(e) {
     get_RE_taxon_site(dat, exp_list[[e]]) %>%
       mutate(time_period = time_label, experiment = e)
   })
@@ -105,10 +105,10 @@ files <- c(
   "results/DRAGNet_T0_T2_all.csv",
   "results/DRAGNet_T0_T3_all.csv")
 
-results <- imap(files, ~ process_time_period(.x, .y))
+results <- purrr::imap(files, ~ process_time_period(.x, .y))
 
-all_taxon <- map(results, "taxon") %>% bind_rows()
-all_taxon_site <- map(results, "taxon_site") %>% bind_rows()
+all_taxon <- purrr::map(results, "taxon") %>% bind_rows()
+all_taxon_site <- purrr::map(results, "taxon_site") %>% bind_rows()
 
 write_csv(all_taxon,      "results/RE_SE_Taxon_all_DRAGNet.csv")
 write_csv(all_taxon_site, "results/RE_SE_Taxon_site_all_DRAGNet.csv")

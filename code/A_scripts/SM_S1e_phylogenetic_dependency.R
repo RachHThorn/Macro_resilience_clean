@@ -86,7 +86,7 @@ table_results <- results %>% dplyr::select(Demo_trait, test_name, test_value, p_
   rename("Demographic variable" = Demo_trait, "Phylogenetic test" = test_name, 
        "Phylogenetic test value" = test_value, "p value" = p_value)
 
-write_csv(table_results, "results/phylo_dependency.csv")
+write_csv(table_results, "figures/SM_S1e_phylogenetic_dependency.csv")
 
 ###############################################################################
 # Interpret results:

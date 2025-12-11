@@ -2,6 +2,8 @@
 # 11/12/2024
 # PCA plot and extract loadings
 
+rm(list = ls())
+
 library(tidyverse)
 library(missMDA)
 library(ggfortify)
@@ -53,23 +55,6 @@ names(small_dat)
 small_dat$DRAGNet
 
 
-autoplot(
-  pca,
-  data = small_dat,
-  loadings = TRUE,      
-  loadings.label = TRUE,
-  color = "DRAGNet") +
-  theme_classic()+
-  theme(text = element_text(size = 20))+
-  theme(legend.title = element_blank())+
-  theme(legend.position = "top")+
-  scale_colour_manual(values = c("palevioletred4", "green2"), labels = c("DRAGNet", "Non-DRAGNet"))
-
-
-
-
-
-
 # Plot
 p <- autoplot(pca, x = 2, y = 1, loadings = TRUE, loadings.label = TRUE,
               data = dat, colour = 'DRAGnet',
@@ -84,4 +69,4 @@ p <- autoplot(pca, x = 2, y = 1, loadings = TRUE, loadings.label = TRUE,
   scale_colour_manual(values = c("green2","palevioletred4"), labels = c("Non-DRAGNet", "DRAGNet"))
 p
 ggsave("figures/pca_context_plot_BES.jpeg", p, height = 5, width = 5)
-# this needs sortomg more but is ok for now
+# this needs sorting more but is ok for now

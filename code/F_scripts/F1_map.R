@@ -4,6 +4,8 @@
 # Script: F1_map
 # Map of DRAGNet and COMPADRE sites
 
+rm(list = ls())
+
 ################################################################################
 # INSTRUCTIONS
 ################################################################################
@@ -220,7 +222,7 @@ p_matrices <- make_point_map_discrete(
 p_matrices
 
 
-ggsave(filename = "figures/matrices_map_01_12.png", plot =  p_matrices,
+ggsave(filename = "figures/matrices_map.png", plot =  p_matrices,
        width = 180, height = 130, units = "mm", dpi = 300)
 
 
@@ -243,130 +245,6 @@ p_cover <- make_point_map_discrete(
 )
 p_cover
 
-ggsave(filename = "figures/cover_map_01_12.png", plot =  p_cover,
+ggsave(filename = "figures/cover_map.png", plot =  p_cover,
        width = 180, height = 130, units = "mm", dpi = 300)
-
-
-
-#################################################################################
-# 7) IMPORT HYPOTHESIS FIGURE and CREATE TITLE FOR IT
-################################################################################
-
-# ── Panel A: title as a separate row (no overlap) ─────────────────────────────
-graphic_path <- "figures/Fig_1A_06_11_2025.tiff"
-img <- magick::image_read(graphic_path) |> magick::image_trim()
-img
-
-# Image-only panel
-p_graphic_img <- cowplot::ggdraw() +
-  cowplot::draw_image(img, x = 0, y = 1, width = 1, height = 1,
-                      hjust = 0, vjust = 1, interpolate = TRUE) +
-  theme(plot.margin = margin(2, 2, 2, 2))
-p_graphic_img
-
-
-# Title-only panel (appears above the image)
-p_graphic_title <- ggplot() +
-  theme_void() +
-  labs(title = "A) Overview of hypotheses and study variables") +
-  theme(
-    plot.title = element_text(hjust = 0.55, vjust = 0,
-                              face = "bold", size = 20,
-                              family = "Arial",
-                              margin = margin(b = 2))
-  )
-p_graphic_title
-
-# Stack title above image inside Panel C
-p_graphic <- patchwork::wrap_plots(
-  p_graphic_title,
-  p_graphic_img,
-  ncol = 1,
-  heights = c(0.005, 0.7)  # adjust to move title higher/lower
-)
-p_graphic
-
-################################################################################
-# 8) PUT TOGETHER FINAL FIGURE 
-# load the hypothesis panel (created in another software)
-# and make then accompanying maps
-################################################################################
-
-# Layout: A (hypotheses) on top - full width , BC on bottom 
-p_graphic
-p_cover
-p_matrices
-
-###############################################################################
-# this doesn't work
-##############################################################################
-
-library(patchwork)
-
-design <- "AABC"
-p_full <- (p_graphic + p_matrices + p_cover) + patchwork::plot_layout(design = design)
-p_full
-
-p_full <- (p_graphic + (p_matrices + p_cover)) +
-  patchwork::plot_layout(design = design,
-                         heights = c(TOP_ROW_REL, BOT_ROW_REL))
-p_full
-
-p_full <- p_graphic / (p_matrices | p_cover) +
-  patchwork::plot_layout(heights = c(TOP_ROW_REL, BOT_ROW_REL))
-p_full
-
-
-# Export
-ragg::agg_tiff("figures/Fig_1_map.tiff",
-               width = FIG_WIDTH_MM, height = FIG_HEIGHT_MM,
-               units = "mm", res = 600, compression = "lzw")
-print(p_full); dev.off()
-
-
-plot_element_1 <- (p_cover | p_matrices)
-plot_element_2 <- p_graphic
-plot_element_3 <- plot_element_2 / plot_element_1 +
-  plot_layout (nrow = 2,
-               heights = c(1, 1),
-               widths = c(1,1))
-plot_element_3
-
-################################################################################
-# using ggarrange
-################################################################################
-
-library(ggpubr)
-
-# bottom row: p_matrices | p_cover
-bottom_row <- ggarrange(
-  p_matrices, p_cover,
-  ncol = 2, nrow = 1,
-  widths = c(1, 1),
-  font.label = list(size = 12, face = "bold")
-)
-bottom_row
-
-# full figure: p_graphic on top, bottom_row below
-p_full <- ggarrange(
-  p_graphic_img, bottom_row,
-  ncol = 1, nrow = 2,
-  heights = c(TOP_ROW_REL, BOT_ROW_REL),  # your row height ratios
-  align = "v",
-  common.legend = FALSE
-)
-
-p_full
-
-
-# full figure: p_graphic on top, bottom_row below
-p_full <- ggarrange(
-  p_graphic, bottom_row,
-  ncol = 1, nrow = 2,
-  align = "v",
-  common.legend = FALSE,        # set TRUE if you want a shared legend
-  legend = "top"                # where to place the shared legend if TRUE
-)
-
-p_full
 

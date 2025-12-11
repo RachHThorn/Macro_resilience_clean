@@ -129,7 +129,7 @@ source("code/F_scripts/F4_robust_regressions_interactions.R")
 ################################################################################
 
 # S1a and b: Summary tables overlap
-source("code/A_scripts/SM_S1a_b_summary_tables.R")
+source("code/A_scripts/SM_S1a_b_summary_overlap_tables.R")
 
 # S1c : PCA of the demogarphic metrics
 source("code/A_scripts/SM_S1c_PCA.R")
@@ -138,7 +138,7 @@ source("code/A_scripts/SM_S1c_PCA.R")
 source("code/A_scripts/SM_S1d_random_effects_visualise.R")
 
 # S1e: Phylogenetic dependency
-source("code/A_scripts/SM_S1e_phylogenetci_dependency.R")
+source("code/A_scripts/SM_S1e_phylogenetic_dependency.R")
 
 # S1f and g: Climatic contextualisation
 source("code/A_scripts/SM_S1f_g_climatic_distances.R")

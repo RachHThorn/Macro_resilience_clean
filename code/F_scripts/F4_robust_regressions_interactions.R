@@ -1,7 +1,7 @@
 # R Thornley
 # 30/11/2025
 # Project: P1_COMPADRE_DRAGNET
-# Script: F4_01_12_2025
+# Script: F4_robuts_regression_interactions
 
 rm(list = ls())
 
@@ -291,4 +291,4 @@ new_plot <-
 new_plot
 
 # plot with the completely independent axes
-ggsave("figures/Fig_4_01_12_2025.pdf", plot = new_plot, width = 17, height = 21, units = "cm", dpi = 600)
+ggsave("figures/Fig_4.tiff", new_plot, width = 10, height = 11)

@@ -5,6 +5,8 @@
 # Project: P1_COMPADRE_DRAGNET
 # Script: SM_2a_get_sample_sizes_w_zeros
 
+rm(list= ls())
+
 library(tidyverse)
 library(ggpubr)
 

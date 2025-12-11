@@ -1,7 +1,7 @@
 # R Thornley
 # 09/09/2025
 # Project: P1_COMPADRE_DRAGNET
-# Script: F3_01_12_2025
+# Script: F3_robust_regressions
 
 ################################################################################
 # Instructions
@@ -180,5 +180,5 @@ fig_RM3
 
 # final plot without a title for the manuscript
 # Save as TIFF (good for journals)
-ggsave("figures/Fig_3_01_12_2025.tiff", plot = fig_RM3,
+ggsave("figures/Fig_3.tiff", plot = fig_RM3,
        width = 8, height = 6, dpi = 600, compression = "lzw")

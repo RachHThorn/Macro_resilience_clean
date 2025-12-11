@@ -3,6 +3,8 @@
 # Project: P1_COMPADRE_DRAGNET
 # Script: Get summary data for appendices tables
 
+rm(list = ls())
+
 library(tidyverse)
 
 ################################################################################
@@ -171,7 +173,7 @@ Nos_mat <- both %>% arrange(Hypothesis, `Time period`, Experiment, 'Demographic 
 ###############################################################################
 
 Table_1 <- Nos_taxa %>% left_join(Nos_mat)
-write_csv(Table_1, "results/A_x_number_species_matrices_per_analysis.csv")
+write_csv(Table_1, "figures/SM_S1a_number_species_matrices_per_analysis.csv")
 
 ###############################################################################
 # PART 3: Number of matrices for each species and demography trait
@@ -240,6 +242,6 @@ Table_2 <-
   mutate(Taxon = str_replace(Taxon, "_", " ")) %>%
   dplyr::select(Taxon, 'Demographic metric', 'Number of DRAGNet sites', 
                 'Number of COMPADRE matrices')
-write_csv(Table_2, "results/A_x_summary_table_nos_sites_matrices_per_taxon.csv")
+write_csv(Table_2, "figures/SM_S1b_summary_table_nos_sites_matrices_per_taxon.csv")
 
     

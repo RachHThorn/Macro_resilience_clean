@@ -4,6 +4,8 @@
 # Appendices data overlap: distance metrics for climate data and re-run OLS models
 # to perform a sensitivity analysis
 
+rm(list= ls())
+
 library(tidyverse)
 library(purrr)
 library(robustbase) # runs robust OLS models

@@ -3,6 +3,8 @@
 # Project: P1_COMPADRE_DRAGNET
 # Script: A13_results_interactions_by_hypoth
 
+rm(list= ls())
+
 ################################################################################
 # Instructions
 ################################################################################
@@ -380,7 +382,7 @@ H1_plot_new <- H1_plot +
   )
 
 H1_plot_new
-ggsave("figures/A13_H1_pred_plot.jpeg", H1_plot_new, height = 3, width = 6)
+ggsave("figures/SM_S3d_pred_plot_H1.jpeg", H1_plot_new, height = 3, width = 6)
 
 ################################################################################
 # H2 #
@@ -458,7 +460,8 @@ H2_plot_new <- H2_plot +
   )
 
 H2_plot_new
-ggsave("figures/A13_H2_pred_plot.jpeg", H2_plot_new, height = 3, width = 6)
+ggsave("figures/SM_S3d_pred_plot_H2.jpeg", H2_plot_new, height = 3, width = 6)
+
 ################################################################################
 # H3 #
 ################################################################################
@@ -536,7 +539,8 @@ H3_plot_new <- H3_plot +
     inherit.aes = FALSE, size = 2, show.legend = FALSE
   )
 H3_plot_new
-ggsave("figures/A13_H3_pred_plot.jpeg", H3_plot_new, height = 7.5, width = 7)
+ggsave("figures/SM_S3d_pred_plot_H3.jpeg", H3_plot_new, height = 7.5, width = 7)
+
 ################################################################################
 # H4 #
 ################################################################################
@@ -616,7 +620,8 @@ H4_plot_new <- H4_plot +
     inherit.aes = FALSE, size = 3, show.legend = FALSE
   )
 H4_plot_new
-ggsave("figures/A13_H4_pred_plot.jpeg", H4_plot_new, height = 3, width = 6)
+ggsave("figures/SM_S3d_pred_plot_H4.jpeg", H4_plot_new, height = 3, width = 6)
+
 ################################################################################
 # H5
 ################################################################################
@@ -695,100 +700,5 @@ H5_plot_new <- H5_plot +
     inherit.aes = FALSE, size = 3, show.legend = FALSE
   )
 H5_plot_new
-ggsave("figures/A13_H5_pred_plot.jpeg", H5_plot_new, height = 8, width = 8)
+ggsave("figures/SM_S3d_pred_plot_H5.jpeg", H5_plot_new, height = 8, width = 8)
 
-################################################################################
-# 7) PLOT AS FULL PAGE FOR MANUSCRIPT
-################################################################################
-
-# get the bets models to make the plot with
-all_plot_dat_new %>% pull(mod_name) %>% unique()
-not_wanted <- 
-  c("H3_Reactivity_meanSigmas_DIST_T0-T1", 
-    "H3_Reactivity_meanSigmas_DIST_T0-T2",
-    "H3_Reactivity_meanSigmas_DIST_T0-T3",
-    "H3_FirstStepAtt_mean_cover_DIST_T0-T1",
-    "H3_FirstStepAtt_mean_cover_DIST_T0-T2",
-    "H3_FirstStepAtt_mean_cover_DIST_T0-T3",
-    "H3_FirstStepAtt_site_time_invsimp_DIST_T0-T1",
-    "H3_FirstStepAtt_site_time_invsimp_DIST_T0-T2",
-    "H3_FirstStepAtt_site_time_invsimp_DIST_T0-T3") 
-
-all_plot_dat_new <-
-  all_plot_dat_new %>% filter(!mod_name %in% not_wanted)
-
-# plot out these models
-all_plot <- 
-  ggplot(all_plot_dat_new, aes(x = Demo_value, y = fit,
-                               colour = Comm_value_new,
-                               fill = Comm_value_new,
-                               linetype = Comm_value_new)) +
-  geom_ribbon(aes(ymin = lwr, ymax = upr), alpha = 0.2, colour = NA) +
-  geom_line(size = 1) +
-  theme_bw() +
-  facet_grid(Plot_var ~ time_period_cover_change, scales = "free") +
-  labs(
-    x = "Demographic metric",
-    y = "Predicted species recovery response",
-    colour = "Community complexity metric",
-    fill   = "Community complexity metric",
-    linetype = "Community complexity metric") +
-  
-  scale_fill_manual(values = okabe_ito, name = "Community complexity metric") +
-  scale_colour_manual(values = okabe_ito, name = "Community complexity metric") +
-  scale_linetype_manual(
-    values = c("Low" = "dotted", "Medium" = "dashed", "High" = "solid"),
-    name = "Community complexity metric") +
-  
-  guides(fill = "none",  # hides separate fill legend
-         colour = guide_legend(
-           override.aes = list(
-             fill = alpha("grey50", 0.2),  # faint fill shown in key
-             size = 1.2)),
-         linetype = guide_legend(
-           override.aes = list(
-             fill = alpha("grey50", 0.2),
-             size = 1.2))) +
-  theme(strip.background = element_rect(fill = "white", colour = NA),
-        strip.text = element_text(colour = "black", size = 8),
-        legend.position = "top",
-        legend.justification = "center",
-        panel.grid = element_blank(),
-        strip.text.y = element_text(angle = 0),
-        axis.text.x = element_text(size = 8),
-        axis.text.y = element_text(size = 8))
-
-all_plot
-
-# p value label
-p_lab <-  all_plot_dat_new %>%
-  group_by(time_period_cover_change, Plot_var) %>%
-  summarise(p_value = dplyr::first(na.omit(p.value)), .groups = "drop") %>%
-  mutate(
-    p_value = ifelse(p_value < 0.0001, "<0.0001",
-                     formatC(p_value, format = "f", digits = 4)))
-p_lab
-
-e_lab <- all_plot_dat_new %>%
-  group_by(time_period_cover_change, Plot_var) %>%
-  summarise('Interaction estimate' = dplyr::first(na.omit(estimate)), .groups = "drop")
-e_lab
-
-# append a single label for interaction estimate per facet
-all_plot_labs <- all_plot +
-  geom_text(
-    data = e_lab,
-    aes(label = paste0("Estimate = ", signif(`Interaction estimate`, 2))),
-    x = -Inf, y = Inf, hjust = -0.05, vjust = 1.15,
-    inherit.aes = FALSE, size = 2, show.legend = FALSE
-  ) +
-  geom_text(
-    data = p_lab,
-    aes(label = paste0("p-value = ", p_value)),
-    x = -Inf, y = Inf, hjust = -0.045, vjust = 2.5,
-    inherit.aes = FALSE, size = 2, show.legend = FALSE
-  )+
-  xlim(-2.5, 10)
-
-all_plot_labs
-ggsave("figures/Figure_fullpage.pdf", width = 17, height = 21, units = "cm", dpi = 600)

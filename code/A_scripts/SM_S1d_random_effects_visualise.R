@@ -4,6 +4,8 @@
 # random effects plots to compare the GLMM results in the context of all the data
 # NOTE: this has been simplified for the paper to show only T0-T1 for the Ordered Beta models
 
+rm(list = ls())
+
 library(tidyverse)
 library(ggpubr)
 library(ggrepel)
@@ -66,31 +68,3 @@ plot
 ggsave("figures/S1d_GLMM_effect_size_plot.jpeg", height = 8, width = 10)
 
 ###############################################################################
-
-
-
-
-
-plot <- 
-  taxa %>% filter(model == "Ordbeta") %>%
-  filter(time_period == "T0-T1") %>%
-  filter(experiment %in% c("DIST", "NPK")) %>% 
-  mutate(experiment = factor(experiment, levels = c("DIST", "NPK"))) %>%
-  ggplot(aes(value, reorder(taxon, value)))+
-  theme_classic()+
-  geom_point(size = 1)+
-  geom_errorbar(aes(xmin = value - se, xmax = value + se, colour = ID), size = 0.3)+
-  geom_text_repel(
-    aes(label = label), size = 3, 
-    nudge_x = -0.1,
-    direction = "y",
-    hjust = 1,
-    na.rm = TRUE) +  # labels only where ID==1
-  ylab("Taxon") +
-  xlab("Standardised effects with SE")+
-  facet_wrap(~experiment, scales = "free_y", labeller = labeller(experiment = custom_labels))+
-  geom_vline(aes(xintercept = 0), colour ="red", linetype = "dashed")+
-  theme(axis.text.y = element_blank())+
-  scale_colour_manual(values = c("black", "red"), labels = c("all DRAGNet", "COMPADRE overlap"))+
-  theme(legend.title = element_blank(), axis.ticks.y = element_blank(), legend.position = "top")
-plot

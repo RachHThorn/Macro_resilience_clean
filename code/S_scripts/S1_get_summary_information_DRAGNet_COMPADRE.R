@@ -3,6 +3,8 @@
 # Project: P1_COMPADRE_DRAGNET
 # Script: S1_get_summary_information_DRAGNET_COMPADRE
 
+rm(list = ls())
+
 ################################################################################
 # Instructions
 ################################################################################
