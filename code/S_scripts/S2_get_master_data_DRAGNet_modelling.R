@@ -3,7 +3,6 @@
 # Project: P1_COMPADRE_DRAGNET
 # Script: S2_get_master_data_DRAGNET_modelling
 
-
 rm(list = ls())
 
 ################################################################################
@@ -132,3 +131,15 @@ dat_3_overlap <- dat_3 %>% filter(New_taxon %in% species)
 write_csv(dat_3_overlap, "results/DRAGNet_T0_T3_overlap.csv")
 
 ################################################################################
+
+# join all data together that I used in final analysis
+# for putting in the final data storage
+
+# T0 and T1
+all_drag <- process_dragnet(drag, wanted_file_path,
+                         years = c("T0","T1", "T2","T3"))
+all_drag_overlap <- all_drag %>% filter(New_taxon %in% species)
+unique(all_drag$year_trt)
+unique(all_drag$trt)
+all_drag <- all_drag %>% filter(trt != "NPK_Cessation") %>% filter(trt != "NPK+Disturbance") %>% droplevels()
+write_csv(all_drag, "results/DRAGNet_Master_Analysis.csv")

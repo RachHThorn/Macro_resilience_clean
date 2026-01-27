@@ -209,6 +209,10 @@ Drag <- read_csv("results/RE_SE_Taxon_site_all_DRAGNet.csv") %>%
 # filter by the taxa we are studying 
 mod_taxa <- readRDS("results/List_taxa_OLS_mods.R")
 Drag <- Drag %>% filter(Taxon %in% mod_taxa)
+list_sites <- unique(Drag$site_name)
+tibble(value = list_sites) %>%
+  write_csv("results/DRAG_sites_used.csv")
+
 
 # Now count the number of sites per taxa
 Drag <- Drag %>%
@@ -242,6 +246,25 @@ Table_2 <-
   mutate(Taxon = str_replace(Taxon, "_", " ")) %>%
   dplyr::select(Taxon, 'Demographic metric', 'Number of DRAGNet sites', 
                 'Number of COMPADRE matrices')
-write_csv(Table_2, "figures/SM_S1b_summary_table_nos_sites_matrices_per_taxon.csv")
+# write_csv(Table_2, "figures/SM_S1b_summary_table_nos_sites_matrices_per_taxon.csv")
 
-    
+# alternatively make the table in different format
+names(Table_2) <- c("Taxon", "Demo", "DRAG", "COMP")
+dat_1 <- Table_2 %>% dplyr::select("Taxon", "Demo", "COMP") %>% 
+  group_by(Taxon, Demo) %>% pivot_wider(names_from = Demo, values_from = COMP) %>%
+  mutate(Number = "Number of COMPADRE matrices")
+dat_2 <- Table_2 %>% dplyr::select("Taxon", "Demo", "DRAG") %>% 
+  group_by(Taxon, Demo) %>% pivot_wider(names_from = Demo, values_from = DRAG) %>%
+  mutate(Number = "Number of DRAGNet sites")
+dat <- rbind(dat_1, dat_2)
+dat <- dat %>% 
+  mutate(across(where(is.numeric), ~ tidyr::replace_na(.x, 0))) %>%
+  arrange(Taxon) 
+names(dat)
+dat <- dat %>% dplyr::select(Taxon, Number, "Net reproductive rate", "Per capita reproduction", 
+                      "Age at first reproduction", "Mean life expectancy", "Mean life expectancy",
+                      "Maximum length of life", "Population growth rate", "Reactivity", 
+                      "First step attenuation") %>%
+  rename("Maximum longevity" = "Maximum length of life")
+write_csv(dat, "figures/SM_S1b_summary_table_nos_sites_matrices_per_taxon.csv")
+
