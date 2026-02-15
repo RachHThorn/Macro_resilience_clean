@@ -1,7 +1,7 @@
-# R Thornley
-# 12/12/2025
-# Project: P1_COMPADRE_DRAGNET
-# Script: S7_species_strategies_calculate_T0
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script Name: S7_species_strategies_calculate_T0.R
 
 rm(list = ls())
 

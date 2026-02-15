@@ -1,7 +1,7 @@
-# R Thornley
-# 09/09/2025
-# Project: P1_COMPADRE_DRAGNET
-# Script: F3_robust_regressions
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script Name: F3_robust_regressions
 
 ################################################################################
 # Instructions
@@ -11,6 +11,8 @@
 # 2) BUILD FIGURE
 # 3) CREATE PLOT LAYOUT
 # 4) SAVE FIGURE
+
+rm(list = ls())
 
 ###############################################################################
 # 1) LOAD and TIDY uni-variate robust model results data / tidy names
@@ -179,6 +181,11 @@ fig_RM3 <- build_rm_figure_2x3(dat)
 fig_RM3
 
 # final plot without a title for the manuscript
+# WARNING: as we use a robust estimator - the actual plot may vary slightly 
+# each time the robust models are run
+# 
 # Save as TIFF (good for journals)
 ggsave("figures/Fig_3.tiff", plot = fig_RM3,
-       width = 8, height = 6, dpi = 600, compression = "lzw")
+       width = 8, height = 6, dpi = 600)
+
+#, compression = "lzw"

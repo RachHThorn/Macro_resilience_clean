@@ -1,7 +1,7 @@
-# R Thornley
-# 29/08/2025
-# Project: P1_COMPADRE_DRAGNET
-# Script: S3_GLMM_extract_random_effects_all_DRAG_data
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script Name: S3_GLMM_extract_random_effects_all_DRAGNet_cover_data.R
 
 rm(list = ls())
 
@@ -78,9 +78,7 @@ process_time_period <- function(file, time_label) {
   
   exp_list <- list(
     DIST  = c("Control", "Disturbance"),
-    NPK   = c("Control", "NPK"),
-    INTER = c("Control", "NPK+Disturbance")
-  )
+    NPK   = c("Control", "NPK"))
   
   taxon <- purrr::map_dfr(names(exp_list), function(e) {
     get_RE_taxon(dat, exp_list[[e]]) %>%

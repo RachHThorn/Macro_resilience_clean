@@ -1,7 +1,7 @@
-# R Thornley
-# 08/09/2025
-# Project: P1_COMPADRE_DRAGNET
-# Script: S5_bivariate_OLS_models_robust
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script Name: S5_bivariate_OLS_models_robust.R
 
 rm(list = ls())
 
@@ -42,6 +42,8 @@ demo <- read_csv("results/all_COMPADRE_metrics.csv") %>%
   mutate(Taxon_label = paste0(Taxon_label, " n = ", Sample_size)) %>%
   rename(Demo_se = se, Demo_sd = s)
 
+n_distinct(demo$SpeciesAccepted)
+
 # create a new variable for the logged values and a log flag column
 demo <- demo %>%
   mutate(Demo_value = if_else(Demo_trait %in% needs_natural_logging, log(Demo_value), Demo_value)) %>% 
@@ -51,7 +53,8 @@ demo <- demo %>%
 demo %>% group_by(Taxon, Demo_trait) %>% count()
 
 # save a vector of taxa names to use in the modelling
-comp_taxa <- unique(demo$Taxon) # 42 taxa
+comp_taxa <- unique(demo$Taxon) 
+comp_taxa # 39 taxa
 
 # read in effect sizes from the whole of DRAGNet 
 taxa <- read_csv("results/RE_SE_Taxon_all_DRAGNet.csv")
@@ -71,7 +74,7 @@ taxa <-
   rename(Taxon = group, RE = value, RE_se = se) %>%
   filter(ID == "1")
 names(taxa)
-unique(taxa$Taxon) # 41 unique taxa here
+unique(taxa$Taxon) # 39 unique taxa here
 
 # first simplify the demo data to just the mean values
 demo <- 
@@ -99,8 +102,16 @@ unique(both$Taxon)
 
 # export that list of species we are using in the final models
 taxa_list <- unique(both$Taxon)
-length(taxa_list) # 41 taxa here
-saveRDS(taxa_list, "results/List_taxa_OLS_mods.R")
+length(taxa_list) # 39 taxa here
+# output as a vector
+saveRDS(taxa_list, "results/List_taxa_OLS_models.R")
+# output as a csv 
+taxa_list <- taxa_list %>% as.data.frame(taxa_list)
+taxa_list <- taxa_list %>%
+  rename(taxa = ".") %>%
+  mutate(taxa = str_replace(taxa, "_", " "))
+rownames(taxa_list) <- NULL
+write_csv(taxa_list, "results/List_taxa_OLS_models.csv")
 
 # save the modelling data
 write_csv(both, "results/OLS_modelling_master_data.csv")

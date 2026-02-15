@@ -45,6 +45,8 @@ dat <- dat %>%
     ) %>%
     filter(hypoth != "none") 
 
+n_distinct(dat$Taxon) # why is this now 39??
+
 # calculate the number of taxa in each group
 Nos_taxa <- dat %>%
   group_by(time_period, experiment, Demo_trait) %>%
@@ -104,7 +106,7 @@ taxa <-
   dplyr::select(group, value, se, model, time_period, experiment) %>%
   rename(Taxon = group, RE = value, RE_se = se) %>%
   filter(model == "Ordbeta")
-unique(taxa$Taxon) # 40 unique taxa here
+unique(taxa$Taxon) # 39 unique taxa here
 
 # join both data sets
 both <- taxa %>% left_join(demo, by = "Taxon")
@@ -169,7 +171,7 @@ both$`Time period` <- factor(both$`Time period`,
 Nos_mat <- both %>% arrange(Hypothesis, `Time period`, Experiment, 'Demographic metric')
 
 ################################################################################
-# join the tables from the two first sections
+# join the tables from the two first sections and export as table SM_S1a
 ###############################################################################
 
 Table_1 <- Nos_taxa %>% left_join(Nos_mat)
@@ -189,6 +191,8 @@ nos_mat_taxa <- read_csv("results/all_COMPADRE_metrics.csv") %>%
 # n shows us the number of matrices we are using for each species
 nos_mat_taxa <-
   nos_mat_taxa %>% group_by(Taxon, Demo_trait) %>% count() %>% rename('Number of matrices' = n)
+unique(nos_mat_taxa$Taxon)
+# 42 taxa????? - but these are not the taxa used in the final analysis: there are too many
 
 ###############################################################################
 # PART 4: Number of DRAGNet sites for each species

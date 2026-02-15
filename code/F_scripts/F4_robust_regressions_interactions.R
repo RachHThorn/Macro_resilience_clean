@@ -1,7 +1,7 @@
-# R Thornley
-# 30/11/2025
-# Project: P1_COMPADRE_DRAGNET
-# Script: F4_robuts_regression_interactions
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script name: F4_robust_regression_interactions
 
 rm(list = ls())
 
@@ -44,12 +44,11 @@ sig_mods %>% group_by(Comm_var) %>% tally() %>% arrange(-n)
 list_sig_mods <- sig_mods %>% pull(mod_name)
 list_sig_mods
 
-# Filter for the Comm_vars we want to report on (we don't want to reporton some of them)
+# Filter for the Comm_vars we want to report on (we don't want to report on some of them)
 comm_wanted <- c("variability", "meanSigmas", "site_time_invsimp", "mean_cover")
 comm_wanted <- sig_mods %>% filter(Comm_var %in% comm_wanted)
 comm_wanted <- comm_wanted$mod_name
 comm_wanted
-# there are 39 significant models 
 
 # create a significance flag
 dat <- dat %>% mutate(sig_flag = if_else(mod_name %in% list_sig_mods, TRUE, FALSE))
@@ -292,3 +291,5 @@ new_plot
 
 # plot with the completely independent axes
 ggsave("figures/Fig_4.tiff", new_plot, width = 10, height = 11)
+
+

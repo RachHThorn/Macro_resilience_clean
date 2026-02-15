@@ -27,7 +27,7 @@ Drag_dat <- read_csv("results/RE_SE_Taxon_site_all_DRAGNet.csv") %>%
   dplyr::select(Taxon, site_name, model, time_period, experiment)
 
 # Load the list of taxa used in the modelling and filter the DRAGNet data for these taxa
-mod_taxa <- readRDS("results/List_taxa_OLS_mods.R")
+mod_taxa <- readRDS("results/List_taxa_OLS_models.R")
 Drag <- 
   Drag_dat %>% filter(Taxon %in% mod_taxa) %>%
   filter(experiment %in% c("DIST", "NPK")) %>%
@@ -44,7 +44,7 @@ meta <- read_csv("data/site-info-drag-2024-07-29.csv") %>%
 cover_locations <- Drag %>% left_join(meta, by = "site_name")
 
 # COMPADRE data load and filter for the taxa we used in the final modelling
-taxa_wanted <- readRDS("results/List_taxa_OLS_mods.R")
+taxa_wanted <- readRDS("results/List_taxa_OLS_models.R")
 
 matrix_locations <- read_csv("results/meta_data_compadre.csv") %>%
   dplyr::select(MatrixID, SpeciesAccepted, Lat, Lon, Country, Continent) %>%

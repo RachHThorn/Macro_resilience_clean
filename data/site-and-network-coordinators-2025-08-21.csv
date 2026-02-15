@@ -1,0 +1,106 @@
+site_coordinator,network_coordinator,lastname,firstname,email,institution,department,current_coordinator,start_year,end_year,site_name,site_code
+yes,no,Amisu,Ahmed,amisuahmed9@gmail.com,Federal University of Agriculture Abeokuta,Department of Pasture and Range Management,yes,2022,,Abeokuta,abeo_dn.ng
+yes,no,Jimoh,Saheed,sahjim05@gmail.com,Rice University,Biosciences Department,yes,2022,,Abeokuta,abeo_dn.ng
+yes,no,Muraina,Taofeek,too.muraina@gmail.com,"Oyo State College of Agriculture and Technology, Igbo-Ora",Department of Animal Health and Production,yes,2022,,Abeokuta,abeo_dn.ng
+yes,no,Dwyer,Ciara,ciara.dwyer@cec.lu.se,Lund University,Centre for Environmental and Climate Science,yes,2021,,Ainsdale Dune Slacks,ains_dn.uk
+yes,no,Millett,Jonathan,j.millett@lboro.ac.uk,Loughborough University,Geography & Environment,yes,2021,,Ainsdale Dune Slacks,ains_dn.uk
+yes,no,Casimiro-Soriguer,Ramon,ramon.casimiro@uca.es,Universidad de Cadiz,Biology,yes,2020,,Algaida,alga_dn.es
+yes,no,Ochoa-Hueso,Raul,rochoahueso@gmail.com,Universidad de Cadiz,Biology,yes,2020,,Algaida,alga_dn.es
+yes,no,Boughton,Elizabeth,eboughton@archbold-station.org,Archbold Biological Station,Buck Island Ranch,yes,2021,,Archbold Biological Station,arch_dn.us
+yes,no,Sonnier,Gregory,gsonnier@archbold-station.org,Archbold Biological Station,Agroecology,yes,2021,,Archbold Biological Station,arch_dn.us
+yes,no,Harpole,W. Stanley,Stan.Harpole@ufz.de,"Helmholtz Centre for Environmental Research (UFZ), German Center of Integrative Biodiversity Research (iDiv), Martin-Luther-University Halle-Wittenberg Halle/Saale",Department for Physiological Diversity,yes,2020,,Bad Lauchstaedt,badlau_dn.de
+yes,no,Roscher,Christiane,,,,yes,2020,,Bad Lauchstaedt,badlau_dn.de
+yes,no,Jentsch,Anke,Anke.Jentsch@uni-bayreuth.de,University of Bayreuth,Disturbance Ecology and Vegetation Dynamics,yes,2020,,Bayreuth DRAGNet,bayr_dn.de
+yes,no,Schuchardt,Max,max.schuchardt@uni-bayreuth.de,University of Bayreuth,Department of Disturbance Ecology,yes,2020,,Bayreuth DRAGNet,bayr_dn.de
+yes,no,Epstein,Howard,hee2b@virginia.edu,University of Virginia,Environmental Sciences,yes,2021,,Blandy Experimental Farm,blan_dn.us
+yes,no,Petrovick,Stephanie,dwv4dj@virginia.edu,University of Virginia,Environmental Sciences,yes,2022,,Blandy Experimental Farm,blan_dn.us
+yes,no,Koerner,Sally,sekoerne@uncg.edu,University of North Carolina Greensboro,Department of Biology,yes,2019,,Bladen Lakes State Forest,blsf_dn.us
+yes,no,Young,Alyssa,alyoung6@uncg.edu,University of North Carolina Greensboro,Department of Biology,yes,2019,,Bladen Lakes State Forest,blsf_dn.us
+yes,no,Godoy,Oscar,ogodoy.re@gmail.com,Estacion Biologica Donana-CSIC,Ecology and Evolution,yes,2021,,Caracoles,cara_dn.es
+yes,no,Hurtado,Maria,NA,Estacion Biologica Donana-CSIC,Ecology and Evolution,yes,2021,,Caracoles,cara_dn.es
+yes,no,Lucas,Jane,lucasj@caryinstitute.org,Cary Institute of Ecosystem Studies,NULL,yes,2022,,Cary IES,cary_dn.us
+yes,no,Dickie,Ian,ian.dickie@canterbury.ac.nz,University of Canterbury,School of Biological Sciences,yes,2022,,Cass,cass_dn.nz
+yes,no,McCarthy,James,mccarthyj@landcareresearch.co.nz,Manaaki Whenua - Landcare Research,Ecosystems and Conservation,yes,2022,,Cass,cass_dn.nz
+yes,no,Richardson,Sarah,richardsons@landcareresearch.co.nz,Manaaki Whenua - Landcare Research,Ecosystems and Conservation,yes,2022,,Cass,cass_dn.nz
+yes,no,Martinez Galvez,Fernanda,mfermartinezg@gmail.com,"University of Göttingen, Laboratorio de Ecología Aplicada a la Conservación (LEAC-UNSa)",Plant Ecology and Ecosystem Research,no,2021,2023,Castellanos,cast_dn.ar
+yes,no,Schulze-Sylvester,Maria,Maria.SchulzeSylvester@hs-gm.de,Hochschule Geisenheim University,,no,2021,2023,Castellanos,cast_dn.ar
+yes,yes,Borer,Elizabeth,borer@umn.edu,University of Minnesota,"Department of Ecology, Evolution, and Behavior",yes,2020,,Cedar Creek LTER,cedr_dn.us
+yes,yes,Seabloom,Eric,seabloom@umn.edu,University of Minnesota,"Department of Ecology, Evolution, and Behavior",yes,2020,,Cedar Creek LTER,cedr_dn.us
+yes,no,Decencière,Beatriz,beatriz.decenciere@bio.ens.psl.eu ,CNRS,CEREEP-Ecotron IleDeFrance,yes,2022,,CEREEP - Ecotron IDF,cereep_dn.fr
+yes,no,Le Galliard,Jean-François,galliard@bio.ens.psl.eu,CNRS,CEREEP-Ecotron IleDeFrance,yes,2022,,CEREEP - Ecotron IDF,cereep_dn.fr
+yes,no,Raynaud,Xavier,xavier.raynaud@sorbonne-universite.fr,Sorbonne University,Institute for Ecology and Ecosystem Science of Paris,yes,2022,,CEREEP - Ecotron IDF,cereep_dn.fr
+yes,no,Mariotte,Pierre,pierre.mariotte@agroscope.admin.ch,Agroscope,Grazing Systems Group,yes,2020,,Agroscope Changins,chan_dn.ch
+yes,no,Probo,Massimiliano,massimiliano.probo@agroscope.admin.ch,Agroscope,Grazing Systems Group,yes,2020,,Agroscope Changins,chan_dn.ch
+yes,no,Hersch-Green,Erika,eherschg@mtu.edu,Michigan Technological University,Biological Sciences,yes,2021,,Churning Rapids,chur_dn.us
+yes,no,Sullivan,Lauren,laurensul@gmail.com,Iowa State University,"Department of Ecology, Evolution, and Organismal Biology",yes,2020,,Colombia Missouri,como_dn.us
+yes,no,MacDougall,Andrew,asm@uoguelph.ca,University of Guelph,Department of Integrative Biology,yes,2019,,Cowichan,cowi_dn.ca
+yes,no,Henning,Jeremiah,hennij35@gmail.com,University of South Alabama,Biology,yes,2021,,Dauphin Island,daup_dn.us
+yes,no,Holub,Petr,holub.p@czechglobe.cz,Global Change Reserch Institute CAS,Laboratory of Ecological Plant Physiology,yes,2022,,Domaninek,doma_dn.cz
+yes,no,Atkinson,Joe,j.atkinson@unsw.edu.au,UNSW Sydney,Evolution and Ecology Research Centre,yes,2022,,Fowlers Gap,fowl_dn.au
+yes,no,Stewart,Jana,j.stewart@unsw.edu.au,UNSW Sydney,Centre for Ecosystem Science,yes,2022,,Fowlers Gap,fowl_dn.au
+yes,no,O'Halloran,Lydia,lohallo@clemson.edu,Clemson University,"Baruch Institute of Coastal Ecology and Forest Science, Dept. of Forestry & Environmental Conservation",yes,2022,,Hobcaw Barony,hoca_dn.us
+yes,no,Ren,Haiyan,hren@njau.edu.cn,Nanjing Agricultural University,College of Aro-Grassland Sciences,yes,2025,,Hulun Buir,hulu_dn.cn
+yes,no,Yu,Qiang,yuqiang@caas.cn,School of Grassland Science,Beijing Forestry University,no,2022,2024,Hulun Buir,hulu_dn.cn
+yes,no,von Holle,Betsy,betsy.vonholle@gwu.edu,George Washington University,Biology,yes,2022,,Izaak Walton League of America (IWLA),iwla_dn.us
+yes,no,Gherardi,Lau,lau.gherardi@berkeley.edu,University of California Berkeley,"Environmental Science, Policy, and Management",yes,2023,,Jasper Ridge Biological Preserve,jasp_dn.us
+yes,no,Ramos,Jorge,jramosh@stanford.edu,Stanford University,Jasper Ridge Biological Preserve,yes,2023,,Jasper Ridge Biological Preserve,jasp_dn.us
+yes,no,Ebeling,Anne,anne.ebeling@uni-jena.de,Friedrich-Schiller-Universitat Jena,Institute of Ecology,yes,2021,,Jena,jena_dn.de
+yes,no,Roscher,Christiane,christiane.roscher@ufz.de,German Centre for Integrative Biodiversity Research (iDiv),Helmholtz Centre for Envrionmental Research (UFZ),yes,2021,,Jena,jena_dn.de
+yes,no,Brudvig,Lars,brudvig@msu.edu,Michigan State University,Department of Plant Biology,yes,2022,,Kellogg Biological Station (KBS),kell_dn.us
+yes,no,Catano,Christopher,chcatano@gmail.com,Michigan State University,Department of Plant Biology,yes,2022,,Kellogg Biological Station (KBS),kell_dn.us
+yes,no,Sullivan,Lauren,laurensul@gmail.com,Iowa State University,"Department of Ecology, Evolution, and Organismal Biology",yes,2024,,Kellogg Biological Station (KBS),kell_dn.us
+yes,no,Avolio,Meghan,meghan.avolio@jhu.edu,Johns Hopkins University,Department of Earth and Planetary Sciences,yes,2021,,Konza LTER DRAGNet,konz_dn.us
+yes,no,Komatsu,Kimberly,kjkomatsu@uncg.edu,University of North Carolina Greensboro,Department of Biology,yes,2021,,Konza LTER DRAGNet,konz_dn.us
+yes,no,Clark,Adam,adam.clark@uni-graz.at,University of Graz,Institute of Biology,yes,2021,,Kniezenberg,kzbg_dn.at
+yes,no,Ladouceur,Emma,emmala@gmail.com,German Centre for Integrative Biodiversity Research (iDiv),German Centre for Integrative Biodiversity Research (iDiv),yes,2021,,Kniezenberg,kzbg_dn.at
+yes,no,Alharbi,Mahmoud,m.alharbi@lancaster.ac.uk,Lancaster University,NULL,yes,2021,,Hazelrigg,lancaster_dn.uk
+yes,no,Stevens,Carly,c.stevens@lancaster.ac.uk,Lancaster University,Lancaster Environment Center,yes,2021,,Hazelrigg,lancaster_dn.uk
+yes,no,Griffin,Sean,sgriffin@wildflower.org,University of Texas at Austin,Lady Bird Johnson Wildflower Center,yes,2022,,Ladybird Johnson Wildflower Center,ljwc_dn.us
+yes,no,Wolf,Amelia,amywolf@utexas.edu,University of Texas at Austin,Integrative Biology,yes,2022,,Ladybird Johnson Wildflower Center,ljwc_dn.us
+yes,no,Li,Daijiang,daijianglee@gmail.com,Louisiana State University,Biological Sciences,yes,2021,,LSU Botanical Garden,lsbg_dn.us
+yes,no,Kandlikar,Gaurav,gkandlikar@lsu.edu ,Louisiana State University,Biological Sciences,yes,2024,,LSU Botanical Garden,lsbg_dn.us
+yes,no,Garbowski,Magda,magda.garbowski@uwyo.edu,University of Wyoming,Botany,yes,2021,,Lublin,lubl_dn.pl
+yes,no,Sender,Joanna,joanna.sender@up.lublin.pl,Univesity of Life Sciences in Lublin,Hydrobiology and Protection of Ecosystems,yes,2021,,Lublin,lubl_dn.pl
+yes,no,Sartor,Carmen,csartor@fca.uncu.edu.ar,Universidad Nacional de Cuyo,Facultad de Ciencias Agrarias,yes,2022,,Mendoza,mend_dn.ar
+yes,no,Ogaya,Roma,r.ogaya@creaf.uab.cat,CREAF-CSIC,Global Ecology Unit,yes,2021,,Meranges,mera_dn.es
+yes,no,Peñuelas,Josep,Josep.Penuelas@uab.cat,CREAF-CSIC,Global Ecology Unit,yes,2021,,Meranges,mera_dn.es
+yes,no,Moreira,Bruno,brjmoreira@gmail.com,"Centro de Investigaciones sobre Desertificaci√≥n (CIDE), Consejo Superior de Investigaciones Cientificas (CSIC)",Ecology and global change,yes,2022,,Morella la Vella,more_dn.es
+yes,no,Catford,Jane,jane.catford@anu.edu.au,King's College London; The Australian National University,Department of Geography; Fenner School of Environment & Society,yes,2021,,Nillahcootie,nilla_dn.au
+yes,no,Fenster,Charles,charles.fenster@sdstate.edu,South Dakota State University,Oak Lake Field Station,yes,2022,,Oak Lake Field Station,olfs_dn.us
+yes,no,Abney,Rebecca,rebecca.abney@uga.edu,University of Georgia,Warnell School of Forestry and Natural Resources,yes,2022,,Piedmont Prairie,pied_dn.us
+yes,no,Chung,Anny,yyachung@uga.edu,University of Georgia,Plant Biology and Plant Pathology,yes,2022,,Piedmont Prairie,pied_dn.us
+yes,no,Strauss,Alexander,atstrauss@uga.edu,University of Georgia,Odum School of Ecology,yes,2022,,Piedmont Prairie,pied_dn.us
+yes,no,Peri,Pablo Luis,peri.pablo@inta.gob.ar,UNPA - CONICET,Grupo Forestal,yes,2021,,Potrok Aike,potrok_dn.ar
+yes,no,Wu,Linwei,linwei.wu@pku.edu.cn,Peking University,College of Urban and Environmental Sciences,yes,2023,,Saihanba,saih_dn.cn
+yes,no,Yin,Wang,wangyinpku@pku.edu.cn,Peking University,College of Urban and Environmental Sciences,yes,2023,,Saihanba,saih_dn.cn
+yes,no,Tognetti,Pedro,tognetti@agro.uba.ar,Universidad de Buenos Aires,Facultad de Agronom√≠a,yes,2021,,San Claudio,sanc_dn.ar
+yes,no,Pennings,Steven,scpennin@central.uh.edu,University of Houston,Deparment of Biology and Biochemistry,yes,2021,,GCE LTER - Sapelo Island,sape_dn.us
+yes,no,Osborne,Brooke,brooke.osborne@usu.edu,US Geological Survey,Southwest Biological Science Center,yes,2021,,Sandflats,sdft_dn.us
+yes,no,Reed,Sasha,screed@usgs.gov,US Geological Survey,Southwest Biological Science Center,no,2021,2022,Sandflats,sdft_dn.us
+yes,no,Blumenthal,Dana,dana.blumenthal@usda.gov,USDA Agricultural Research Service,Rangeland Resources & Systems Research Unit,yes,2021,,Shortgrass Steppe LTER,sgs_dn.us
+yes,no,Brown,Cynthia,cynthia.s.brown@colostate.edu,Colorado State University,Agricultural Biology,yes,2021,,Shortgrass Steppe LTER,sgs_dn.us
+yes,no,DeMalach,Niv,niv.demalach@mail.huji.ac.il,The Hebrew University of Jerusalem,Plant Sciences,yes,2023,,Park Shaked,shak_dn.il
+yes,no,Gross,Or,orgross3@gmail.com,The Hebrew University of Jerusalem,Plant Sciences,yes,2023,,Park Shaked,shak_dn.il
+yes,no,Hallett,Lauren,hallett@uoregon.edu,University of Oregon,NULL,no,2022,2022,Sierra Foothills REC,sier_dn.us
+yes,no,Larios,Loralee,loralee@ucr.edu,University of California Riverside,NULL,no,2022,2022,Sierra Foothills REC,sier_dn.us
+yes,no,Werner,Chhaya,cwerner5@uwyo.edu,Southern Oregon University,Environmental Science Policy and Sustainability,yes,2022,,Sierra Foothills REC,sier_dn.us
+yes,no,Zhong,Zhiwei,zhongzw822@nenu.edu.cn,Northeast Normal University,Institute of Grassland Science,yes,2022,,Songyuan,song_dn.cn
+yes,no,Clark,Adam,adam.clark@uni-graz.at,University of Graz,Institute of Biology,yes,2023,,Stoderzinken,stod_dn.at
+yes,no,Fay,Phil,philip.fay@usda.gov,USDA Agricultural Research Service,Grassland Soil and Water Research Laboratory,yes,2021,,Temple,temple_dn.us
+yes,no,Martina,Jason,j_m1601@txstate.edu,Texas State University,Biology,yes,2021,,Temple,temple_dn.us
+yes,no,Veldman,Joe,veldman@tamu.edu,Texas A&M University,Ecology and Conservation Biology,yes,2021,,Temple,temple_dn.us
+yes,no,Kirkman,Kevin,kirkmank@ukzn.ac.za,University of KwaZulu-Natal,School of Life Sciences,yes,2021,,Ukulinga,ukul_dn.za
+yes,no,Nkuna,Sindiso,Chamane@ukzn.ac.za ,University of KwaZulu-Natal,School of Life Sciences,yes,2021,,Ukulinga,ukul_dn.za
+yes,no,Tedder,Michelle,Tedder@ukzn.ac.za ,University of KwaZulu-Natal,School of Life Sciences,yes,2021,,Ukulinga,ukul_dn.za
+yes,no,Classen,Aimee,aclassen@umich.edu,University of Michigan,Department of Ecology & Evolutionary Biology,yes,2021,,University of Michigan Biological Station,umbs_dn.us
+yes,no,DeSiervo,Melissa,mdesierv@uwyo.edu,University of Wyoming,Botany,yes,2021,,University of Wyoming - SAREC,uwyo_dn.us
+yes,no,Shoemaker,Lauren,lshoema1@uwyo.edu,University of Wyoming,Botany,yes,2021,,University of Wyoming - SAREC,uwyo_dn.us
+yes,no,Risch,Anita,anita.risch@wsl.ch,"Swiss Federal Institute for Forest, Snow and Landscape Research","Swiss Federal Institute for Forest, Snow and Landscape Research",yes,2022,,WSL,wald_dn.ch
+yes,no,Schuetz,Martin,martin.schuetz@wsl.ch,"Swiss Federal Institute for Forest, Snow and Landscape Research","Swiss Federal Institute for Forest, Snow and Landscape Research",yes,2022,,WSL,wald_dn.ch
+yes,no,Parker,Timothy,parkerth@whitman.edu,Whitman College,Biology,yes,2019,,Wallula Gap Biological Station-North Face,wgno_dn.us
+yes,no,Parker,Timothy,parkerth@whitman.edu,Whitman College,Biology,yes,2019,,Wallula Gap Biological Station-South Face,wgso_dn.us
+yes,no,Hector,Andrew,andrew.hector@plants.ox.ac.uk,University of Oxford,Plant Sciences,yes,2021,,Wytham Woods,wyth_dn.uk
+yes,no,Salguero-Gomez,Roberto,rob.salguero@zoo.ox.ac.uk,University of Oxford,Zoology,yes,2021,,Wytham Woods,wyth_dn.uk
+yes,no,Thornley,Rachael,rachael.thornley@biology.ox.ac.uk,University of Oxford,Biology,yes,2024,,Wytham Woods,wyth_dn.uk
+no,yes,Porath-Krause,Anita,aporathk@umn.edu,University of Minnesota,"Department of Ecology, Evolution, and Behavior",yes,2019,,DRAGNet Headquarters,
+no,yes,Slette,Ingrid,slett152@umn.edu,University of Minnesota,"Department of Ecology, Evolution, and Behavior",yes,2024,,DRAGNet Headquarters,

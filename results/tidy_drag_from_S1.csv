@@ -1,0 +1,2743 @@
+site_name,site_code,New_taxon,block,trt,year_trt,max_cover,year
+Cary IES,cary_dn.us,Acer_saccharum,1,Control,T2,1,2024
+Cary IES,cary_dn.us,Acer_saccharum,1,Disturbance,T2,1,2024
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,2,Control,T0,6,2021
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,3,Disturbance,T0,10,2021
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,3,NPK,T0,1,2021
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,2,Control,T1,4,2022
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,3,Disturbance,T1,3,2022
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,3,NPK,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,2,Control,T2,14,2023
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,3,Disturbance,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,2,Control,T3,8,2024
+Bad Lauchstaedt,badlau_dn.de,Achillea_millefolium,3,NPK,T3,0.5,2024
+Bayreuth DRAGNet,bayr_dn.de,Achillea_millefolium,5,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Achillea_millefolium,5,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Achillea_millefolium,5,Control,T2,2,2022
+Bayreuth DRAGNet,bayr_dn.de,Achillea_millefolium,1,Disturbance,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Achillea_millefolium,5,Control,T3,0.1,2023
+Cary IES,cary_dn.us,Achillea_millefolium,1,Disturbance,T0,2,2022
+Cary IES,cary_dn.us,Achillea_millefolium,1,NPK,T0,20,2022
+Cary IES,cary_dn.us,Achillea_millefolium,2,NPK,T0,2,2022
+Cary IES,cary_dn.us,Achillea_millefolium,3,NPK,T0,3,2022
+Cary IES,cary_dn.us,Achillea_millefolium,1,Disturbance,T1,10,2023
+Cary IES,cary_dn.us,Achillea_millefolium,1,NPK,T1,10,2023
+Cary IES,cary_dn.us,Achillea_millefolium,2,Control,T1,5,2023
+Cary IES,cary_dn.us,Achillea_millefolium,2,NPK,T1,3,2023
+Cary IES,cary_dn.us,Achillea_millefolium,3,Disturbance,T1,2,2023
+Cary IES,cary_dn.us,Achillea_millefolium,3,NPK,T1,1,2023
+Cary IES,cary_dn.us,Achillea_millefolium,4,Disturbance,T1,1,2023
+Cary IES,cary_dn.us,Achillea_millefolium,5,Disturbance,T1,4,2023
+Cary IES,cary_dn.us,Achillea_millefolium,1,Disturbance,T2,5,2024
+Cary IES,cary_dn.us,Achillea_millefolium,1,NPK,T2,3,2024
+Cary IES,cary_dn.us,Achillea_millefolium,2,Disturbance,T2,2,2024
+Cary IES,cary_dn.us,Achillea_millefolium,2,Control,T2,1,2024
+Cary IES,cary_dn.us,Achillea_millefolium,3,NPK,T2,5,2024
+Cary IES,cary_dn.us,Achillea_millefolium,3,Control,T2,10,2024
+Cary IES,cary_dn.us,Achillea_millefolium,4,Disturbance,T2,6,2024
+Cary IES,cary_dn.us,Achillea_millefolium,5,Disturbance,T2,3,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Achillea_millefolium,2,Control,T2,3,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Achillea_millefolium,3,NPK,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Achillea_millefolium,2,Control,T3,3,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Achillea_millefolium,3,NPK,T3,2,2024
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,NPK,T0,8,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Disturbance,T0,10,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Control,T0,8,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Disturbance,T0,9,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Control,T0,8,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,NPK,T0,7,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,NPK,T0,10,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Disturbance,T0,8,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Control,T0,13,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,Control,T0,5,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,NPK,T0,9,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,Disturbance,T0,8,2020
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,NPK,T1,5,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Disturbance,T1,7,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Control,T1,6,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Disturbance,T1,6,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Control,T1,11,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,NPK,T1,6,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,NPK,T1,18,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Disturbance,T1,9,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Control,T1,14,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,Control,T1,10,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,NPK,T1,19,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,Disturbance,T1,10,2021
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,NPK,T2,2,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Disturbance,T2,1,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Control,T2,1,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Control,T2,5,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,NPK,T2,9,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Disturbance,T2,3,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Control,T2,10,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,Control,T2,5,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,NPK,T2,7,2022
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,NPK,T3,4,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Disturbance,T3,6,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,1,Control,T3,7,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Disturbance,T3,3,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,Control,T3,7,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,2,NPK,T3,3,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Disturbance,T3,1,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,3,Control,T3,10,2023
+Agroscope Changins,chan_dn.ch,Achillea_millefolium,4,Control,T3,1,2023
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,Disturbance,T0,15,2021
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,NPK,T0,16,2021
+Churning Rapids,chur_dn.us,Achillea_millefolium,2,Control,T0,5,2021
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,NPK,T0,3,2021
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,Control,T0,14,2021
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,Disturbance,T0,8,2021
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,Disturbance,T1,8,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,NPK,T1,20,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,Control,T1,1,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,2,Control,T1,2,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,NPK,T1,8,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,Control,T1,12,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,Disturbance,T1,3,2022
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,Disturbance,T2,10,2023
+Churning Rapids,chur_dn.us,Achillea_millefolium,1,NPK,T2,2,2023
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,NPK,T2,3,2023
+Churning Rapids,chur_dn.us,Achillea_millefolium,4,Control,T2,12,2023
+Domaninek,doma_dn.cz,Achillea_millefolium,1,NPK,T1,37.5,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,2,NPK,T0,0.5,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,2,Control,T0,2,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,2,Disturbance,T0,4,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,3,Disturbance,T0,5,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,1,Disturbance,T1,3,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,2,Control,T1,0.5,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,2,Disturbance,T1,3,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Achillea_millefolium,3,Disturbance,T1,3,2023
+Jena,jena_dn.de,Achillea_millefolium,4,Control,T0,80,2021
+Jena,jena_dn.de,Achillea_millefolium,4,NPK,T0,66,2021
+Jena,jena_dn.de,Achillea_millefolium,4,Disturbance,T0,75,2021
+Jena,jena_dn.de,Achillea_millefolium,5,NPK,T0,88,2021
+Jena,jena_dn.de,Achillea_millefolium,5,Control,T0,58,2021
+Jena,jena_dn.de,Achillea_millefolium,5,Disturbance,T0,52,2021
+Jena,jena_dn.de,Achillea_millefolium,6,Disturbance,T0,93,2021
+Jena,jena_dn.de,Achillea_millefolium,6,NPK,T0,58,2021
+Jena,jena_dn.de,Achillea_millefolium,6,Control,T0,39,2021
+Jena,jena_dn.de,Achillea_millefolium,4,Control,T1,57,2022
+Jena,jena_dn.de,Achillea_millefolium,4,NPK,T1,65,2022
+Jena,jena_dn.de,Achillea_millefolium,4,Disturbance,T1,4,2022
+Jena,jena_dn.de,Achillea_millefolium,5,NPK,T1,87,2022
+Jena,jena_dn.de,Achillea_millefolium,5,Control,T1,37,2022
+Jena,jena_dn.de,Achillea_millefolium,5,Disturbance,T1,10,2022
+Jena,jena_dn.de,Achillea_millefolium,6,Disturbance,T1,3,2022
+Jena,jena_dn.de,Achillea_millefolium,6,NPK,T1,55,2022
+Jena,jena_dn.de,Achillea_millefolium,6,Control,T1,48,2022
+Jena,jena_dn.de,Achillea_millefolium,4,Control,T2,79,2023
+Jena,jena_dn.de,Achillea_millefolium,4,NPK,T2,87,2023
+Jena,jena_dn.de,Achillea_millefolium,4,Disturbance,T2,2,2023
+Jena,jena_dn.de,Achillea_millefolium,5,NPK,T2,68,2023
+Jena,jena_dn.de,Achillea_millefolium,5,Control,T2,93,2023
+Jena,jena_dn.de,Achillea_millefolium,5,Disturbance,T2,8,2023
+Jena,jena_dn.de,Achillea_millefolium,6,Disturbance,T2,2,2023
+Jena,jena_dn.de,Achillea_millefolium,6,NPK,T2,20,2023
+Jena,jena_dn.de,Achillea_millefolium,6,Control,T2,68,2023
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,1,NPK,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,2,NPK,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,Control,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,NPK,T0,20,2021
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,Disturbance,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,2,NPK,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,Control,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,NPK,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,1,Disturbance,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,1,NPK,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,2,Disturbance,T2,2,2023
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,Control,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,2,NPK,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,Control,T3,1,2024
+Kellogg Biological Station (KBS),kell_dn.us,Achillea_millefolium,3,Disturbance,T3,1,2024
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,1,NPK,T0,9,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,1,Disturbance,T0,2,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,1,Control,T0,3,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,2,NPK,T0,13,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,3,Control,T0,1,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,3,Disturbance,T0,3,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,4,Control,T0,3,2022
+Konza LTER DRAGNet,konz_dn.us,Achillea_millefolium,5,NPK,T0,5,2022
+Kniezenberg,kzbg_dn.at,Achillea_millefolium,3,NPK,T1,1,2023
+Hazelrigg,lancaster_dn.uk,Achillea_millefolium,2,Disturbance,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Achillea_millefolium,2,Disturbance,T1,8,2023
+Lublin,lubl_dn.pl,Achillea_millefolium,1,Control,T0,20,2021
+Lublin,lubl_dn.pl,Achillea_millefolium,1,Disturbance,T0,1,2021
+Lublin,lubl_dn.pl,Achillea_millefolium,2,NPK,T0,0.5,2021
+Lublin,lubl_dn.pl,Achillea_millefolium,1,Control,T1,8,2022
+Lublin,lubl_dn.pl,Achillea_millefolium,1,Disturbance,T1,2,2022
+Lublin,lubl_dn.pl,Achillea_millefolium,3,Control,T1,0.5,2022
+Meranges,mera_dn.es,Achillea_millefolium,1,Control,T0,31,2021
+Meranges,mera_dn.es,Achillea_millefolium,1,Disturbance,T0,2,2021
+Meranges,mera_dn.es,Achillea_millefolium,1,NPK,T0,2,2021
+Meranges,mera_dn.es,Achillea_millefolium,3,Control,T0,1,2021
+Meranges,mera_dn.es,Achillea_millefolium,3,Disturbance,T0,3,2021
+Meranges,mera_dn.es,Achillea_millefolium,1,Control,T1,14,2022
+Meranges,mera_dn.es,Achillea_millefolium,1,NPK,T1,5,2022
+Meranges,mera_dn.es,Achillea_millefolium,2,Control,T1,0.5,2022
+Meranges,mera_dn.es,Achillea_millefolium,2,NPK,T1,3,2022
+Meranges,mera_dn.es,Achillea_millefolium,3,Control,T1,4,2022
+Meranges,mera_dn.es,Achillea_millefolium,3,Disturbance,T1,2,2022
+Meranges,mera_dn.es,Achillea_millefolium,1,NPK,T2,2,2023
+Meranges,mera_dn.es,Achillea_millefolium,2,NPK,T2,4,2023
+Meranges,mera_dn.es,Achillea_millefolium,3,Disturbance,T2,9,2023
+Meranges,mera_dn.es,Achillea_millefolium,1,Control,T3,5,2024
+Meranges,mera_dn.es,Achillea_millefolium,1,Disturbance,T3,4,2024
+Meranges,mera_dn.es,Achillea_millefolium,1,NPK,T3,2,2024
+Meranges,mera_dn.es,Achillea_millefolium,3,Control,T3,2,2024
+Meranges,mera_dn.es,Achillea_millefolium,3,Disturbance,T3,1,2024
+Stoderzinken,stod_dn.at,Achillea_millefolium,2,Control,T0,1,2023
+WSL,wald_dn.ch,Achillea_millefolium,3,Control,T0,1,2020
+WSL,wald_dn.ch,Achillea_millefolium,3,Disturbance,T2,1,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,3,Disturbance,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,4,Control,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Disturbance,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Control,T0,7,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,1,Disturbance,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,2,Disturbance,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,4,Control,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,4,Disturbance,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,NPK,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Disturbance,T1,6,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Control,T1,2,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Disturbance,T2,1,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Control,T2,2,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,NPK,T3,1,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Disturbance,T3,30,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Achillea_millefolium,5,Control,T3,20,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Achillea_millefolium,5,Disturbance,T0,2,2020
+Lublin,lubl_dn.pl,Agrimonia_eupatoria,2,Disturbance,T1,30,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,NPK,T0,2,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Disturbance,T0,15,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,NPK,T0,3,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Disturbance,T0,3,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Disturbance,T0,1,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,NPK,T0,7,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Control,T0,10,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,NPK,T0,7,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Disturbance,T0,17,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,NPK,T0,4,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Disturbance,T0,15,2021
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,NPK,T1,1,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Control,T1,5,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Disturbance,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,NPK,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Control,T1,2,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Disturbance,T1,5,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Control,T1,2,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Disturbance,T1,1,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Control,T1,6,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,NPK,T1,10,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Disturbance,T1,8,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,NPK,T1,2,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Disturbance,T1,15,2022
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Control,T2,4,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,NPK,T2,10,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Control,T2,6,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Control,T2,2,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Control,T2,4,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Disturbance,T2,1,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Control,T2,2,2023
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,1,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,2,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,3,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Control,T3,15,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,4,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Agrimonia_eupatoria,5,Disturbance,T3,1,2024
+Hulun Buir,hulu_dn.cn,Agropyron_cristatum,4,Control,T3,1,2022
+Millville,mill_dn.us,Agropyron_cristatum,2,NPK,T0,1,2021
+Millville,mill_dn.us,Agropyron_cristatum,2,Control,T0,5,2021
+Millville,mill_dn.us,Agropyron_cristatum,3,NPK,T0,6,2021
+Millville,mill_dn.us,Agropyron_cristatum,3,Control,T0,10,2021
+Millville,mill_dn.us,Agropyron_cristatum,3,Disturbance,T0,18,2021
+Cary IES,cary_dn.us,Ailanthus_altissima,4,Disturbance,T2,1,2024
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,1,Disturbance,T0,1,2022
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,2,Control,T0,1,2022
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,4,Control,T0,1,2022
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,3,Disturbance,T1,2,2023
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,4,NPK,T1,1,2023
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,5,NPK,T1,2,2023
+Blandy Experimental Farm,blan_dn.us,Allium_vineale,5,Disturbance,T1,1,2023
+Castellanos,cast_dn.ar,Alternanthera_philoxeroides,1,Control,T0,1,2021
+Castellanos,cast_dn.ar,Alternanthera_philoxeroides,3,Disturbance,T1,8,2022
+Castellanos,cast_dn.ar,Alternanthera_philoxeroides,1,Disturbance,T2,3,2023
+Castellanos,cast_dn.ar,Alternanthera_philoxeroides,1,Control,T2,2,2023
+Konza LTER DRAGNet,konz_dn.us,Amaranthus_retroflexus,1,Control,T0,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Disturbance,T0,8,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,NPK,T0,35,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Control,T0,40,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Control,T0,50,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,NPK,T0,20,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Disturbance,T0,40,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Control,T0,30,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,NPK,T0,50,2021
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Disturbance,T1,25,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,NPK,T1,40,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Control,T1,85,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Control,T1,50,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,NPK,T1,10,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Disturbance,T1,40,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Control,T1,25,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,NPK,T1,25,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Disturbance,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Disturbance,T2,50,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,NPK,T2,65,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Control,T2,90,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Control,T2,85,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,NPK,T2,30,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Disturbance,T2,50,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Control,T2,30,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,NPK,T2,40,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Disturbance,T2,6,2023
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Disturbance,T3,70,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,NPK,T3,80,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,1,Control,T3,85,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Control,T3,90,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,NPK,T3,30,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,2,Disturbance,T3,40,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Control,T3,90,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,NPK,T3,98,2024
+Kellogg Biological Station (KBS),kell_dn.us,Andropogon_gerardii,3,Disturbance,T3,20,2024
+Oak Lake Field Station,olfs_dn.us,Andropogon_gerardii,1,Control,T0,1,2022
+Piedmont Prairie,pied_dn.us,Andropogon_gerardii,4,Control,T1,1,2023
+Temple,temple_dn.us,Andropogon_gerardii,1,Disturbance,T0,45,2021
+Temple,temple_dn.us,Andropogon_gerardii,3,Disturbance,T0,3,2021
+Temple,temple_dn.us,Andropogon_gerardii,4,Disturbance,T0,3,2021
+Temple,temple_dn.us,Andropogon_gerardii,5,Disturbance,T0,7,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,1,Disturbance,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,Control,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Control,T0,5,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Disturbance,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,4,NPK,T0,10,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,Control,T0,5,2020
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,NPK,T1,10,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,Control,T1,5,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Control,T1,7,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Disturbance,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,4,NPK,T1,10,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,NPK,T1,3,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,Control,T1,20,2021
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,NPK,T2,10,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,Control,T2,3,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Control,T2,3,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,4,NPK,T2,5,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,4,Disturbance,T2,0.1,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,NPK,T2,3,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,Control,T2,10,2022
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,NPK,T3,1,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,2,Control,T3,2,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Control,T3,4,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,3,Disturbance,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,4,NPK,T3,3,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,4,Disturbance,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,NPK,T3,3,2023
+Bayreuth DRAGNet,bayr_dn.de,Anthoxanthum_odoratum,5,Control,T3,10,2023
+Blandy Experimental Farm,blan_dn.us,Anthoxanthum_odoratum,2,NPK,T1,3,2023
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,1,Control,T0,10,2022
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,2,Disturbance,T0,30,2022
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,2,NPK,T0,15,2022
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,5,NPK,T0,15,2022
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,5,Disturbance,T0,20,2022
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,1,NPK,T1,3,2023
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,1,Control,T2,12,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,1,Disturbance,T2,3,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,1,NPK,T2,18,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,2,Disturbance,T2,16,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,2,Control,T2,3,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,2,NPK,T2,10,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,3,NPK,T2,6,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,3,Control,T2,25,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,4,Control,T2,8,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,4,NPK,T2,3,2024
+Cary IES,cary_dn.us,Anthoxanthum_odoratum,5,NPK,T2,10,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,NPK,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,Disturbance,T0,1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,Control,T0,5,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,NPK,T0,4,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,Control,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,Disturbance,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,Control,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,Disturbance,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,NPK,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,NPK,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,Control,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,Disturbance,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,Control,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,NPK,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,Disturbance,T0,0.1,2022
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,NPK,T1,5,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,Disturbance,T1,1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,Control,T1,2,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,NPK,T1,30,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,Control,T1,0.1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,Disturbance,T1,3,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,Control,T1,1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,Disturbance,T1,5,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,NPK,T1,5,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,NPK,T1,1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,Control,T1,2,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,Disturbance,T1,4,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,Control,T1,1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,NPK,T1,1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,Disturbance,T1,1,2023
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,NPK,T2,10,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,Disturbance,T2,13,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,1,Control,T2,4,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,NPK,T2,10,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,Control,T2,0.1,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,2,Disturbance,T2,20,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,Control,T2,0.1,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,Disturbance,T2,25,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,3,NPK,T2,5,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,Control,T2,0.1,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,4,Disturbance,T2,27,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,Control,T2,2,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,NPK,T2,5,2024
+Cass,cass_dn.nz,Anthoxanthum_odoratum,5,Disturbance,T2,15,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,Control,T1,2,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,Disturbance,T1,50,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,NPK,T1,60,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,Disturbance,T1,25,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,NPK,T1,50,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,Control,T1,80,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,Disturbance,T1,70,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,Control,T1,60,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,NPK,T1,80,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,Control,T2,10,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,Disturbance,T2,5,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,NPK,T2,55,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,Disturbance,T2,10,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,NPK,T2,60,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,Control,T2,58,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,Disturbance,T2,35,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,Control,T2,40,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,NPK,T2,25,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,Control,T3,25,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,Disturbance,T3,10,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,1,NPK,T3,60,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,Disturbance,T3,15,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,NPK,T3,75,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,2,Control,T3,40,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,Disturbance,T3,3,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,Control,T3,67,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Anthoxanthum_odoratum,3,NPK,T3,32,2024
+Agroscope Changins,chan_dn.ch,Anthoxanthum_odoratum,3,NPK,T2,0.5,2022
+Churning Rapids,chur_dn.us,Anthoxanthum_odoratum,1,Control,T1,4,2022
+Churning Rapids,chur_dn.us,Anthoxanthum_odoratum,2,Disturbance,T1,2,2022
+Churning Rapids,chur_dn.us,Anthoxanthum_odoratum,2,Control,T1,20,2022
+Churning Rapids,chur_dn.us,Anthoxanthum_odoratum,3,Disturbance,T1,3,2022
+Churning Rapids,chur_dn.us,Anthoxanthum_odoratum,3,NPK,T1,6,2022
+Churning Rapids,chur_dn.us,Anthoxanthum_odoratum,3,Control,T1,65,2022
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,1,Disturbance,T1,3,2020
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,2,Disturbance,T1,3,2020
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,3,Disturbance,T1,4,2020
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,1,Disturbance,T2,5,2021
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,2,Disturbance,T2,8,2021
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,3,Disturbance,T2,4,2021
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,1,Disturbance,T3,4,2022
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,2,Disturbance,T3,5,2022
+Cowichan,cowi_dn.ca,Anthoxanthum_odoratum,3,Disturbance,T3,12,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,1,Disturbance,T0,20,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,1,NPK,T0,3,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,2,Control,T0,0.5,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,2,Disturbance,T0,0.5,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,2,NPK,T0,10,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,3,NPK,T0,0.5,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,3,Control,T0,0.5,2022
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,1,Disturbance,T1,5,2023
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,1,Control,T1,0.5,2023
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,2,Disturbance,T1,3,2023
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,3,Disturbance,T1,3,2023
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,3,NPK,T1,0.5,2023
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,3,Control,T1,0.5,2023
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,1,Disturbance,T2,1,2024
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,2,Disturbance,T2,7,2024
+Domaninek,doma_dn.cz,Anthoxanthum_odoratum,3,Disturbance,T2,5,2024
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,1,NPK,T1,1,2023
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,1,Control,T1,1,2023
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,2,NPK,T1,1,2023
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,2,Control,T1,1,2023
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,3,NPK,T1,2,2023
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,3,Disturbance,T1,1,2023
+Kniezenberg,kzbg_dn.at,Anthoxanthum_odoratum,3,Control,T2,2,2024
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,Disturbance,T0,15,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,NPK,T0,3,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,Control,T0,25,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,Control,T0,5,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,Disturbance,T0,20,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,NPK,T0,25,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,Disturbance,T0,20,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,NPK,T0,40,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,Control,T0,40,2022
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,Disturbance,T1,3,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,NPK,T1,3,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,Control,T1,20,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,Control,T1,2,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,Disturbance,T1,7,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,NPK,T1,35,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,Control,T1,35,2023
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,Disturbance,T2,2,2024
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,1,Control,T2,5,2024
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,Control,T2,1,2024
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,2,Disturbance,T2,10,2024
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,NPK,T2,2,2024
+Hazelrigg,lancaster_dn.uk,Anthoxanthum_odoratum,3,Control,T2,5,2024
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Disturbance,T0,14,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,NPK,T0,20,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Control,T0,22,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Control,T0,38,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,NPK,T0,17,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Disturbance,T0,15,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,NPK,T0,8,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Disturbance,T0,22,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Control,T0,4,2021
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Disturbance,T1,35,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,NPK,T1,8,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Control,T1,24,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Control,T1,45,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,NPK,T1,23,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Disturbance,T1,38,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,NPK,T1,23,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Disturbance,T1,35,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Control,T1,7,2022
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Disturbance,T2,45,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,NPK,T2,10,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Control,T2,97,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Control,T2,89,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,NPK,T2,5,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Disturbance,T2,58,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,NPK,T2,38,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Disturbance,T2,55,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Control,T2,22,2023
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Disturbance,T3,7,2024
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,1,Control,T3,65,2024
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,2,Control,T3,65,2024
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,NPK,T3,6,2024
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Disturbance,T3,13,2024
+Nillahcootie,nilla_dn.au,Anthoxanthum_odoratum,3,Control,T3,50,2024
+WSL,wald_dn.ch,Anthoxanthum_odoratum,3,Control,T0,1,2020
+WSL,wald_dn.ch,Anthoxanthum_odoratum,3,Disturbance,T0,2,2020
+WSL,wald_dn.ch,Anthoxanthum_odoratum,3,Control,T1,1,2021
+WSL,wald_dn.ch,Anthoxanthum_odoratum,3,Control,T2,2,2022
+WSL,wald_dn.ch,Anthoxanthum_odoratum,3,Control,T3,2,2023
+Bad Lauchstaedt,badlau_dn.de,Arenaria_serpyllifolia,1,Disturbance,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Arenaria_serpyllifolia,2,NPK,T2,0.5,2023
+Bad Lauchstaedt,badlau_dn.de,Arenaria_serpyllifolia,1,Disturbance,T3,0.5,2024
+Bad Lauchstaedt,badlau_dn.de,Arenaria_serpyllifolia,2,Control,T3,0.5,2024
+Bad Lauchstaedt,badlau_dn.de,Arenaria_serpyllifolia,2,Disturbance,T3,0.5,2024
+Domaninek,doma_dn.cz,Arenaria_serpyllifolia,1,Disturbance,T1,5,2023
+Domaninek,doma_dn.cz,Arenaria_serpyllifolia,1,Control,T1,3,2023
+Domaninek,doma_dn.cz,Arenaria_serpyllifolia,2,Disturbance,T1,3,2023
+Domaninek,doma_dn.cz,Arenaria_serpyllifolia,3,Disturbance,T1,3,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,Control,T0,6,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,NPK,T0,1,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,Disturbance,T0,5,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,NPK,T0,3,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,Control,T0,4,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,Disturbance,T0,3,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,Disturbance,T0,4,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,NPK,T0,8,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,Control,T0,6,2021
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,Control,T1,0.5,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,NPK,T1,1,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,Disturbance,T1,0.5,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,NPK,T1,0.5,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,Control,T1,1,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,Disturbance,T1,0.5,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,Disturbance,T1,0.5,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,NPK,T1,1,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,Control,T1,0.5,2022
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,Control,T2,1,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,NPK,T2,2,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,4,Disturbance,T2,65,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,NPK,T2,0.5,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,Control,T2,3,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,5,Disturbance,T2,63,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,Disturbance,T2,55,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,NPK,T2,1,2023
+Jena,jena_dn.de,Arenaria_serpyllifolia,6,Control,T2,2,2023
+Wytham Woods,wyth_dn.uk,Arenaria_serpyllifolia,4,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Arenaria_serpyllifolia,5,Disturbance,T3,10,2024
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,Control,T0,1,2018
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,NPK,T0,3,2018
+Potrok Aike,potrok_dn.ar,Armeria_maritima,2,Control,T0,1,2018
+Potrok Aike,potrok_dn.ar,Armeria_maritima,2,Disturbance,T0,1,2018
+Potrok Aike,potrok_dn.ar,Armeria_maritima,3,NPK,T0,1,2018
+Potrok Aike,potrok_dn.ar,Armeria_maritima,3,Control,T0,1,2018
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,Control,T1,2,2019
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,NPK,T1,3,2019
+Potrok Aike,potrok_dn.ar,Armeria_maritima,2,Control,T1,1,2019
+Potrok Aike,potrok_dn.ar,Armeria_maritima,3,NPK,T1,1,2019
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,Control,T2,1,2020
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,NPK,T2,2,2020
+Potrok Aike,potrok_dn.ar,Armeria_maritima,1,Control,T3,1,2021
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Bothriochloa_ischaemum,1,Control,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Bothriochloa_ischaemum,3,Disturbance,T0,2,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Bothriochloa_ischaemum,4,Disturbance,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Bothriochloa_ischaemum,1,Control,T1,2,2023
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Bothriochloa_ischaemum,2,Disturbance,T1,1,2023
+Millville,mill_dn.us,Bromus_tectorum,1,Control,T0,1,2021
+Millville,mill_dn.us,Bromus_tectorum,2,Control,T0,1,2021
+Millville,mill_dn.us,Bromus_tectorum,2,Disturbance,T2,1,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Control,T0,3,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,1,NPK,T0,2,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Disturbance,T0,3,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,2,NPK,T0,1,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Control,T0,0.5,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Disturbance,T0,0.5,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Disturbance,T0,5,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,3,NPK,T0,1,2021
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Control,T1,15,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,1,NPK,T1,55,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Disturbance,T1,30,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,2,NPK,T1,45,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Control,T1,5,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Disturbance,T1,13,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Disturbance,T1,55,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,3,NPK,T1,35,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Control,T1,7,2022
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Control,T2,15,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,1,NPK,T2,50,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Disturbance,T2,1,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,2,NPK,T2,55,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Control,T2,3,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Disturbance,T2,1,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Disturbance,T2,2,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,3,NPK,T2,75,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Control,T2,4,2023
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Control,T3,12,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,1,NPK,T3,30,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,1,Disturbance,T3,1,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,2,NPK,T3,50,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Control,T3,2,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,2,Disturbance,T3,0.5,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Disturbance,T3,1,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,3,NPK,T3,90,2024
+Sandflats,sdft_dn.us,Bromus_tectorum,3,Control,T3,8,2024
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,1,Control,T0,1,2021
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,2,Control,T0,1,2021
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,3,Control,T0,15,2021
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,2,Control,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,3,NPK,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,3,Control,T1,2,2022
+Shortgrass Steppe LTER,sgs_dn.us,Bromus_tectorum,3,Control,T2,2,2023
+University of Wyoming - SAREC,uwyo_dn.us,Bromus_tectorum,1,Control,T0,0.5,2022
+University of Wyoming - SAREC,uwyo_dn.us,Bromus_tectorum,2,NPK,T0,0.5,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,NPK,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,Control,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,Control,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,NPK,T0,2,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,Disturbance,T0,1,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Control,T0,23,2020
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,1,Disturbance,T1,10,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,Disturbance,T1,4,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,NPK,T1,5,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,Disturbance,T1,8,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,NPK,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,NPK,T1,6,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,Disturbance,T1,31,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Disturbance,T1,10,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Control,T1,20,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,1,NPK,T2,85,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,1,Disturbance,T2,95,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,Disturbance,T2,95,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,NPK,T2,90,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,Control,T2,2,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,Disturbance,T2,70,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,Control,T2,2,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,NPK,T2,97,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,NPK,T2,30,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,Control,T2,4,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,Disturbance,T2,90,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,NPK,T2,12,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Disturbance,T2,70,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Control,T2,98,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,1,NPK,T3,75,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,1,Disturbance,T3,90,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,Disturbance,T3,100,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,NPK,T3,90,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,2,Control,T3,5,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,Disturbance,T3,80,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,3,NPK,T3,90,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,NPK,T3,70,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,Control,T3,1,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,4,Disturbance,T3,50,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,NPK,T3,70,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Disturbance,T3,40,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Bromus_tectorum,5,Control,T3,30,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,NPK,T0,4,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Control,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Disturbance,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Control,T0,2,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Disturbance,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,NPK,T0,7,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Disturbance,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Control,T0,9,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,NPK,T0,8,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,NPK,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Disturbance,T0,4,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Control,T0,18,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Control,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,NPK,T0,3,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Disturbance,T0,9,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,NPK,T1,12,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Control,T1,2,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Disturbance,T1,6,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Control,T1,1,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Disturbance,T1,25,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,NPK,T1,35,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Disturbance,T1,12,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Control,T1,5,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,NPK,T1,26,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,NPK,T1,8,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Disturbance,T1,10,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Control,T1,19,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Control,T1,3,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,NPK,T1,30,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Disturbance,T1,24,2021
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,NPK,T2,100,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Control,T2,15,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Disturbance,T2,60,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Control,T2,15,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Disturbance,T2,55,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,NPK,T2,95,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Disturbance,T2,40,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Control,T2,60,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,NPK,T2,80,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,NPK,T2,96,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Disturbance,T2,39,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Control,T2,80,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Control,T2,15,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,NPK,T2,100,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Disturbance,T2,90,2022
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,NPK,T3,90,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Control,T3,1,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,1,Disturbance,T3,35,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Control,T3,2,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,Disturbance,T3,40,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,2,NPK,T3,100,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Disturbance,T3,25,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,Control,T3,30,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,3,NPK,T3,70,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,NPK,T3,90,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Disturbance,T3,80,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,4,Control,T3,20,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Control,T3,30,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,NPK,T3,100,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Bromus_tectorum,5,Disturbance,T3,8,2023
+Piedmont Prairie,pied_dn.us,Carduus_nutans,4,Disturbance,T2,0.2,2024
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,1,Disturbance,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,NPK,T0,45,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,Control,T0,30,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,3,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,3,Disturbance,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,4,Disturbance,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,5,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,1,Disturbance,T1,5,2021
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,NPK,T1,7,2021
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,Control,T1,24,2021
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,3,Disturbance,T1,4,2021
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,5,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,1,Disturbance,T2,2,2022
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,NPK,T2,10,2022
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,Control,T2,30,2022
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,3,Disturbance,T2,2,2022
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,4,NPK,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,2,Control,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,3,Control,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,3,Disturbance,T3,50,2023
+Bayreuth DRAGNet,bayr_dn.de,Centaurea_jacea,4,NPK,T3,0.1,2023
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,1,NPK,T0,5,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,1,Disturbance,T0,1,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Disturbance,T0,4,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Control,T0,0.1,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,NPK,T0,3,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,3,Disturbance,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,Control,T0,2,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,NPK,T0,7,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,Disturbance,T0,9,2020
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,1,NPK,T1,7,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,1,Control,T1,1,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Disturbance,T1,0.5,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Control,T1,4,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,NPK,T1,3,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,3,NPK,T1,1,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,Control,T1,6,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,NPK,T1,3,2021
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Disturbance,T2,3,2022
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,Control,T2,5,2022
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,4,NPK,T2,2,2022
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,1,NPK,T3,2,2023
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,1,Control,T3,1,2023
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Disturbance,T3,2,2023
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,Control,T3,1,2023
+Agroscope Changins,chan_dn.ch,Centaurea_jacea,2,NPK,T3,1,2023
+Blandy Experimental Farm,blan_dn.us,Centaurea_stoebe,4,Disturbance,T0,35,2022
+Blandy Experimental Farm,blan_dn.us,Centaurea_stoebe,5,Disturbance,T0,40,2022
+Blandy Experimental Farm,blan_dn.us,Centaurea_stoebe,4,Disturbance,T1,15,2023
+Blandy Experimental Farm,blan_dn.us,Centaurea_stoebe,5,Disturbance,T1,10,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,1,NPK,T0,10,2022
+Cary IES,cary_dn.us,Centaurea_stoebe,2,Control,T0,15,2022
+Cary IES,cary_dn.us,Centaurea_stoebe,2,NPK,T0,10,2022
+Cary IES,cary_dn.us,Centaurea_stoebe,4,Disturbance,T0,2,2022
+Cary IES,cary_dn.us,Centaurea_stoebe,5,NPK,T0,5,2022
+Cary IES,cary_dn.us,Centaurea_stoebe,1,Disturbance,T1,2,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,1,NPK,T1,10,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,2,Disturbance,T1,10,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,2,Control,T1,5,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,2,NPK,T1,3,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,4,Control,T1,5,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,4,Disturbance,T1,5,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,5,Disturbance,T1,15,2023
+Cary IES,cary_dn.us,Centaurea_stoebe,1,Disturbance,T2,10,2024
+Cary IES,cary_dn.us,Centaurea_stoebe,1,NPK,T2,3,2024
+Cary IES,cary_dn.us,Centaurea_stoebe,2,Disturbance,T2,26,2024
+Cary IES,cary_dn.us,Centaurea_stoebe,2,Control,T2,8,2024
+Cary IES,cary_dn.us,Centaurea_stoebe,4,Control,T2,6,2024
+Cary IES,cary_dn.us,Centaurea_stoebe,4,Disturbance,T2,22,2024
+Cary IES,cary_dn.us,Centaurea_stoebe,5,Disturbance,T2,38,2024
+Churning Rapids,chur_dn.us,Centaurea_stoebe,1,Control,T0,2,2021
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,NPK,T0,25,2021
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,Control,T0,15,2021
+Churning Rapids,chur_dn.us,Centaurea_stoebe,3,Disturbance,T0,20,2021
+Churning Rapids,chur_dn.us,Centaurea_stoebe,1,Control,T1,4,2022
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,Disturbance,T1,8,2022
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,NPK,T1,20,2022
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,Control,T1,20,2022
+Churning Rapids,chur_dn.us,Centaurea_stoebe,3,Disturbance,T1,35,2022
+Churning Rapids,chur_dn.us,Centaurea_stoebe,1,Control,T2,7,2023
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,Disturbance,T2,14,2023
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,NPK,T2,30,2023
+Churning Rapids,chur_dn.us,Centaurea_stoebe,2,Control,T2,45,2023
+Churning Rapids,chur_dn.us,Centaurea_stoebe,3,Disturbance,T2,24,2023
+Millville,mill_dn.us,Centaurea_stoebe,2,Disturbance,T0,2,2021
+Millville,mill_dn.us,Centaurea_stoebe,2,Disturbance,T1,5,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,2,Control,T0,15,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,3,Control,T0,15,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Disturbance,T0,50,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Control,T0,45,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,NPK,T0,10,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,NPK,T0,70,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,Disturbance,T0,8,2021
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,2,Control,T1,2,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,3,Control,T1,3,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Disturbance,T1,15,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Control,T1,10,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,NPK,T1,5,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,NPK,T1,30,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,Control,T1,1,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,Disturbance,T1,1,2022
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,3,Control,T2,0.5,2023
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Disturbance,T2,20,2023
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Control,T2,2,2023
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,NPK,T2,1,2023
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,NPK,T2,5,2023
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,Disturbance,T2,1,2023
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,2,Control,T3,1,2024
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,3,Control,T3,8,2024
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Disturbance,T3,3,2024
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,Control,T3,5,2024
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,4,NPK,T3,6,2024
+University of Michigan Biological Station,umbs_dn.us,Centaurea_stoebe,5,NPK,T3,40,2024
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,2,NPK,T0,1,2021
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,Control,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,NPK,T0,2,2021
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,2,NPK,T1,1,2022
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,Control,T1,3,2022
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,NPK,T1,1,2022
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,1,Control,T2,0.5,2023
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,2,Disturbance,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,Control,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,NPK,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,1,NPK,T3,0.5,2024
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,2,NPK,T3,2,2024
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,2,Disturbance,T3,6,2024
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,Control,T3,1,2024
+Bad Lauchstaedt,badlau_dn.de,Cerastium_fontanum,3,NPK,T3,0.5,2024
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,2,NPK,T0,8,2020
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,3,Disturbance,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,4,Disturbance,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,1,Disturbance,T1,5,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,2,NPK,T1,0.1,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,2,Control,T1,0.1,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,3,Control,T1,0.1,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,3,Disturbance,T1,35,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,4,NPK,T1,0.1,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,4,Disturbance,T1,15,2021
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,1,Disturbance,T2,25,2022
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,2,Control,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,3,Disturbance,T2,50,2022
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,4,NPK,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,4,Disturbance,T2,70,2022
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,5,NPK,T2,0.1,2022
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,1,Disturbance,T3,35,2023
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,4,Disturbance,T3,60,2023
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,5,NPK,T3,2,2023
+Bayreuth DRAGNet,bayr_dn.de,Cerastium_fontanum,5,Control,T3,0.1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,1,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,1,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,2,Disturbance,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,3,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,2,Disturbance,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,2,Control,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Cerastium_fontanum,3,Disturbance,T3,1,2024
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,NPK,T0,0.1,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Disturbance,T0,0.1,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Control,T0,0.1,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,Disturbance,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,Control,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,NPK,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,NPK,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Disturbance,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Control,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,4,Control,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,NPK,T1,0.5,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Disturbance,T1,5,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Control,T1,2,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,Disturbance,T1,3,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,NPK,T1,0.5,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Disturbance,T1,1,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Control,T1,0.5,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,4,Control,T1,1,2021
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Disturbance,T2,1,2022
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,Disturbance,T2,1,2022
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,NPK,T2,1,2022
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,4,Control,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,4,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,NPK,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Disturbance,T3,3,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,1,Control,T3,3,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,Disturbance,T3,2,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,2,NPK,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Disturbance,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,3,Control,T3,1,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,4,Control,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Cerastium_fontanum,4,Disturbance,T3,1,2023
+Domaninek,doma_dn.cz,Cerastium_fontanum,1,Disturbance,T2,60,2024
+Domaninek,doma_dn.cz,Cerastium_fontanum,2,Disturbance,T2,15,2024
+Domaninek,doma_dn.cz,Cerastium_fontanum,3,Disturbance,T2,7,2024
+Jena,jena_dn.de,Cerastium_fontanum,4,Control,T0,12,2021
+Jena,jena_dn.de,Cerastium_fontanum,4,NPK,T0,9,2021
+Jena,jena_dn.de,Cerastium_fontanum,4,Disturbance,T0,15,2021
+Jena,jena_dn.de,Cerastium_fontanum,5,NPK,T0,9,2021
+Jena,jena_dn.de,Cerastium_fontanum,5,Control,T0,25,2021
+Jena,jena_dn.de,Cerastium_fontanum,5,Disturbance,T0,2,2021
+Jena,jena_dn.de,Cerastium_fontanum,6,Disturbance,T0,8,2021
+Jena,jena_dn.de,Cerastium_fontanum,6,NPK,T0,6,2021
+Jena,jena_dn.de,Cerastium_fontanum,6,Control,T0,22,2021
+Jena,jena_dn.de,Cerastium_fontanum,4,Control,T1,12,2022
+Jena,jena_dn.de,Cerastium_fontanum,4,NPK,T1,6,2022
+Jena,jena_dn.de,Cerastium_fontanum,4,Disturbance,T1,0.5,2022
+Jena,jena_dn.de,Cerastium_fontanum,5,NPK,T1,6,2022
+Jena,jena_dn.de,Cerastium_fontanum,5,Control,T1,45,2022
+Jena,jena_dn.de,Cerastium_fontanum,5,Disturbance,T1,5,2022
+Jena,jena_dn.de,Cerastium_fontanum,6,NPK,T1,3,2022
+Jena,jena_dn.de,Cerastium_fontanum,6,Control,T1,9,2022
+Jena,jena_dn.de,Cerastium_fontanum,4,Control,T2,1,2023
+Jena,jena_dn.de,Cerastium_fontanum,4,NPK,T2,8,2023
+Jena,jena_dn.de,Cerastium_fontanum,4,Disturbance,T2,7,2023
+Jena,jena_dn.de,Cerastium_fontanum,5,NPK,T2,0.5,2023
+Jena,jena_dn.de,Cerastium_fontanum,5,Control,T2,1,2023
+Jena,jena_dn.de,Cerastium_fontanum,5,Disturbance,T2,4,2023
+Jena,jena_dn.de,Cerastium_fontanum,6,Disturbance,T2,2,2023
+Jena,jena_dn.de,Cerastium_fontanum,6,NPK,T2,0.5,2023
+Jena,jena_dn.de,Cerastium_fontanum,6,Control,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Cerastium_fontanum,1,Disturbance,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Cerastium_fontanum,1,Disturbance,T3,1,2024
+Kellogg Biological Station (KBS),kell_dn.us,Cerastium_fontanum,2,Disturbance,T3,1,2024
+Kniezenberg,kzbg_dn.at,Cerastium_fontanum,2,Disturbance,T2,6,2024
+Kniezenberg,kzbg_dn.at,Cerastium_fontanum,3,Control,T2,1,2024
+Hazelrigg,lancaster_dn.uk,Cerastium_fontanum,1,NPK,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Cerastium_fontanum,3,Disturbance,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Cerastium_fontanum,1,NPK,T1,1,2023
+Lublin,lubl_dn.pl,Cerastium_fontanum,1,Disturbance,T0,1,2021
+Stoderzinken,stod_dn.at,Cerastium_fontanum,1,Control,T0,2,2023
+Stoderzinken,stod_dn.at,Cerastium_fontanum,2,Disturbance,T0,1,2023
+Stoderzinken,stod_dn.at,Cerastium_fontanum,2,Control,T0,1,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,NPK,T0,1,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Disturbance,T0,5,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,NPK,T0,4,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Disturbance,T0,7,2021
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Disturbance,T1,1,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Disturbance,T1,2,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,Disturbance,T1,5,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,NPK,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,NPK,T1,10,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,Disturbance,T1,1,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Disturbance,T1,75,2022
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Disturbance,T2,25,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,NPK,T2,1,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Disturbance,T2,25,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,Disturbance,T2,17,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,Disturbance,T2,15,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,1,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,2,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,3,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,4,Disturbance,T3,5,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Cerastium_fontanum,5,Disturbance,T3,5,2024
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,Disturbance,T0,2,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,NPK,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Control,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,NPK,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Disturbance,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Control,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Disturbance,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,Disturbance,T1,5,2022
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,Control,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Disturbance,T1,5,2022
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Control,T1,2,2022
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Disturbance,T1,30,2022
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,Disturbance,T2,15,2023
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Control,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Disturbance,T2,4,2023
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Disturbance,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,Disturbance,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,1,Control,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Control,T3,1,2024
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,2,Disturbance,T3,8,2024
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Control,T3,1,2024
+Kellogg Biological Station (KBS),kell_dn.us,Chamaecrista_fasciculata,3,Disturbance,T3,3,2024
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_arvense,1,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_arvense,1,Control,T2,10,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,1,Disturbance,T0,1,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,1,NPK,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Control,T0,10,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,NPK,T0,2,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Disturbance,T0,2,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Disturbance,T0,8,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Control,T0,5,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,NPK,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,1,Disturbance,T1,3,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Control,T1,6,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,NPK,T1,2,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Disturbance,T1,6,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Disturbance,T1,4,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Control,T1,2,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,NPK,T1,1,2022
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,1,Disturbance,T2,6,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Control,T2,3,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,NPK,T2,4,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Disturbance,T2,7,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Disturbance,T2,7,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Control,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,NPK,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,1,Disturbance,T3,3,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Control,T3,3,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,NPK,T3,2,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,2,Disturbance,T3,2,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Disturbance,T3,7,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,Control,T3,1,2024
+Bad Lauchstaedt,badlau_dn.de,Cirsium_arvense,3,NPK,T3,1,2024
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,1,Control,T0,45,2022
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,2,Disturbance,T0,40,2022
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,3,NPK,T0,8,2022
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,4,Control,T0,8,2022
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,4,NPK,T0,1,2022
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,5,Control,T0,25,2022
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,1,Disturbance,T1,5,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,1,Control,T1,5,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,1,NPK,T1,40,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,2,NPK,T1,35,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,3,NPK,T1,25,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,3,Control,T1,50,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,3,Disturbance,T1,15,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,4,Disturbance,T1,40,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,5,NPK,T1,50,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,5,Control,T1,15,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_arvense,5,Disturbance,T1,15,2023
+Hulun Buir,hulu_dn.cn,Cirsium_arvense,1,Disturbance,T2,5,2021
+Hulun Buir,hulu_dn.cn,Cirsium_arvense,3,Disturbance,T2,3,2021
+Hulun Buir,hulu_dn.cn,Cirsium_arvense,6,Disturbance,T2,2,2021
+Jena,jena_dn.de,Cirsium_arvense,6,Control,T0,12,2021
+Jena,jena_dn.de,Cirsium_arvense,6,Control,T1,8,2022
+Jena,jena_dn.de,Cirsium_arvense,6,Control,T2,13,2023
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,Disturbance,T0,5,2022
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,NPK,T0,3,2022
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,Control,T0,2,2022
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,Control,T0,5,2022
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,Disturbance,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,NPK,T0,3,2022
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,Disturbance,T1,20,2023
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,NPK,T1,10,2023
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,Control,T1,5,2023
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,Disturbance,T1,30,2023
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,NPK,T1,1,2023
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,1,NPK,T2,1,2024
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,Disturbance,T2,20,2024
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,2,NPK,T2,15,2024
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,3,NPK,T2,1,2024
+Hazelrigg,lancaster_dn.uk,Cirsium_arvense,3,Control,T2,30,2024
+Lublin,lubl_dn.pl,Cirsium_arvense,1,NPK,T0,2,2021
+Lublin,lubl_dn.pl,Cirsium_arvense,2,NPK,T0,5,2021
+Lublin,lubl_dn.pl,Cirsium_arvense,2,Disturbance,T0,6,2021
+Lublin,lubl_dn.pl,Cirsium_arvense,3,Disturbance,T0,8,2021
+Lublin,lubl_dn.pl,Cirsium_arvense,3,Control,T0,8,2021
+Lublin,lubl_dn.pl,Cirsium_arvense,1,NPK,T1,0.5,2022
+Lublin,lubl_dn.pl,Cirsium_arvense,1,Control,T1,4,2022
+Lublin,lubl_dn.pl,Cirsium_arvense,1,Disturbance,T1,2,2022
+Lublin,lubl_dn.pl,Cirsium_arvense,2,NPK,T1,3,2022
+Lublin,lubl_dn.pl,Cirsium_arvense,2,Disturbance,T1,6,2022
+Lublin,lubl_dn.pl,Cirsium_arvense,3,Disturbance,T1,5,2022
+Lublin,lubl_dn.pl,Cirsium_arvense,3,Control,T1,3,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,1,NPK,T0,1,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,2,Control,T0,3,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,2,NPK,T0,1,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,2,Disturbance,T0,1,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,3,Control,T0,3,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,4,Disturbance,T0,1,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,4,NPK,T0,1,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,5,NPK,T0,1,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,5,Disturbance,T0,3,2022
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,1,NPK,T1,5,2023
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,1,Disturbance,T1,3,2023
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,1,Control,T1,3,2023
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,2,Control,T1,35,2023
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,3,Control,T1,40,2023
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,4,NPK,T1,5,2023
+Oak Lake Field Station,olfs_dn.us,Cirsium_arvense,5,Disturbance,T1,20,2023
+Wytham Woods,wyth_dn.uk,Cirsium_arvense,1,Disturbance,T1,0.5,2022
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,2,Disturbance,T0,0.2,2022
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,2,Control,T0,0.5,2022
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,1,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,1,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,1,Control,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,2,Disturbance,T1,3,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,2,Disturbance,T1,5,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,2,Control,T1,12,2023
+Ainsdale Dune Slacks,ains_dn.uk,Cirsium_palustre,3,Disturbance,T1,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_vulgare,3,Disturbance,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Cirsium_vulgare,3,Disturbance,T3,0.5,2024
+Bayreuth DRAGNet,bayr_dn.de,Cirsium_vulgare,1,Disturbance,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Cirsium_vulgare,3,Disturbance,T3,1,2023
+Blandy Experimental Farm,blan_dn.us,Cirsium_vulgare,2,NPK,T0,5,2022
+Cass,cass_dn.nz,Cirsium_vulgare,1,Disturbance,T2,0.1,2024
+Cowichan,cowi_dn.ca,Cirsium_vulgare,1,Disturbance,T1,2,2020
+Cowichan,cowi_dn.ca,Cirsium_vulgare,2,Disturbance,T1,1,2020
+Cowichan,cowi_dn.ca,Cirsium_vulgare,2,Control,T1,1,2020
+Cowichan,cowi_dn.ca,Cirsium_vulgare,1,Disturbance,T2,2,2021
+Cowichan,cowi_dn.ca,Cirsium_vulgare,2,Control,T2,2,2021
+Cowichan,cowi_dn.ca,Cirsium_vulgare,1,Disturbance,T3,1,2022
+Cowichan,cowi_dn.ca,Cirsium_vulgare,1,Control,T3,1,2022
+Cowichan,cowi_dn.ca,Cirsium_vulgare,2,Control,T3,2,2022
+Jena,jena_dn.de,Cirsium_vulgare,4,Disturbance,T1,1,2022
+Jena,jena_dn.de,Cirsium_vulgare,4,Disturbance,T2,1,2023
+Lublin,lubl_dn.pl,Cirsium_vulgare,3,Disturbance,T1,8,2022
+San Claudio,sanc_dn.ar,Cirsium_vulgare,1,NPK,T0,5,2022
+San Claudio,sanc_dn.ar,Cirsium_vulgare,1,NPK,T1,1,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,1,Disturbance,T1,10,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,2,Disturbance,T1,5,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,3,Disturbance,T1,15,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,4,Disturbance,T1,10,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,5,Disturbance,T1,1,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,6,Disturbance,T1,25,2023
+San Claudio,sanc_dn.ar,Cirsium_vulgare,1,Disturbance,T2,30,2024
+San Claudio,sanc_dn.ar,Cirsium_vulgare,2,Disturbance,T2,15,2024
+San Claudio,sanc_dn.ar,Cirsium_vulgare,3,Disturbance,T2,10,2024
+San Claudio,sanc_dn.ar,Cirsium_vulgare,4,Disturbance,T2,20,2024
+San Claudio,sanc_dn.ar,Cirsium_vulgare,5,Disturbance,T2,5,2024
+San Claudio,sanc_dn.ar,Cirsium_vulgare,6,Disturbance,T2,30,2024
+Ukulinga,ukul_dn.za,Cirsium_vulgare,2,Disturbance,T3,5,2024
+Wytham Woods,wyth_dn.uk,Cirsium_vulgare,1,Disturbance,T1,0.1,2022
+Wytham Woods,wyth_dn.uk,Cirsium_vulgare,4,Disturbance,T1,0.1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Cytisus_scoparius,2,Control,T3,2,2024
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,NPK,T0,2,2021
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,Disturbance,T0,3,2021
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,NPK,T1,1,2022
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,Disturbance,T1,2,2022
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,NPK,T2,5,2023
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,Disturbance,T2,4,2023
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,3,Disturbance,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,3,Control,T2,0.5,2023
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,NPK,T3,1,2024
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,2,Disturbance,T3,11,2024
+Bad Lauchstaedt,badlau_dn.de,Daucus_carota,3,Control,T3,0.5,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,Control,T1,10,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,Disturbance,T1,5,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,NPK,T1,10,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,Disturbance,T1,25,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,NPK,T1,5,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,Control,T1,8,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,Disturbance,T1,5,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,Control,T1,10,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,NPK,T1,7,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,Control,T2,25,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,NPK,T2,5,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,Disturbance,T2,8,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,NPK,T2,5,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,Control,T2,8,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,Disturbance,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,NPK,T2,15,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,Control,T3,30,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,Disturbance,T3,3,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,1,NPK,T3,5,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,Disturbance,T3,5,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,NPK,T3,3,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,2,Control,T3,15,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,Disturbance,T3,5,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,Control,T3,10,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Daucus_carota,3,NPK,T3,5,2024
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Disturbance,T0,1.5,2020
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Control,T0,1,2020
+Agroscope Changins,chan_dn.ch,Daucus_carota,2,Disturbance,T0,1,2020
+Agroscope Changins,chan_dn.ch,Daucus_carota,2,NPK,T0,0.1,2020
+Agroscope Changins,chan_dn.ch,Daucus_carota,4,Disturbance,T0,11,2020
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Disturbance,T1,4,2021
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Control,T1,1,2021
+Agroscope Changins,chan_dn.ch,Daucus_carota,2,Disturbance,T1,1,2021
+Agroscope Changins,chan_dn.ch,Daucus_carota,2,NPK,T1,0.5,2021
+Agroscope Changins,chan_dn.ch,Daucus_carota,4,Disturbance,T1,9,2021
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Disturbance,T2,3,2022
+Agroscope Changins,chan_dn.ch,Daucus_carota,3,Control,T2,4,2022
+Agroscope Changins,chan_dn.ch,Daucus_carota,4,Disturbance,T2,1,2022
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Disturbance,T3,5,2023
+Agroscope Changins,chan_dn.ch,Daucus_carota,1,Control,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Daucus_carota,2,Disturbance,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Daucus_carota,2,Control,T3,5,2023
+Churning Rapids,chur_dn.us,Daucus_carota,1,Disturbance,T0,7,2021
+Churning Rapids,chur_dn.us,Daucus_carota,1,NPK,T0,5,2021
+Churning Rapids,chur_dn.us,Daucus_carota,1,Control,T0,7,2021
+Churning Rapids,chur_dn.us,Daucus_carota,1,Disturbance,T1,10,2022
+Churning Rapids,chur_dn.us,Daucus_carota,1,NPK,T1,9,2022
+Churning Rapids,chur_dn.us,Daucus_carota,1,Control,T1,3,2022
+Churning Rapids,chur_dn.us,Daucus_carota,1,Disturbance,T2,8,2023
+Churning Rapids,chur_dn.us,Daucus_carota,1,Control,T2,18,2023
+Churning Rapids,chur_dn.us,Daucus_carota,4,Control,T2,2,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Daucus_carota,1,NPK,T1,0.5,2023
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,1,Disturbance,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,1,Control,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,2,Disturbance,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,1,Control,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,2,Disturbance,T1,3,2022
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,3,Disturbance,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,1,Disturbance,T2,2,2023
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,1,Control,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,2,Disturbance,T2,2,2023
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,3,Disturbance,T2,15,2023
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,1,Disturbance,T3,1,2024
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,2,Disturbance,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Daucus_carota,3,Disturbance,T3,35,2024
+Kniezenberg,kzbg_dn.at,Daucus_carota,2,Disturbance,T0,1,2022
+Kniezenberg,kzbg_dn.at,Daucus_carota,2,Disturbance,T1,2,2023
+Kniezenberg,kzbg_dn.at,Daucus_carota,3,Disturbance,T1,1,2023
+Lublin,lubl_dn.pl,Daucus_carota,2,Disturbance,T0,1,2021
+Lublin,lubl_dn.pl,Daucus_carota,3,Disturbance,T0,5,2021
+Lublin,lubl_dn.pl,Daucus_carota,3,Control,T0,20,2021
+Lublin,lubl_dn.pl,Daucus_carota,3,NPK,T0,2,2021
+Lublin,lubl_dn.pl,Daucus_carota,2,Disturbance,T1,5,2022
+Lublin,lubl_dn.pl,Daucus_carota,2,Control,T1,0.5,2022
+Lublin,lubl_dn.pl,Daucus_carota,3,Disturbance,T1,1,2022
+Lublin,lubl_dn.pl,Daucus_carota,3,Control,T1,3,2022
+Lublin,lubl_dn.pl,Echinochloa_crus-galli,3,Control,T0,20,2021
+Lublin,lubl_dn.pl,Echinochloa_crus-galli,3,NPK,T0,60,2021
+Algaida,alga_dn.es,Echium_vulgare,1,Disturbance,T0,1,2020
+Algaida,alga_dn.es,Echium_vulgare,1,NPK,T0,1,2020
+Algaida,alga_dn.es,Echium_vulgare,2,NPK,T0,2,2020
+Algaida,alga_dn.es,Echium_vulgare,3,NPK,T0,2,2020
+Algaida,alga_dn.es,Echium_vulgare,1,Disturbance,T1,1,2021
+Algaida,alga_dn.es,Echium_vulgare,1,Control,T1,3,2021
+Algaida,alga_dn.es,Echium_vulgare,1,NPK,T1,2,2021
+Algaida,alga_dn.es,Echium_vulgare,2,Disturbance,T1,1,2021
+Algaida,alga_dn.es,Echium_vulgare,2,NPK,T1,2,2021
+Algaida,alga_dn.es,Echium_vulgare,3,NPK,T1,4,2021
+Algaida,alga_dn.es,Echium_vulgare,1,Disturbance,T2,1,2022
+Algaida,alga_dn.es,Echium_vulgare,1,Control,T2,1,2022
+Algaida,alga_dn.es,Echium_vulgare,1,NPK,T2,1,2022
+Algaida,alga_dn.es,Echium_vulgare,2,Control,T2,1,2022
+Algaida,alga_dn.es,Echium_vulgare,2,NPK,T2,67.5,2022
+Algaida,alga_dn.es,Echium_vulgare,3,Disturbance,T2,1,2022
+Algaida,alga_dn.es,Echium_vulgare,3,NPK,T2,15,2022
+Algaida,alga_dn.es,Echium_vulgare,1,Control,T3,50,2023
+Algaida,alga_dn.es,Echium_vulgare,1,NPK,T3,25,2023
+Algaida,alga_dn.es,Echium_vulgare,2,Control,T3,20,2023
+Algaida,alga_dn.es,Echium_vulgare,2,Disturbance,T3,25,2023
+Algaida,alga_dn.es,Echium_vulgare,2,NPK,T3,30,2023
+Algaida,alga_dn.es,Echium_vulgare,3,Disturbance,T3,3,2023
+Algaida,alga_dn.es,Echium_vulgare,3,NPK,T3,46,2023
+Bad Lauchstaedt,badlau_dn.de,Elymus_repens,1,NPK,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Elymus_repens,2,Disturbance,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Elymus_repens,3,Disturbance,T1,6,2022
+Bad Lauchstaedt,badlau_dn.de,Elymus_repens,3,Disturbance,T2,5,2023
+Bad Lauchstaedt,badlau_dn.de,Elymus_repens,1,Disturbance,T3,4,2024
+Bad Lauchstaedt,badlau_dn.de,Elymus_repens,3,Disturbance,T3,24,2024
+Cary IES,cary_dn.us,Elymus_repens,1,Control,T0,1,2022
+Cary IES,cary_dn.us,Elymus_repens,1,Disturbance,T0,1,2022
+Cary IES,cary_dn.us,Elymus_repens,2,Control,T0,5,2022
+Cary IES,cary_dn.us,Elymus_repens,2,NPK,T0,10,2022
+Cary IES,cary_dn.us,Elymus_repens,3,Disturbance,T0,40,2022
+Cary IES,cary_dn.us,Elymus_repens,3,NPK,T0,1,2022
+Cary IES,cary_dn.us,Elymus_repens,4,NPK,T0,2,2022
+Cary IES,cary_dn.us,Elymus_repens,1,Disturbance,T2,12,2024
+Cary IES,cary_dn.us,Elymus_repens,2,Disturbance,T2,1,2024
+Cary IES,cary_dn.us,Elymus_repens,2,NPK,T2,2,2024
+Cary IES,cary_dn.us,Elymus_repens,3,Disturbance,T2,7,2024
+Cary IES,cary_dn.us,Elymus_repens,5,Disturbance,T2,5,2024
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,Disturbance,T0,20,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,NPK,T0,20,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,Control,T0,15,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,Control,T0,10,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,Disturbance,T0,12,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,NPK,T0,15,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,NPK,T0,10,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,Control,T0,8,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,Disturbance,T0,40,2021
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,Disturbance,T1,15,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,NPK,T1,50,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,Control,T1,10,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,Control,T1,15,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,Disturbance,T1,8,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,NPK,T1,50,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,NPK,T1,15,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,Control,T1,25,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,Disturbance,T1,45,2022
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,Disturbance,T2,5,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,NPK,T2,70,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,1,Control,T2,15,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,Control,T2,6,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,Disturbance,T2,5,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,2,NPK,T2,55,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,NPK,T2,45,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,Control,T2,15,2023
+Cedar Creek LTER,cedr_dn.us,Elymus_repens,3,Disturbance,T2,5,2023
+Agroscope Changins,chan_dn.ch,Elymus_repens,4,Control,T0,4,2020
+Agroscope Changins,chan_dn.ch,Elymus_repens,4,NPK,T0,0.5,2020
+Churning Rapids,chur_dn.us,Elymus_repens,3,NPK,T1,5,2022
+Churning Rapids,chur_dn.us,Elymus_repens,4,NPK,T1,2,2022
+Churning Rapids,chur_dn.us,Elymus_repens,4,Disturbance,T1,4,2022
+Churning Rapids,chur_dn.us,Elymus_repens,1,Control,T2,1,2023
+Churning Rapids,chur_dn.us,Elymus_repens,2,NPK,T2,5,2023
+Churning Rapids,chur_dn.us,Elymus_repens,3,NPK,T2,5,2023
+Churning Rapids,chur_dn.us,Elymus_repens,4,NPK,T2,17,2023
+Jena,jena_dn.de,Elymus_repens,4,Control,T0,0.5,2021
+Jena,jena_dn.de,Elymus_repens,4,NPK,T0,1,2021
+Jena,jena_dn.de,Elymus_repens,5,Control,T0,4,2021
+Jena,jena_dn.de,Elymus_repens,5,Disturbance,T0,2,2021
+Jena,jena_dn.de,Elymus_repens,6,Disturbance,T0,1,2021
+Jena,jena_dn.de,Elymus_repens,6,NPK,T0,6,2021
+Jena,jena_dn.de,Elymus_repens,4,Control,T1,1,2022
+Jena,jena_dn.de,Elymus_repens,4,Disturbance,T1,0.5,2022
+Jena,jena_dn.de,Elymus_repens,5,NPK,T1,1,2022
+Jena,jena_dn.de,Elymus_repens,5,Control,T1,0.5,2022
+Jena,jena_dn.de,Elymus_repens,5,Disturbance,T1,3,2022
+Jena,jena_dn.de,Elymus_repens,6,Disturbance,T1,11,2022
+Jena,jena_dn.de,Elymus_repens,6,NPK,T1,7,2022
+Jena,jena_dn.de,Elymus_repens,6,Control,T1,1,2022
+Jena,jena_dn.de,Elymus_repens,4,Control,T2,0.5,2023
+Jena,jena_dn.de,Elymus_repens,4,Disturbance,T2,3,2023
+Jena,jena_dn.de,Elymus_repens,5,Control,T2,0.5,2023
+Jena,jena_dn.de,Elymus_repens,5,Disturbance,T2,2,2023
+Jena,jena_dn.de,Elymus_repens,6,Disturbance,T2,23,2023
+Jena,jena_dn.de,Elymus_repens,6,NPK,T2,7,2023
+Jena,jena_dn.de,Elymus_repens,6,Control,T2,2,2023
+Kellogg Biological Station (KBS),kell_dn.us,Elymus_repens,3,Disturbance,T0,3,2021
+Kellogg Biological Station (KBS),kell_dn.us,Elymus_repens,1,NPK,T2,1,2023
+Kniezenberg,kzbg_dn.at,Elymus_repens,1,NPK,T1,1,2023
+Kniezenberg,kzbg_dn.at,Elymus_repens,3,Control,T2,2,2024
+Lublin,lubl_dn.pl,Elymus_repens,1,NPK,T0,70,2021
+Lublin,lubl_dn.pl,Elymus_repens,1,Control,T0,40,2021
+Lublin,lubl_dn.pl,Elymus_repens,1,Disturbance,T0,5,2021
+Lublin,lubl_dn.pl,Elymus_repens,2,NPK,T0,25,2021
+Lublin,lubl_dn.pl,Elymus_repens,2,Disturbance,T0,10,2021
+Lublin,lubl_dn.pl,Elymus_repens,2,Control,T0,10,2021
+Lublin,lubl_dn.pl,Elymus_repens,3,Disturbance,T0,5,2021
+Lublin,lubl_dn.pl,Elymus_repens,3,Control,T0,15,2021
+Lublin,lubl_dn.pl,Elymus_repens,3,NPK,T0,8,2021
+Lublin,lubl_dn.pl,Elymus_repens,1,NPK,T1,10,2022
+Lublin,lubl_dn.pl,Elymus_repens,1,Control,T1,40,2022
+Lublin,lubl_dn.pl,Elymus_repens,1,Disturbance,T1,80,2022
+Lublin,lubl_dn.pl,Elymus_repens,2,NPK,T1,10,2022
+Lublin,lubl_dn.pl,Elymus_repens,2,Disturbance,T1,0.5,2022
+Lublin,lubl_dn.pl,Elymus_repens,2,Control,T1,50,2022
+Lublin,lubl_dn.pl,Elymus_repens,3,Disturbance,T1,1,2022
+Lublin,lubl_dn.pl,Elymus_repens,3,Control,T1,1,2022
+Lublin,lubl_dn.pl,Elymus_repens,3,NPK,T1,60,2022
+Millville,mill_dn.us,Elymus_repens,1,NPK,T2,1,2023
+Millville,mill_dn.us,Elymus_repens,1,Disturbance,T2,2,2023
+Millville,mill_dn.us,Elymus_repens,2,NPK,T2,3,2023
+Millville,mill_dn.us,Elymus_repens,2,Control,T2,1,2023
+Millville,mill_dn.us,Elymus_repens,3,NPK,T2,33,2023
+Millville,mill_dn.us,Elymus_repens,3,Control,T2,3,2023
+Millville,mill_dn.us,Elymus_repens,3,Disturbance,T2,30,2023
+Cary IES,cary_dn.us,Erigeron_canadensis,1,Disturbance,T2,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Erigeron_canadensis,1,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Erigeron_canadensis,3,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Erigeron_canadensis,1,Disturbance,T3,3,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Erigeron_canadensis,3,Disturbance,T3,10,2024
+Hulun Buir,hulu_dn.cn,Erigeron_canadensis,4,Control,T1,2,2020
+Lublin,lubl_dn.pl,Erigeron_canadensis,1,Disturbance,T1,1,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,Control,T0,0.1,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,Disturbance,T0,0.1,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,NPK,T0,0.5,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,3,Control,T0,0.5,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,Control,T0,0.2,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,NPK,T0,0.2,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,Disturbance,T0,0.3,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,Control,T0,5,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,Disturbance,T0,3,2022
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,1,NPK,T1,0.2,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,1,Control,T1,0.1,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,Control,T1,1,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,Disturbance,T1,4,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,NPK,T1,8,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,3,Disturbance,T1,0.1,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,3,Control,T1,25,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,Control,T1,1.8,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,NPK,T1,1,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,Disturbance,T1,5,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,Control,T1,1,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,Disturbance,T1,4,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,NPK,T1,8,2023
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,1,Disturbance,T2,10,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,Control,T2,0.1,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,Disturbance,T2,4,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,2,NPK,T2,10,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,3,Disturbance,T2,1,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,3,Control,T2,3,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,Control,T2,0.4,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,NPK,T2,3,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,4,Disturbance,T2,30,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,Control,T2,2,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,Disturbance,T2,4,2024
+Piedmont Prairie,pied_dn.us,Erigeron_canadensis,5,NPK,T2,0.1,2024
+University of Michigan Biological Station,umbs_dn.us,Erigeron_canadensis,4,Disturbance,T1,1,2022
+University of Michigan Biological Station,umbs_dn.us,Erigeron_canadensis,1,Disturbance,T2,12,2023
+University of Michigan Biological Station,umbs_dn.us,Erigeron_canadensis,2,Disturbance,T2,0.5,2023
+University of Michigan Biological Station,umbs_dn.us,Erigeron_canadensis,4,Disturbance,T2,1,2023
+University of Michigan Biological Station,umbs_dn.us,Erigeron_canadensis,1,Control,T3,4,2024
+University of Michigan Biological Station,umbs_dn.us,Erigeron_canadensis,2,Disturbance,T3,1,2024
+Jena,jena_dn.de,Erophila_verna,4,Control,T0,0.5,2021
+Jena,jena_dn.de,Erophila_verna,4,Control,T1,0.5,2022
+Jena,jena_dn.de,Erophila_verna,6,Control,T1,0.5,2022
+Jena,jena_dn.de,Erophila_verna,4,Disturbance,T2,0.5,2023
+Jena,jena_dn.de,Erophila_verna,6,Disturbance,T2,0.5,2023
+Bayreuth DRAGNet,bayr_dn.de,Fragaria_vesca,4,Disturbance,T0,1,2020
+Churning Rapids,chur_dn.us,Fragaria_vesca,1,Disturbance,T0,7,2021
+Churning Rapids,chur_dn.us,Fragaria_vesca,3,NPK,T0,18,2021
+Churning Rapids,chur_dn.us,Fragaria_vesca,3,Control,T0,5,2021
+Churning Rapids,chur_dn.us,Fragaria_vesca,1,Disturbance,T1,1,2022
+Churning Rapids,chur_dn.us,Fragaria_vesca,3,NPK,T1,4,2022
+Churning Rapids,chur_dn.us,Fragaria_vesca,3,Control,T1,3,2022
+Churning Rapids,chur_dn.us,Fragaria_vesca,4,Control,T1,2,2022
+Churning Rapids,chur_dn.us,Fragaria_vesca,1,Disturbance,T2,13,2023
+Churning Rapids,chur_dn.us,Fragaria_vesca,3,NPK,T2,1,2023
+Churning Rapids,chur_dn.us,Fragaria_vesca,3,Control,T2,3,2023
+Lublin,lubl_dn.pl,Fragaria_vesca,1,NPK,T0,80,2021
+Lublin,lubl_dn.pl,Fragaria_vesca,1,Disturbance,T0,30,2021
+Lublin,lubl_dn.pl,Fragaria_vesca,2,NPK,T0,3,2021
+Lublin,lubl_dn.pl,Fragaria_vesca,2,Disturbance,T0,10,2021
+Lublin,lubl_dn.pl,Fragaria_vesca,2,Control,T0,5,2021
+Lublin,lubl_dn.pl,Fragaria_vesca,3,Control,T0,4,2021
+Lublin,lubl_dn.pl,Fragaria_vesca,1,NPK,T1,80,2022
+Lublin,lubl_dn.pl,Fragaria_vesca,2,NPK,T1,0.5,2022
+Lublin,lubl_dn.pl,Fragaria_vesca,2,Control,T1,5,2022
+Saihanba,saih_dn.cn,Fragaria_vesca,3,Control,T1,0.5,2024
+Ukulinga,ukul_dn.za,Heteropogon_contortus,3,Control,T0,3,2021
+Ukulinga,ukul_dn.za,Heteropogon_contortus,3,Control,T1,3,2022
+Ukulinga,ukul_dn.za,Heteropogon_contortus,3,Control,T2,4,2023
+Ukulinga,ukul_dn.za,Heteropogon_contortus,3,Control,T3,3,2024
+Bad Lauchstaedt,badlau_dn.de,Hypochaeris_radicata,3,NPK,T0,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,1,Disturbance,T0,13,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,2,NPK,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Disturbance,T0,9,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,4,Disturbance,T0,35,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,5,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,5,Control,T0,4,2020
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,1,Disturbance,T1,4,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,2,NPK,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Control,T1,3,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Disturbance,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,4,Disturbance,T1,10,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,5,NPK,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,5,Control,T1,3,2021
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,1,Disturbance,T2,5,2022
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Control,T2,3,2022
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Disturbance,T2,4,2022
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,4,Disturbance,T2,40,2022
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,5,Control,T2,7,2022
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Control,T3,5,2023
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,3,Disturbance,T3,1,2023
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,4,Disturbance,T3,8,2023
+Bayreuth DRAGNet,bayr_dn.de,Hypochaeris_radicata,5,Control,T3,10,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,1,NPK,T0,2,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,1,Disturbance,T0,1,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,1,Control,T0,2,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,2,NPK,T0,3,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,2,Control,T0,1,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,2,Disturbance,T0,0.1,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,3,Control,T0,0.1,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,3,NPK,T0,0.1,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,4,Control,T0,4,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,4,Disturbance,T0,2,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,5,Control,T0,5,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,5,NPK,T0,6,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,5,Disturbance,T0,1,2022
+Cass,cass_dn.nz,Hypochaeris_radicata,1,NPK,T1,1,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,1,Disturbance,T1,15,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,1,Control,T1,2,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,2,NPK,T1,5,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,2,Control,T1,1,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,2,Disturbance,T1,17,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,3,Control,T1,0.1,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,3,Disturbance,T1,5,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,4,Control,T1,4,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,4,Disturbance,T1,6,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,5,Control,T1,2,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,5,NPK,T1,2,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,5,Disturbance,T1,10,2023
+Cass,cass_dn.nz,Hypochaeris_radicata,1,NPK,T2,3,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,1,Disturbance,T2,3,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,1,Control,T2,2,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,2,NPK,T2,2,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,2,Control,T2,3,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,2,Disturbance,T2,4,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,3,Control,T2,2,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,3,Disturbance,T2,0.1,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,4,Control,T2,3,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,4,Disturbance,T2,3,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,5,Control,T2,2,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,5,NPK,T2,1,2024
+Cass,cass_dn.nz,Hypochaeris_radicata,5,Disturbance,T2,5,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,1,Disturbance,T1,2,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,1,NPK,T1,7,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,2,NPK,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,3,Control,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,1,NPK,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,2,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,3,Control,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,1,NPK,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,2,Control,T3,2,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Hypochaeris_radicata,3,Control,T3,2,2024
+Lublin,lubl_dn.pl,Hypochaeris_radicata,2,Disturbance,T0,2,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Disturbance,T0,6,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,NPK,T0,0.5,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Control,T0,2,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Control,T0,2,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,NPK,T0,2,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Disturbance,T0,1,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,NPK,T0,6,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,Disturbance,T0,1,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,Control,T0,0.5,2021
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Disturbance,T1,8,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,NPK,T1,1,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Control,T1,2,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Control,T1,1,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,NPK,T1,3,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,NPK,T1,9,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,Disturbance,T1,3,2022
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Disturbance,T2,15,2023
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Control,T2,1,2023
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Control,T2,1,2023
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Disturbance,T2,6,2023
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,NPK,T2,4,2023
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,Disturbance,T2,8,2023
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Disturbance,T3,65,2024
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,1,Control,T3,6,2024
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Control,T3,26,2024
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,2,Disturbance,T3,39,2024
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,NPK,T3,9,2024
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,Disturbance,T3,45,2024
+Nillahcootie,nilla_dn.au,Hypochaeris_radicata,3,Control,T3,2,2024
+Ainsdale Dune Slacks,ains_dn.uk,Jacobaea_vulgaris,3,Disturbance,T1,1,2023
+Algaida,alga_dn.es,Jacobaea_vulgaris,1,Disturbance,T0,1,2020
+Algaida,alga_dn.es,Jacobaea_vulgaris,1,Control,T0,2,2020
+Algaida,alga_dn.es,Jacobaea_vulgaris,2,Control,T0,1,2020
+Algaida,alga_dn.es,Jacobaea_vulgaris,2,Disturbance,T0,2,2020
+Algaida,alga_dn.es,Jacobaea_vulgaris,3,NPK,T0,5,2020
+Algaida,alga_dn.es,Jacobaea_vulgaris,1,Control,T1,1,2021
+Algaida,alga_dn.es,Jacobaea_vulgaris,2,Disturbance,T1,2,2021
+Algaida,alga_dn.es,Jacobaea_vulgaris,3,NPK,T1,4,2021
+CEREEP - Ecotron IDF,cereep_dn.fr,Jacobaea_vulgaris,2,Disturbance,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Jacobaea_vulgaris,2,Disturbance,T3,1,2024
+Lublin,lubl_dn.pl,Jacobaea_vulgaris,2,Disturbance,T0,10,2021
+Lublin,lubl_dn.pl,Jacobaea_vulgaris,3,Disturbance,T0,25,2021
+Lublin,lubl_dn.pl,Jacobaea_vulgaris,3,Control,T0,1,2021
+Lublin,lubl_dn.pl,Jacobaea_vulgaris,3,NPK,T0,2,2021
+Bad Lauchstaedt,badlau_dn.de,Knautia_arvensis,3,NPK,T2,2,2023
+Bad Lauchstaedt,badlau_dn.de,Knautia_arvensis,3,NPK,T3,3,2024
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,NPK,T0,12,2020
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,Control,T0,23,2020
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,3,Control,T0,15,2020
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,NPK,T1,74,2021
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,Control,T1,40,2021
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,3,Disturbance,T1,4,2021
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,NPK,T2,40,2022
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,Control,T2,40,2022
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,NPK,T3,30,2023
+Bayreuth DRAGNet,bayr_dn.de,Knautia_arvensis,2,Control,T3,30,2023
+Agroscope Changins,chan_dn.ch,Knautia_arvensis,2,Control,T1,1,2021
+Agroscope Changins,chan_dn.ch,Knautia_arvensis,3,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Knautia_arvensis,2,Control,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Knautia_arvensis,3,Control,T3,1,2023
+WSL,wald_dn.ch,Knautia_arvensis,3,Disturbance,T0,6,2020
+WSL,wald_dn.ch,Knautia_arvensis,3,Disturbance,T2,3,2022
+WSL,wald_dn.ch,Knautia_arvensis,3,Disturbance,T3,9,2023
+Wytham Woods,wyth_dn.uk,Knautia_arvensis,4,Disturbance,T0,4,2021
+Wytham Woods,wyth_dn.uk,Knautia_arvensis,4,Disturbance,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Knautia_arvensis,5,NPK,T1,1,2022
+Wytham Woods,wyth_dn.uk,Knautia_arvensis,4,Disturbance,T2,7,2023
+Wytham Woods,wyth_dn.uk,Knautia_arvensis,4,Disturbance,T3,1,2024
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,1,Control,T0,2,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,1,Disturbance,T0,4,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,Control,T0,5,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,NPK,T0,3,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,3,Disturbance,T0,5,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,3,NPK,T0,15,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,3,Control,T0,5,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,4,Disturbance,T0,25,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,4,NPK,T0,3,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,5,NPK,T0,5,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,5,Control,T0,5,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,5,Disturbance,T0,10,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,6,Control,T0,10,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,6,NPK,T0,5,2019
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,1,Control,T1,2,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,1,NPK,T1,2,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,Control,T1,3,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,NPK,T1,1,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,3,NPK,T1,3,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,4,NPK,T1,2,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,4,Control,T1,3,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,5,NPK,T1,2,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,6,Control,T1,5,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,6,NPK,T1,2,2020
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,1,Control,T2,1,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,1,NPK,T2,5,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,Control,T2,3,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,NPK,T2,6,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,2,Disturbance,T2,3,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,3,NPK,T2,18,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,3,Control,T2,3,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,4,Control,T2,2,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,5,NPK,T2,2,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,5,Control,T2,0.5,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,6,Control,T2,2,2021
+Hulun Buir,hulu_dn.cn,Koeleria_macrantha,6,NPK,T2,2,2021
+Kellogg Biological Station (KBS),kell_dn.us,Koeleria_macrantha,3,Disturbance,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Lactuca_serriola,2,Disturbance,T1,1,2022
+Bad Lauchstaedt,badlau_dn.de,Lactuca_serriola,2,Disturbance,T3,0.5,2024
+Bayreuth DRAGNet,bayr_dn.de,Lactuca_serriola,5,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Lactuca_serriola,1,Disturbance,T2,0.1,2022
+Blandy Experimental Farm,blan_dn.us,Lactuca_serriola,3,Control,T1,5,2023
+Jena,jena_dn.de,Lactuca_serriola,4,NPK,T1,0.5,2022
+Jena,jena_dn.de,Lactuca_serriola,6,Disturbance,T1,12,2022
+Jena,jena_dn.de,Lactuca_serriola,5,Disturbance,T2,6,2023
+Jena,jena_dn.de,Lactuca_serriola,6,Disturbance,T2,27,2023
+Kniezenberg,kzbg_dn.at,Lactuca_serriola,3,Disturbance,T1,1,2023
+Oak Lake Field Station,olfs_dn.us,Lactuca_serriola,2,Disturbance,T1,1,2023
+Oak Lake Field Station,olfs_dn.us,Lactuca_serriola,3,Disturbance,T1,1,2023
+San Claudio,sanc_dn.ar,Lactuca_serriola,2,Disturbance,T1,0.25,2023
+San Claudio,sanc_dn.ar,Lactuca_serriola,5,Disturbance,T1,0.25,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Lactuca_serriola,5,Disturbance,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Lactuca_serriola,1,NPK,T3,1,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Lactuca_serriola,2,Disturbance,T3,2,2023
+Wallula Gap Biological Station-North Face,wgno_dn.us,Lactuca_serriola,5,NPK,T3,1,2023
+Ukulinga,ukul_dn.za,Lantana_camara,2,Disturbance,T2,2,2023
+Ainsdale Dune Slacks,ains_dn.uk,Linum_catharticum,2,Disturbance,T1,1,2023
+Wytham Woods,wyth_dn.uk,Linum_catharticum,2,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Linum_catharticum,2,Disturbance,T0,1,2021
+Wytham Woods,wyth_dn.uk,Linum_catharticum,3,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Linum_catharticum,3,Disturbance,T0,1,2021
+Wytham Woods,wyth_dn.uk,Linum_catharticum,4,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Linum_catharticum,1,NPK,T1,1,2022
+Wytham Woods,wyth_dn.uk,Linum_catharticum,2,NPK,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Linum_catharticum,4,NPK,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Linum_catharticum,5,NPK,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Linum_catharticum,1,Disturbance,T2,40,2023
+Wytham Woods,wyth_dn.uk,Linum_catharticum,1,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,1,Disturbance,T3,5,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,2,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,2,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,2,Disturbance,T3,10,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,3,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,3,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,3,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,4,Control,T3,5,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,4,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,5,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,5,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Linum_catharticum,5,Disturbance,T3,1,2024
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,1,Disturbance,T0,1,2022
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Control,T0,0.5,2022
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Disturbance,T0,3,2022
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Control,T0,2,2022
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Control,T0,2,2022
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Control,T0,2,2022
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,1,Disturbance,T1,2,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,1,Control,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,1,Disturbance,T1,2,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,1,Control,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Disturbance,T1,2,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Control,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Control,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Control,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,1,Disturbance,T2,1,2024
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Disturbance,T2,1,2024
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,2,Control,T2,1,2024
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Control,T2,1,2024
+Ainsdale Dune Slacks,ains_dn.uk,Lotus_corniculatus,3,Control,T2,1,2024
+Algaida,alga_dn.es,Lotus_corniculatus,2,Control,T0,1,2020
+Algaida,alga_dn.es,Lotus_corniculatus,3,NPK,T0,1,2020
+Algaida,alga_dn.es,Lotus_corniculatus,3,NPK,T3,1,2023
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,2,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,2,Control,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,3,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,3,Disturbance,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,4,Disturbance,T0,4,2020
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,2,NPK,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,2,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,3,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,4,Disturbance,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,2,Control,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,3,Control,T2,3,2022
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,3,Disturbance,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,4,Disturbance,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Lotus_corniculatus,3,Control,T3,1,2023
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,NPK,T0,2.5,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,Disturbance,T0,21,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,Control,T0,21,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,Disturbance,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,Control,T0,9,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,NPK,T0,16,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,NPK,T0,8,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,Disturbance,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,Control,T0,7,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,Control,T0,14,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,NPK,T0,8,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,Disturbance,T0,5,2020
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,NPK,T1,1,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,Disturbance,T1,2,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,Control,T1,7,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,Control,T1,10,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,NPK,T1,3,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,NPK,T1,2,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,Control,T1,9,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,Control,T1,2,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,NPK,T1,9,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,Disturbance,T1,1,2021
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,Control,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,Control,T2,3,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,NPK,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,3,Control,T2,7,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,Control,T2,3,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,4,NPK,T2,2,2022
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,1,Control,T3,2,2023
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,Control,T3,5,2023
+Agroscope Changins,chan_dn.ch,Lotus_corniculatus,2,NPK,T3,0.5,2023
+Kniezenberg,kzbg_dn.at,Lotus_corniculatus,2,Control,T0,2,2022
+Kniezenberg,kzbg_dn.at,Lotus_corniculatus,2,Control,T1,2,2023
+Kniezenberg,kzbg_dn.at,Lotus_corniculatus,2,Control,T2,4,2024
+Meranges,mera_dn.es,Lotus_corniculatus,1,Control,T0,4,2021
+Meranges,mera_dn.es,Lotus_corniculatus,1,Disturbance,T0,3,2021
+Meranges,mera_dn.es,Lotus_corniculatus,1,NPK,T0,14,2021
+Meranges,mera_dn.es,Lotus_corniculatus,2,NPK,T0,12,2021
+Meranges,mera_dn.es,Lotus_corniculatus,3,Control,T0,6,2021
+Meranges,mera_dn.es,Lotus_corniculatus,3,Disturbance,T0,15,2021
+Meranges,mera_dn.es,Lotus_corniculatus,3,NPK,T0,30,2021
+Meranges,mera_dn.es,Lotus_corniculatus,1,Control,T1,9,2022
+Meranges,mera_dn.es,Lotus_corniculatus,1,Disturbance,T1,3,2022
+Meranges,mera_dn.es,Lotus_corniculatus,1,NPK,T1,20,2022
+Meranges,mera_dn.es,Lotus_corniculatus,2,Control,T1,3,2022
+Meranges,mera_dn.es,Lotus_corniculatus,2,Disturbance,T1,1,2022
+Meranges,mera_dn.es,Lotus_corniculatus,2,NPK,T1,17,2022
+Meranges,mera_dn.es,Lotus_corniculatus,3,Control,T1,5,2022
+Meranges,mera_dn.es,Lotus_corniculatus,3,Disturbance,T1,18,2022
+Meranges,mera_dn.es,Lotus_corniculatus,3,NPK,T1,30,2022
+Meranges,mera_dn.es,Lotus_corniculatus,1,Control,T2,9,2023
+Meranges,mera_dn.es,Lotus_corniculatus,1,NPK,T2,4,2023
+Meranges,mera_dn.es,Lotus_corniculatus,2,NPK,T2,13,2023
+Meranges,mera_dn.es,Lotus_corniculatus,3,Control,T2,4,2023
+Meranges,mera_dn.es,Lotus_corniculatus,3,Disturbance,T2,4,2023
+Meranges,mera_dn.es,Lotus_corniculatus,1,Control,T3,6,2024
+Meranges,mera_dn.es,Lotus_corniculatus,1,Disturbance,T3,2,2024
+Meranges,mera_dn.es,Lotus_corniculatus,2,Disturbance,T3,2,2024
+Meranges,mera_dn.es,Lotus_corniculatus,2,NPK,T3,5,2024
+Meranges,mera_dn.es,Lotus_corniculatus,3,Disturbance,T3,2,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,1,Control,T0,4,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,NPK,T0,5,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Control,T0,40,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Disturbance,T0,4,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Control,T0,15,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Disturbance,T0,10,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,Control,T0,3,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,NPK,T0,25,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,NPK,T0,70,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Control,T0,7,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Disturbance,T0,12,2021
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,1,Control,T1,4,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,NPK,T1,4,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Control,T1,25,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Disturbance,T1,20,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Control,T1,20,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Disturbance,T1,20,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,NPK,T1,15,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,Control,T1,2,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,NPK,T1,15,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,Disturbance,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,NPK,T1,50,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Control,T1,7,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Disturbance,T1,12,2022
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,1,Control,T2,3,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,NPK,T2,10,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Control,T2,18,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Disturbance,T2,14,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Control,T2,18,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Disturbance,T2,14,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,NPK,T2,4,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,Control,T2,2,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,NPK,T2,16,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,NPK,T2,13,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Control,T2,2,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Disturbance,T2,1,2023
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,1,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,1,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,1,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Control,T3,20,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,2,Disturbance,T3,5,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,Disturbance,T3,10,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,3,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,Control,T3,5,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,4,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Lotus_corniculatus,5,Disturbance,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Myosotis_ramosissima,3,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Myosotis_ramosissima,3,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Myosotis_ramosissima,5,Disturbance,T3,1,2024
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,3,Disturbance,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,3,Control,T0,2,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,4,NPK,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,5,Control,T0,3,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,5,Control,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,6,NPK,T0,2,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,2,Disturbance,T1,1,2023
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,3,Control,T1,1,2023
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,5,Control,T1,1,2023
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,5,Control,T1,1,2023
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Opuntia_macrorhiza,6,NPK,T1,1,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Control,T0,45,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Disturbance,T0,43,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,NPK,T0,54,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Control,T0,35,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,NPK,T0,26,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Disturbance,T0,42,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Disturbance,T0,18,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Control,T0,28,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,NPK,T0,26,2021
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Control,T1,54,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Disturbance,T1,12,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,NPK,T1,28,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Control,T1,58,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,NPK,T1,18,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Disturbance,T1,12,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Disturbance,T1,5,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Control,T1,47,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,NPK,T1,24,2022
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Control,T2,13,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Disturbance,T2,7,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,NPK,T2,15,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Control,T2,30,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,NPK,T2,8,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Disturbance,T2,8,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Disturbance,T2,8,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Control,T2,34,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,NPK,T2,20,2023
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Control,T3,35,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,Disturbance,T3,8,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,1,NPK,T3,2,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Control,T3,47,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,NPK,T3,7,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,2,Disturbance,T3,23,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Disturbance,T3,7,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,Control,T3,42,2024
+Bad Lauchstaedt,badlau_dn.de,Picris_hieracioides,3,NPK,T3,4,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,1,Disturbance,T1,10,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,1,NPK,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,Disturbance,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,NPK,T1,3,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,Control,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,3,Disturbance,T1,8,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,3,Control,T1,6,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,3,NPK,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,1,Disturbance,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,1,NPK,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,Disturbance,T2,0.5,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,NPK,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,3,Control,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,3,NPK,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,1,Disturbance,T3,2,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,NPK,T3,5,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,2,Control,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Picris_hieracioides,3,Disturbance,T3,3,2024
+Jena,jena_dn.de,Picris_hieracioides,4,Control,T0,1,2021
+Jena,jena_dn.de,Picris_hieracioides,5,Disturbance,T0,1,2021
+Jena,jena_dn.de,Picris_hieracioides,4,Control,T1,2,2022
+Jena,jena_dn.de,Picris_hieracioides,4,NPK,T1,0.5,2022
+Saihanba,saih_dn.cn,Picris_hieracioides,2,NPK,T0,1,2023
+Saihanba,saih_dn.cn,Picris_hieracioides,4,NPK,T0,0.5,2023
+Saihanba,saih_dn.cn,Picris_hieracioides,5,Control,T0,0.5,2023
+Saihanba,saih_dn.cn,Picris_hieracioides,2,NPK,T1,6,2024
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,Control,T0,10,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,Disturbance,T0,1,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,NPK,T0,1,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,2,Control,T0,5,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,Control,T0,6,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,Disturbance,T0,2,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,NPK,T0,10,2021
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,Control,T1,5,2022
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,Disturbance,T1,1,2022
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,NPK,T1,8,2022
+Meranges,mera_dn.es,Pimpinella_saxifraga,2,Control,T1,5,2022
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,Disturbance,T1,1,2022
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,NPK,T1,15,2022
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,Control,T2,4,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,1,NPK,T2,8,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,2,Control,T2,28,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,2,NPK,T2,5,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,Control,T2,25,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,Disturbance,T2,16,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,NPK,T2,12,2023
+Meranges,mera_dn.es,Pimpinella_saxifraga,2,Control,T3,1,2024
+Meranges,mera_dn.es,Pimpinella_saxifraga,3,Disturbance,T3,4,2024
+Bladen Lakes State Forest,blsf_dn.us,Pinus_palustris,2,Control,T0,3,2019
+Bladen Lakes State Forest,blsf_dn.us,Pinus_palustris,2,Control,T1,12,2020
+Bladen Lakes State Forest,blsf_dn.us,Pinus_palustris,4,Disturbance,T1,1,2020
+Bladen Lakes State Forest,blsf_dn.us,Pinus_palustris,2,Control,T2,24,2021
+Bladen Lakes State Forest,blsf_dn.us,Pinus_palustris,1,Control,T3,3,2022
+Bladen Lakes State Forest,blsf_dn.us,Pinus_palustris,2,Control,T3,28,2022
+Algaida,alga_dn.es,Plantago_coronopus,1,Disturbance,T0,4,2020
+Algaida,alga_dn.es,Plantago_coronopus,1,Control,T0,2,2020
+Algaida,alga_dn.es,Plantago_coronopus,1,NPK,T0,7,2020
+Algaida,alga_dn.es,Plantago_coronopus,2,Control,T0,1,2020
+Algaida,alga_dn.es,Plantago_coronopus,2,Disturbance,T0,3,2020
+Algaida,alga_dn.es,Plantago_coronopus,2,NPK,T0,3,2020
+Algaida,alga_dn.es,Plantago_coronopus,3,Control,T0,4,2020
+Algaida,alga_dn.es,Plantago_coronopus,3,Disturbance,T0,2,2020
+Algaida,alga_dn.es,Plantago_coronopus,3,NPK,T0,2,2020
+Algaida,alga_dn.es,Plantago_coronopus,1,Disturbance,T1,10,2021
+Algaida,alga_dn.es,Plantago_coronopus,1,Control,T1,8,2021
+Algaida,alga_dn.es,Plantago_coronopus,1,NPK,T1,50,2021
+Algaida,alga_dn.es,Plantago_coronopus,2,Control,T1,1,2021
+Algaida,alga_dn.es,Plantago_coronopus,2,Disturbance,T1,12,2021
+Algaida,alga_dn.es,Plantago_coronopus,2,NPK,T1,25,2021
+Algaida,alga_dn.es,Plantago_coronopus,3,Control,T1,15,2021
+Algaida,alga_dn.es,Plantago_coronopus,3,Disturbance,T1,6,2021
+Algaida,alga_dn.es,Plantago_coronopus,3,NPK,T1,50,2021
+Algaida,alga_dn.es,Plantago_coronopus,1,Disturbance,T2,38,2022
+Algaida,alga_dn.es,Plantago_coronopus,1,Control,T2,37.5,2022
+Algaida,alga_dn.es,Plantago_coronopus,1,NPK,T2,67.5,2022
+Algaida,alga_dn.es,Plantago_coronopus,2,Control,T2,1,2022
+Algaida,alga_dn.es,Plantago_coronopus,2,Disturbance,T2,15,2022
+Algaida,alga_dn.es,Plantago_coronopus,2,NPK,T2,67.5,2022
+Algaida,alga_dn.es,Plantago_coronopus,3,Control,T2,37.5,2022
+Algaida,alga_dn.es,Plantago_coronopus,3,Disturbance,T2,15,2022
+Algaida,alga_dn.es,Plantago_coronopus,3,NPK,T2,92.5,2022
+Algaida,alga_dn.es,Plantago_coronopus,1,Disturbance,T3,25,2023
+Algaida,alga_dn.es,Plantago_coronopus,1,Control,T3,40,2023
+Algaida,alga_dn.es,Plantago_coronopus,1,NPK,T3,70,2023
+Algaida,alga_dn.es,Plantago_coronopus,2,Control,T3,5,2023
+Algaida,alga_dn.es,Plantago_coronopus,2,Disturbance,T3,25,2023
+Algaida,alga_dn.es,Plantago_coronopus,2,NPK,T3,60,2023
+Algaida,alga_dn.es,Plantago_coronopus,3,Control,T3,10,2023
+Algaida,alga_dn.es,Plantago_coronopus,3,Disturbance,T3,15,2023
+Algaida,alga_dn.es,Plantago_coronopus,3,NPK,T3,30,2023
+Caracoles,cara_dn.es,Plantago_coronopus,1,Control,T0,1,2021
+Caracoles,cara_dn.es,Plantago_coronopus,1,Disturbance,T0,3,2021
+Caracoles,cara_dn.es,Plantago_coronopus,3,Disturbance,T0,2,2021
+Caracoles,cara_dn.es,Plantago_coronopus,3,Control,T0,1,2021
+Caracoles,cara_dn.es,Plantago_coronopus,3,NPK,T0,25,2021
+Caracoles,cara_dn.es,Plantago_coronopus,3,Control,T1,5,2022
+Caracoles,cara_dn.es,Plantago_coronopus,2,NPK,T2,20,2023
+Caracoles,cara_dn.es,Plantago_coronopus,3,Disturbance,T2,2,2023
+Caracoles,cara_dn.es,Plantago_coronopus,1,Control,T3,3,2024
+Caracoles,cara_dn.es,Plantago_coronopus,1,NPK,T3,2,2024
+Caracoles,cara_dn.es,Plantago_coronopus,1,Disturbance,T3,4,2024
+Lublin,lubl_dn.pl,Plantago_media,2,NPK,T1,1,2022
+Meranges,mera_dn.es,Plantago_media,1,Control,T0,6,2021
+Meranges,mera_dn.es,Plantago_media,1,Disturbance,T0,3,2021
+Meranges,mera_dn.es,Plantago_media,1,NPK,T0,3,2021
+Meranges,mera_dn.es,Plantago_media,2,Control,T0,1,2021
+Meranges,mera_dn.es,Plantago_media,2,Disturbance,T0,6,2021
+Meranges,mera_dn.es,Plantago_media,2,NPK,T0,3,2021
+Meranges,mera_dn.es,Plantago_media,3,NPK,T0,23,2021
+Meranges,mera_dn.es,Plantago_media,1,Control,T1,5,2022
+Meranges,mera_dn.es,Plantago_media,1,Disturbance,T1,1,2022
+Meranges,mera_dn.es,Plantago_media,1,NPK,T1,3,2022
+Meranges,mera_dn.es,Plantago_media,2,Control,T1,7,2022
+Meranges,mera_dn.es,Plantago_media,2,Disturbance,T1,10,2022
+Meranges,mera_dn.es,Plantago_media,3,Control,T1,2,2022
+Meranges,mera_dn.es,Plantago_media,3,Disturbance,T1,5,2022
+Meranges,mera_dn.es,Plantago_media,3,NPK,T1,3,2022
+Meranges,mera_dn.es,Plantago_media,1,Disturbance,T2,2,2023
+Meranges,mera_dn.es,Plantago_media,2,Disturbance,T2,8,2023
+Meranges,mera_dn.es,Plantago_media,3,Disturbance,T2,4,2023
+Meranges,mera_dn.es,Plantago_media,2,Control,T3,2,2024
+Meranges,mera_dn.es,Plantago_media,2,Disturbance,T3,12,2024
+Meranges,mera_dn.es,Plantago_media,3,Disturbance,T3,3,2024
+Meranges,mera_dn.es,Plantago_media,3,NPK,T3,1,2024
+Stoderzinken,stod_dn.at,Plantago_media,2,Disturbance,T0,2,2023
+Stoderzinken,stod_dn.at,Poa_alpina,4,Disturbance,T0,1,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,1,Disturbance,T0,7,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,1,NPK,T0,3,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,1,Control,T0,2,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,2,Disturbance,T0,4,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,2,Control,T0,2,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,3,Disturbance,T0,2,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,3,NPK,T0,5,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,3,Control,T0,3,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,4,NPK,T0,3,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,4,Disturbance,T0,5,2021
+Churning Rapids,chur_dn.us,Potentilla_recta,1,Disturbance,T1,1,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,1,NPK,T1,6,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,1,Control,T1,3,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,2,Disturbance,T1,2,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,2,Control,T1,3,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,3,Disturbance,T1,4,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,3,NPK,T1,4,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,3,Control,T1,2,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,4,Control,T1,3,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,4,Disturbance,T1,1,2022
+Churning Rapids,chur_dn.us,Potentilla_recta,1,Disturbance,T2,6,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,1,NPK,T2,4,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,2,Disturbance,T2,1,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,2,NPK,T2,3,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,2,Control,T2,1,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,3,Disturbance,T2,2,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,3,Control,T2,1,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,4,Control,T2,5,2023
+Churning Rapids,chur_dn.us,Potentilla_recta,4,Disturbance,T2,2,2023
+Kellogg Biological Station (KBS),kell_dn.us,Potentilla_recta,2,Disturbance,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Potentilla_recta,3,Disturbance,T0,2,2021
+Kellogg Biological Station (KBS),kell_dn.us,Potentilla_recta,2,Disturbance,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Potentilla_recta,2,Disturbance,T3,1,2024
+Stoderzinken,stod_dn.at,Primula_elatior,1,Disturbance,T0,1,2023
+Stoderzinken,stod_dn.at,Primula_elatior,3,Disturbance,T0,2,2023
+Stoderzinken,stod_dn.at,Primula_elatior,3,Control,T0,2,2023
+Wytham Woods,wyth_dn.uk,Primula_veris,2,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Primula_veris,4,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Primula_veris,2,Control,T1,2,2022
+Wytham Woods,wyth_dn.uk,Primula_veris,3,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Primula_veris,2,Control,T2,4,2023
+Wytham Woods,wyth_dn.uk,Primula_veris,4,Control,T2,3,2023
+Wytham Woods,wyth_dn.uk,Primula_veris,2,Control,T3,1,2024
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Prosopis_glandulosa,1,Control,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Prosopis_glandulosa,2,NPK,T0,1,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Prosopis_glandulosa,1,Control,T1,2,2023
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Prosopis_glandulosa,2,NPK,T1,7,2023
+Cary IES,cary_dn.us,Prunus_serotina,3,Control,T2,1,2024
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,1,Disturbance,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,2,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,2,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,3,Control,T0,2,2020
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,5,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,1,Disturbance,T1,6,2021
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,2,NPK,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,2,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,3,Control,T1,7,2021
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,3,Disturbance,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,1,Disturbance,T2,10,2022
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,2,Control,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,3,Disturbance,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,1,Disturbance,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,2,Control,T3,0.1,2023
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_acris,3,Control,T3,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_acris,1,Control,T3,1,2024
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,NPK,T0,17,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Disturbance,T0,4,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Control,T0,2,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Disturbance,T0,3,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Control,T0,6,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,NPK,T0,14,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,NPK,T0,5,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Disturbance,T0,1,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Control,T0,4,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,Control,T0,2,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,NPK,T0,15,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,Disturbance,T0,3,2020
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,NPK,T1,1,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Disturbance,T1,15,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Control,T1,3,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Disturbance,T1,5,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Control,T1,7,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,NPK,T1,7,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,NPK,T1,3,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Disturbance,T1,12,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Control,T1,3,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,NPK,T1,9,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,Disturbance,T1,15,2021
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,NPK,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Disturbance,T2,8,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Control,T2,2,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Disturbance,T2,2,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Control,T2,5,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,NPK,T2,5,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,NPK,T2,2,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Disturbance,T2,4,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Control,T2,4,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,NPK,T2,3,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,4,Disturbance,T2,3,2022
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,NPK,T3,1,2023
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Disturbance,T3,12,2023
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,1,Control,T3,4,2023
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Disturbance,T3,4,2023
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,Control,T3,2,2023
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,2,NPK,T3,4,2023
+Agroscope Changins,chan_dn.ch,Ranunculus_acris,3,Control,T3,4,2023
+Churning Rapids,chur_dn.us,Ranunculus_acris,1,Control,T0,3,2021
+Kniezenberg,kzbg_dn.at,Ranunculus_acris,2,NPK,T0,1,2022
+Kniezenberg,kzbg_dn.at,Ranunculus_acris,2,Disturbance,T0,2,2022
+Kniezenberg,kzbg_dn.at,Ranunculus_acris,1,NPK,T1,1,2023
+Kniezenberg,kzbg_dn.at,Ranunculus_acris,2,Control,T2,1,2024
+Meranges,mera_dn.es,Ranunculus_acris,1,Control,T0,3,2021
+Meranges,mera_dn.es,Ranunculus_acris,1,NPK,T0,1,2021
+Meranges,mera_dn.es,Ranunculus_acris,3,Control,T0,1,2021
+Meranges,mera_dn.es,Ranunculus_acris,3,NPK,T0,1,2021
+Meranges,mera_dn.es,Ranunculus_acris,1,Control,T1,0.5,2022
+Meranges,mera_dn.es,Ranunculus_acris,1,Disturbance,T1,1,2022
+Meranges,mera_dn.es,Ranunculus_acris,2,Control,T1,3,2022
+Meranges,mera_dn.es,Ranunculus_acris,2,Disturbance,T1,1,2022
+Meranges,mera_dn.es,Ranunculus_acris,3,Control,T1,1,2022
+Meranges,mera_dn.es,Ranunculus_acris,3,NPK,T1,0.5,2022
+Meranges,mera_dn.es,Ranunculus_acris,1,Control,T2,6,2023
+Meranges,mera_dn.es,Ranunculus_acris,1,Disturbance,T2,1,2023
+Meranges,mera_dn.es,Ranunculus_acris,1,NPK,T2,1,2023
+Meranges,mera_dn.es,Ranunculus_acris,2,Control,T2,3,2023
+Meranges,mera_dn.es,Ranunculus_acris,3,Control,T2,2,2023
+Meranges,mera_dn.es,Ranunculus_acris,3,Disturbance,T2,3,2023
+Meranges,mera_dn.es,Ranunculus_acris,3,NPK,T2,10,2023
+Meranges,mera_dn.es,Ranunculus_acris,1,Control,T3,2,2024
+Meranges,mera_dn.es,Ranunculus_acris,1,Disturbance,T3,1,2024
+Meranges,mera_dn.es,Ranunculus_acris,1,NPK,T3,4,2024
+Meranges,mera_dn.es,Ranunculus_acris,2,Control,T3,23,2024
+Meranges,mera_dn.es,Ranunculus_acris,2,Disturbance,T3,4,2024
+Meranges,mera_dn.es,Ranunculus_acris,2,NPK,T3,2,2024
+Meranges,mera_dn.es,Ranunculus_acris,3,Control,T3,14,2024
+Meranges,mera_dn.es,Ranunculus_acris,3,Disturbance,T3,3,2024
+Meranges,mera_dn.es,Ranunculus_acris,3,NPK,T3,6,2024
+Stoderzinken,stod_dn.at,Ranunculus_acris,3,Disturbance,T0,1,2023
+Stoderzinken,stod_dn.at,Ranunculus_acris,3,Control,T0,1,2023
+Stoderzinken,stod_dn.at,Ranunculus_acris,4,Control,T0,1,2023
+Stoderzinken,stod_dn.at,Ranunculus_acris,4,Disturbance,T0,7,2023
+WSL,wald_dn.ch,Ranunculus_acris,1,NPK,T0,5,2020
+WSL,wald_dn.ch,Ranunculus_acris,2,NPK,T0,2,2020
+WSL,wald_dn.ch,Ranunculus_acris,2,Disturbance,T0,3,2020
+WSL,wald_dn.ch,Ranunculus_acris,3,Control,T0,6,2020
+WSL,wald_dn.ch,Ranunculus_acris,3,NPK,T0,5,2020
+WSL,wald_dn.ch,Ranunculus_acris,3,Disturbance,T0,4,2020
+WSL,wald_dn.ch,Ranunculus_acris,1,NPK,T1,1,2021
+WSL,wald_dn.ch,Ranunculus_acris,2,Control,T1,7,2021
+WSL,wald_dn.ch,Ranunculus_acris,2,NPK,T1,9,2021
+WSL,wald_dn.ch,Ranunculus_acris,3,Control,T1,5,2021
+WSL,wald_dn.ch,Ranunculus_acris,3,NPK,T1,18,2021
+WSL,wald_dn.ch,Ranunculus_acris,3,Disturbance,T1,3,2021
+WSL,wald_dn.ch,Ranunculus_acris,2,Control,T2,1,2022
+WSL,wald_dn.ch,Ranunculus_acris,2,NPK,T2,1,2022
+WSL,wald_dn.ch,Ranunculus_acris,3,Control,T2,3,2022
+WSL,wald_dn.ch,Ranunculus_acris,3,NPK,T2,1,2022
+WSL,wald_dn.ch,Ranunculus_acris,3,Disturbance,T2,2,2022
+WSL,wald_dn.ch,Ranunculus_acris,2,Control,T3,3,2023
+WSL,wald_dn.ch,Ranunculus_acris,2,NPK,T3,0.1,2023
+WSL,wald_dn.ch,Ranunculus_acris,3,Control,T3,1,2023
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,1,NPK,T0,5,2021
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,1,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,4,NPK,T0,1,2021
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,1,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,3,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,3,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,4,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,4,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,5,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Ranunculus_acris,5,Disturbance,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,1,NPK,T1,2,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,2,Disturbance,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,3,NPK,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,2,Disturbance,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,2,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,3,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Ranunculus_bulbosus,1,NPK,T3,5,2024
+Agroscope Changins,chan_dn.ch,Ranunculus_bulbosus,4,NPK,T0,0.1,2020
+Morella la Vella,more_dn.es,Ranunculus_bulbosus,3,Disturbance,T0,1,2022
+Stoderzinken,stod_dn.at,Ranunculus_bulbosus,2,Control,T0,3,2023
+Wytham Woods,wyth_dn.uk,Ranunculus_bulbosus,4,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Ranunculus_bulbosus,4,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Ranunculus_bulbosus,2,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Ranunculus_bulbosus,2,Disturbance,T3,1,2024
+Wytham Woods,wyth_dn.uk,Ranunculus_bulbosus,5,Disturbance,T3,1,2024
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,3,Disturbance,T0,1,2022
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,1,Disturbance,T1,2,2023
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,1,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,2,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,3,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,3,Disturbance,T1,1,2023
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,1,Disturbance,T2,3,2024
+Ainsdale Dune Slacks,ains_dn.uk,Ranunculus_repens,2,Disturbance,T2,6,2024
+Algaida,alga_dn.es,Ranunculus_repens,1,Disturbance,T3,2,2023
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_repens,3,Control,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Ranunculus_repens,5,NPK,T1,0.1,2021
+Kniezenberg,kzbg_dn.at,Ranunculus_repens,2,Disturbance,T1,1,2023
+Kniezenberg,kzbg_dn.at,Ranunculus_repens,3,Disturbance,T1,1,2023
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,1,NPK,T0,2,2022
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,2,NPK,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,3,Disturbance,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,3,Control,T0,1,2022
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,1,Disturbance,T1,45,2023
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,3,Disturbance,T1,50,2023
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,1,Disturbance,T2,2,2024
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,1,NPK,T2,25,2024
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,2,Control,T2,1,2024
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,2,Disturbance,T2,22,2024
+Hazelrigg,lancaster_dn.uk,Ranunculus_repens,3,Control,T2,2,2024
+Lublin,lubl_dn.pl,Ranunculus_repens,1,Disturbance,T0,1,2021
+Lublin,lubl_dn.pl,Ranunculus_repens,3,Control,T0,5,2021
+Lublin,lubl_dn.pl,Ranunculus_repens,3,NPK,T0,1,2021
+Lublin,lubl_dn.pl,Ranunculus_repens,1,Disturbance,T1,2,2022
+Lublin,lubl_dn.pl,Ranunculus_repens,3,Control,T1,0.2,2022
+Stoderzinken,stod_dn.at,Ranunculus_repens,4,Control,T0,3,2023
+Wytham Woods,wyth_dn.uk,Ranunculus_repens,1,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Ranunculus_repens,1,NPK,T1,0.1,2022
+Wytham Woods,wyth_dn.uk,Ranunculus_repens,1,Control,T1,2,2022
+Wytham Woods,wyth_dn.uk,Ranunculus_repens,1,Disturbance,T1,0.1,2022
+Wytham Woods,wyth_dn.uk,Ranunculus_repens,4,Disturbance,T1,1,2022
+Wytham Woods,wyth_dn.uk,Ranunculus_repens,5,Disturbance,T1,0.5,2022
+Ladybird Johnson Wildflower Center,ljwc_dn.us,Ratibida_columnifera,1,Disturbance,T1,1,2023
+Stoderzinken,stod_dn.at,Rhinanthus_minor,1,Control,T0,1,2023
+Wytham Woods,wyth_dn.uk,Rhinanthus_minor,5,NPK,T0,4,2021
+Wytham Woods,wyth_dn.uk,Rhinanthus_minor,4,Disturbance,T1,0.5,2022
+Wytham Woods,wyth_dn.uk,Rhinanthus_minor,5,NPK,T1,5,2022
+Wytham Woods,wyth_dn.uk,Rhinanthus_minor,5,NPK,T2,5,2023
+Wytham Woods,wyth_dn.uk,Rhinanthus_minor,5,NPK,T3,1,2024
+Piedmont Prairie,pied_dn.us,Rhus_copallinum,4,Disturbance,T1,0.2,2023
+Bad Lauchstaedt,badlau_dn.de,Rosa_canina,1,Disturbance,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Rosa_canina,3,NPK,T0,0.5,2021
+Wytham Woods,wyth_dn.uk,Rosa_canina,1,Disturbance,T0,1,2021
+Wytham Woods,wyth_dn.uk,Rosa_canina,2,Disturbance,T0,1,2021
+Wytham Woods,wyth_dn.uk,Rosa_canina,3,Disturbance,T0,2,2021
+Wytham Woods,wyth_dn.uk,Rosa_canina,3,NPK,T0,2,2021
+Wytham Woods,wyth_dn.uk,Rosa_canina,4,NPK,T0,1,2021
+Wytham Woods,wyth_dn.uk,Rosa_canina,1,Disturbance,T1,0.1,2022
+Wytham Woods,wyth_dn.uk,Rosa_canina,1,Disturbance,T2,3,2023
+Cary IES,cary_dn.us,Rosa_multiflora,3,NPK,T0,5,2022
+Cary IES,cary_dn.us,Rosa_multiflora,5,Disturbance,T0,2,2022
+Cary IES,cary_dn.us,Rosa_multiflora,5,Control,T0,1,2022
+Cary IES,cary_dn.us,Rosa_multiflora,3,NPK,T1,15,2023
+Cary IES,cary_dn.us,Rosa_multiflora,5,Control,T1,15,2023
+Cary IES,cary_dn.us,Rosa_multiflora,3,NPK,T2,4,2024
+Izaak Walton League of America (IWLA),iwla_dn.us,Rosa_multiflora,1,Disturbance,T0,3,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Rosa_multiflora,3,NPK,T0,25,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Rosa_multiflora,1,Disturbance,T1,1,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Rosa_multiflora,3,NPK,T1,30,2023
+WSL,wald_dn.ch,Rumex_obtusifolius,2,Control,T3,3,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,1,Control,T1,4,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,1,Disturbance,T1,1,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,2,Disturbance,T1,1,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,2,Control,T1,0.5,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,3,Disturbance,T1,2,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,3,NPK,T1,1,2023
+Fowlers Gap,fowl_dn.au,Salsola_kali,4,NPK,T1,5,2023
+Sandflats,sdft_dn.us,Salsola_kali,1,Disturbance,T0,0.5,2021
+Sandflats,sdft_dn.us,Salsola_kali,2,Disturbance,T1,0.5,2022
+Sandflats,sdft_dn.us,Salsola_kali,1,Disturbance,T3,0.5,2024
+Churning Rapids,chur_dn.us,Solidago_altissima,1,NPK,T2,2,2023
+Churning Rapids,chur_dn.us,Solidago_altissima,1,Control,T2,7,2023
+Churning Rapids,chur_dn.us,Solidago_altissima,2,Control,T2,2,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,1,Control,T0,45,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,1,NPK,T0,40,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,1,Disturbance,T0,2,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,2,NPK,T0,1,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,2,Control,T0,0.5,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,1,Control,T1,30,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,1,NPK,T1,45,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,2,NPK,T1,1,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,2,Disturbance,T1,2,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Solidago_altissima,3,Disturbance,T1,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Disturbance,T0,70,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,NPK,T0,65,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Control,T0,50,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Control,T0,50,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,NPK,T0,75,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Disturbance,T0,50,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Control,T0,75,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,NPK,T0,40,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Disturbance,T0,80,2021
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Disturbance,T1,40,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,NPK,T1,60,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Control,T1,10,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Control,T1,50,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,NPK,T1,85,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Disturbance,T1,4,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Control,T1,60,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,NPK,T1,75,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Disturbance,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Disturbance,T2,2,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,NPK,T2,40,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Control,T2,5,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Control,T2,20,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,NPK,T2,75,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Disturbance,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Control,T2,60,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,NPK,T2,65,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Disturbance,T2,3,2023
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,Disturbance,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,1,NPK,T3,6,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Control,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,NPK,T3,50,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,2,Disturbance,T3,2,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Control,T3,5,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,NPK,T3,4,2024
+Kellogg Biological Station (KBS),kell_dn.us,Solidago_altissima,3,Disturbance,T3,3,2024
+Konza LTER DRAGNet,konz_dn.us,Solidago_altissima,3,Control,T0,5,2022
+Konza LTER DRAGNet,konz_dn.us,Solidago_altissima,3,NPK,T0,2,2022
+Konza LTER DRAGNet,konz_dn.us,Solidago_altissima,4,NPK,T0,3,2022
+Konza LTER DRAGNet,konz_dn.us,Solidago_altissima,5,Control,T0,2,2022
+Konza LTER DRAGNet,konz_dn.us,Solidago_altissima,5,NPK,T0,2,2022
+LSU Botanical Garden,lsbg_dn.us,Solidago_altissima,2,NPK,T0,1,2021
+LSU Botanical Garden,lsbg_dn.us,Solidago_altissima,2,NPK,T1,5,2022
+LSU Botanical Garden,lsbg_dn.us,Solidago_altissima,2,Disturbance,T1,2,2022
+LSU Botanical Garden,lsbg_dn.us,Solidago_altissima,3,Disturbance,T1,1,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,1,NPK,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,1,Disturbance,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,1,Control,T0,95,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,2,NPK,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,2,Disturbance,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,2,Control,T0,100,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,3,NPK,T0,95,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,3,Disturbance,T0,100,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,3,Control,T0,99,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,4,NPK,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,4,Disturbance,T0,95,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,4,Control,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,5,NPK,T0,100,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,5,Disturbance,T0,100,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,5,Control,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,6,NPK,T0,100,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,6,Disturbance,T0,80,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,6,Control,T0,90,2021
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,1,NPK,T1,95,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,1,Control,T1,100,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,2,NPK,T1,90,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,2,Control,T1,100,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,3,NPK,T1,100,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,3,Control,T1,90,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,4,NPK,T1,99,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,4,Disturbance,T1,1,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,4,Control,T1,90,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,5,NPK,T1,100,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,5,Control,T1,85,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,6,NPK,T1,100,2022
+GCE LTER - Sapelo Island,sape_dn.us,Spartina_alterniflora,6,Control,T1,95,2022
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,1,Disturbance,T0,10,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,1,Control,T0,2,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,Disturbance,T0,3,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,NPK,T0,1,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,Control,T0,2,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,3,NPK,T0,1,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,3,Control,T0,6,2021
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,1,Control,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,NPK,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,Control,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,3,NPK,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,3,Control,T1,1,2022
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,1,Control,T2,14,2023
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,NPK,T2,1,2023
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,2,Control,T2,1,2023
+Shortgrass Steppe LTER,sgs_dn.us,Sphaeralcea_coccinea,3,Control,T2,3,2023
+Temple,temple_dn.us,Stenaria_nigricans,1,Control,T0,1,2021
+Temple,temple_dn.us,Stenaria_nigricans,1,Disturbance,T0,10,2021
+Temple,temple_dn.us,Stenaria_nigricans,2,NPK,T0,10,2021
+Temple,temple_dn.us,Stenaria_nigricans,3,Control,T0,25,2021
+Temple,temple_dn.us,Stenaria_nigricans,4,Control,T0,5,2021
+Temple,temple_dn.us,Stenaria_nigricans,5,NPK,T0,10,2021
+Temple,temple_dn.us,Stenaria_nigricans,2,NPK,T1,15,2022
+Temple,temple_dn.us,Stenaria_nigricans,3,Control,T1,15,2022
+Temple,temple_dn.us,Stenaria_nigricans,4,Control,T1,25,2022
+Temple,temple_dn.us,Stenaria_nigricans,3,Control,T2,5,2023
+Temple,temple_dn.us,Stenaria_nigricans,4,Control,T2,10,2023
+Temple,temple_dn.us,Stenaria_nigricans,1,Disturbance,T3,5,2024
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,3,Control,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,3,Disturbance,T0,7,2020
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,4,Disturbance,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,5,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,3,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,3,Disturbance,T1,10,2021
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,4,Disturbance,T1,4,2021
+Bayreuth DRAGNet,bayr_dn.de,Taraxacum_campylodes,3,Disturbance,T2,7,2022
+Kellogg Biological Station (KBS),kell_dn.us,Taraxacum_campylodes,1,NPK,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Taraxacum_campylodes,2,NPK,T0,1,2021
+Kellogg Biological Station (KBS),kell_dn.us,Taraxacum_campylodes,3,NPK,T1,1,2022
+Kellogg Biological Station (KBS),kell_dn.us,Taraxacum_campylodes,3,Disturbance,T1,2,2022
+Kellogg Biological Station (KBS),kell_dn.us,Taraxacum_campylodes,3,NPK,T2,1,2023
+Kellogg Biological Station (KBS),kell_dn.us,Taraxacum_campylodes,3,Disturbance,T2,1,2023
+Nillahcootie,nilla_dn.au,Themeda_triandra,1,Disturbance,T0,0.5,2021
+Nillahcootie,nilla_dn.au,Themeda_triandra,1,NPK,T0,55,2021
+Nillahcootie,nilla_dn.au,Themeda_triandra,2,Control,T0,22,2021
+Nillahcootie,nilla_dn.au,Themeda_triandra,1,NPK,T1,66,2022
+Nillahcootie,nilla_dn.au,Themeda_triandra,2,Control,T1,35,2022
+Nillahcootie,nilla_dn.au,Themeda_triandra,1,NPK,T2,8,2023
+Nillahcootie,nilla_dn.au,Themeda_triandra,2,Control,T2,1,2023
+Nillahcootie,nilla_dn.au,Themeda_triandra,1,NPK,T3,2,2024
+Nillahcootie,nilla_dn.au,Themeda_triandra,2,Control,T3,7,2024
+Ukulinga,ukul_dn.za,Themeda_triandra,1,Disturbance,T0,30,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,1,Control,T0,85,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,1,NPK,T0,55,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,2,Disturbance,T0,65,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,2,NPK,T0,4,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,2,Control,T0,85,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,3,NPK,T0,40,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,3,Control,T0,28,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,3,Disturbance,T0,20,2021
+Ukulinga,ukul_dn.za,Themeda_triandra,1,Control,T1,38,2022
+Ukulinga,ukul_dn.za,Themeda_triandra,1,NPK,T1,35,2022
+Ukulinga,ukul_dn.za,Themeda_triandra,2,Control,T1,60,2022
+Ukulinga,ukul_dn.za,Themeda_triandra,3,NPK,T1,55,2022
+Ukulinga,ukul_dn.za,Themeda_triandra,3,Control,T1,35,2022
+Ukulinga,ukul_dn.za,Themeda_triandra,1,Control,T2,22,2023
+Ukulinga,ukul_dn.za,Themeda_triandra,1,NPK,T2,30,2023
+Ukulinga,ukul_dn.za,Themeda_triandra,2,Control,T2,55,2023
+Ukulinga,ukul_dn.za,Themeda_triandra,3,NPK,T2,4,2023
+Ukulinga,ukul_dn.za,Themeda_triandra,3,Control,T2,14,2023
+Ukulinga,ukul_dn.za,Themeda_triandra,1,Control,T3,35,2024
+Ukulinga,ukul_dn.za,Themeda_triandra,1,NPK,T3,65,2024
+Ukulinga,ukul_dn.za,Themeda_triandra,2,Control,T3,20,2024
+Ukulinga,ukul_dn.za,Themeda_triandra,3,NPK,T3,20,2024
+Ukulinga,ukul_dn.za,Themeda_triandra,3,Control,T3,11,2024
+Morella la Vella,more_dn.es,Thymus_vulgaris,1,Disturbance,T0,1,2022
+Morella la Vella,more_dn.es,Thymus_vulgaris,1,Control,T0,4,2022
+Morella la Vella,more_dn.es,Thymus_vulgaris,2,Control,T0,4,2022
+Morella la Vella,more_dn.es,Thymus_vulgaris,2,Disturbance,T0,1,2022
+Morella la Vella,more_dn.es,Thymus_vulgaris,3,NPK,T0,8,2022
+Morella la Vella,more_dn.es,Thymus_vulgaris,3,Disturbance,T0,1,2022
+Churning Rapids,chur_dn.us,Tragopogon_dubius,1,Disturbance,T0,1,2021
+Churning Rapids,chur_dn.us,Tragopogon_dubius,1,NPK,T0,1,2021
+Churning Rapids,chur_dn.us,Tragopogon_dubius,3,NPK,T0,5,2021
+Churning Rapids,chur_dn.us,Tragopogon_dubius,4,NPK,T0,5,2021
+Churning Rapids,chur_dn.us,Tragopogon_dubius,1,NPK,T1,1,2022
+Churning Rapids,chur_dn.us,Tragopogon_dubius,4,NPK,T1,2,2022
+Churning Rapids,chur_dn.us,Tragopogon_dubius,1,Control,T2,1,2023
+Millville,mill_dn.us,Tragopogon_dubius,2,NPK,T0,1,2021
+Millville,mill_dn.us,Tragopogon_dubius,2,Disturbance,T0,2,2021
+Millville,mill_dn.us,Tragopogon_dubius,2,Control,T0,1,2021
+Millville,mill_dn.us,Tragopogon_dubius,2,Control,T1,1,2022
+Millville,mill_dn.us,Tragopogon_dubius,1,Control,T2,2,2023
+Millville,mill_dn.us,Tragopogon_dubius,2,Disturbance,T2,1,2023
+Shortgrass Steppe LTER,sgs_dn.us,Tragopogon_dubius,1,Disturbance,T1,1,2022
+University of Michigan Biological Station,umbs_dn.us,Tragopogon_dubius,3,Disturbance,T2,1,2023
+University of Wyoming - SAREC,uwyo_dn.us,Tragopogon_dubius,4,NPK,T0,0.5,2022
+Wallula Gap Biological Station-North Face,wgno_dn.us,Tragopogon_dubius,5,Disturbance,T1,1,2021
+Wallula Gap Biological Station-North Face,wgno_dn.us,Tragopogon_dubius,4,Control,T3,1,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Tragopogon_dubius,1,Disturbance,T0,1,2020
+Wallula Gap Biological Station-South Face,wgso_dn.us,Tragopogon_dubius,1,Control,T3,3,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Tragopogon_dubius,4,NPK,T3,1,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Tragopogon_dubius,4,Control,T3,1,2023
+Wallula Gap Biological Station-South Face,wgso_dn.us,Tragopogon_dubius,5,NPK,T3,2,2023
+Bad Lauchstaedt,badlau_dn.de,Tragopogon_orientalis,2,Control,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Tragopogon_orientalis,3,Disturbance,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Tragopogon_orientalis,2,Control,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Tragopogon_orientalis,2,Control,T2,0.5,2023
+Agroscope Changins,chan_dn.ch,Tragopogon_pratensis,1,Control,T0,1,2020
+Agroscope Changins,chan_dn.ch,Tragopogon_pratensis,3,Control,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Tragopogon_pratensis,3,Control,T1,0.5,2021
+WSL,wald_dn.ch,Tragopogon_pratensis,3,Control,T2,4,2022
+WSL,wald_dn.ch,Tragopogon_pratensis,3,Control,T3,2,2023
+WSL,wald_dn.ch,Tragopogon_pratensis,3,Disturbance,T3,7,2023
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,2,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,2,Disturbance,T0,19,2021
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,3,Control,T0,1,2021
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,4,NPK,T0,1,2021
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,5,Disturbance,T0,2,2021
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,2,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,3,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,4,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,4,NPK,T1,2,2022
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,5,Control,T1,1,2022
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,5,Disturbance,T1,2,2022
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,1,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,2,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,3,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,4,Control,T2,1,2023
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,4,NPK,T2,1,2023
+Wytham Woods,wyth_dn.uk,Tragopogon_pratensis,1,Control,T3,1,2024
+Algaida,alga_dn.es,Trifolium_pratense,2,Disturbance,T0,1,2020
+Algaida,alga_dn.es,Trifolium_pratense,1,NPK,T3,1,2023
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,1,Disturbance,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,2,NPK,T0,7,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,2,Control,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Control,T0,5,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Disturbance,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,4,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,4,Disturbance,T0,3,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,5,NPK,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,5,Control,T0,1,2020
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,1,Disturbance,T1,7,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,2,NPK,T1,20,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,2,Control,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Control,T1,7,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Disturbance,T1,5,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,4,NPK,T1,4,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,4,Disturbance,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,5,NPK,T1,0.1,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,5,Control,T1,1,2021
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,1,Disturbance,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,2,NPK,T2,15,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,2,Control,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Control,T2,20,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Disturbance,T2,2,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,4,NPK,T2,4,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,5,Control,T2,0.1,2022
+Bayreuth DRAGNet,bayr_dn.de,Trifolium_pratense,3,Control,T3,12,2023
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,NPK,T0,20,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Disturbance,T0,8,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Control,T0,8,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Disturbance,T0,23,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Control,T0,30,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,NPK,T0,8,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,NPK,T0,20,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,Disturbance,T0,29,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,Control,T0,14,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,Control,T0,4,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,NPK,T0,6,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,Disturbance,T0,17,2020
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,NPK,T1,4,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Disturbance,T1,1,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Control,T1,3,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Disturbance,T1,8,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Control,T1,9,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,NPK,T1,2,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,NPK,T1,2,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,Disturbance,T1,5,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,Control,T1,9,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,Control,T1,3,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,NPK,T1,9,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,Disturbance,T1,9,2021
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Disturbance,T2,2,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Control,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Disturbance,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Control,T2,1,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,NPK,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,NPK,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,Disturbance,T2,1,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,3,Control,T2,3,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,Control,T2,0.5,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,4,Disturbance,T2,1,2022
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,NPK,T3,0.5,2023
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Disturbance,T3,1,2023
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,1,Control,T3,1,2023
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Disturbance,T3,2,2023
+Agroscope Changins,chan_dn.ch,Trifolium_pratense,2,Control,T3,3,2023
+Domaninek,doma_dn.cz,Trifolium_pratense,2,NPK,T0,3,2022
+Domaninek,doma_dn.cz,Trifolium_pratense,3,NPK,T0,0.5,2022
+Kniezenberg,kzbg_dn.at,Trifolium_pratense,3,Disturbance,T0,2,2022
+Kniezenberg,kzbg_dn.at,Trifolium_pratense,3,Control,T1,2,2023
+Meranges,mera_dn.es,Trifolium_pratense,1,Disturbance,T0,1,2021
+Meranges,mera_dn.es,Trifolium_pratense,1,NPK,T0,14,2021
+Meranges,mera_dn.es,Trifolium_pratense,2,Control,T0,1,2021
+Meranges,mera_dn.es,Trifolium_pratense,2,NPK,T0,1,2021
+Meranges,mera_dn.es,Trifolium_pratense,3,Control,T0,1,2021
+Meranges,mera_dn.es,Trifolium_pratense,3,Disturbance,T0,8,2021
+Meranges,mera_dn.es,Trifolium_pratense,3,NPK,T0,21,2021
+Meranges,mera_dn.es,Trifolium_pratense,1,NPK,T1,3,2022
+Meranges,mera_dn.es,Trifolium_pratense,3,Control,T1,1,2022
+Meranges,mera_dn.es,Trifolium_pratense,3,Disturbance,T1,0.5,2022
+Meranges,mera_dn.es,Trifolium_pratense,1,NPK,T2,3,2023
+Meranges,mera_dn.es,Trifolium_pratense,2,Control,T2,2,2023
+Meranges,mera_dn.es,Trifolium_pratense,2,NPK,T2,1,2023
+Meranges,mera_dn.es,Trifolium_pratense,3,Control,T3,1,2024
+Oak Lake Field Station,olfs_dn.us,Trifolium_pratense,1,Control,T1,10,2023
+Oak Lake Field Station,olfs_dn.us,Trifolium_pratense,2,Control,T1,25,2023
+Oak Lake Field Station,olfs_dn.us,Trifolium_pratense,4,Control,T1,15,2023
+Oak Lake Field Station,olfs_dn.us,Trifolium_pratense,4,NPK,T1,5,2023
+Stoderzinken,stod_dn.at,Trifolium_pratense,1,Disturbance,T0,1,2023
+Stoderzinken,stod_dn.at,Trifolium_pratense,1,Control,T0,2,2023
+Stoderzinken,stod_dn.at,Trifolium_pratense,2,Disturbance,T0,2,2023
+Stoderzinken,stod_dn.at,Trifolium_pratense,3,Disturbance,T0,3,2023
+Stoderzinken,stod_dn.at,Trifolium_pratense,3,Control,T0,2,2023
+Stoderzinken,stod_dn.at,Trifolium_pratense,4,Disturbance,T0,1,2023
+WSL,wald_dn.ch,Trifolium_pratense,1,Control,T0,1,2020
+WSL,wald_dn.ch,Trifolium_pratense,3,Control,T0,5,2020
+WSL,wald_dn.ch,Trifolium_pratense,3,NPK,T0,2,2020
+WSL,wald_dn.ch,Trifolium_pratense,3,Control,T1,3,2021
+WSL,wald_dn.ch,Trifolium_pratense,3,NPK,T1,1,2021
+WSL,wald_dn.ch,Trifolium_pratense,3,Control,T2,10,2022
+WSL,wald_dn.ch,Trifolium_pratense,3,Control,T3,1,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,1,NPK,T0,10,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,1,Disturbance,T0,2,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,NPK,T0,5,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,Control,T0,4,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,Disturbance,T0,3,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,Control,T0,2,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,Disturbance,T0,5,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,NPK,T0,7,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,Control,T0,12,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,NPK,T0,20,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,Disturbance,T0,7,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,Control,T0,3,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,Disturbance,T0,8,2021
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,1,NPK,T1,15,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,1,Disturbance,T1,2,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,NPK,T1,3,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,Control,T1,6,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,Disturbance,T1,2,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,Control,T1,2,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,NPK,T1,30,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,Control,T1,6,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,NPK,T1,12,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,Disturbance,T1,3,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,NPK,T1,0.1,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,Control,T1,8,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,Disturbance,T1,8,2022
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,1,NPK,T2,1,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,NPK,T2,1,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,Control,T2,3,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,Control,T2,3,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,NPK,T2,2,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,Control,T2,3,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,NPK,T2,2,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,NPK,T2,3,2023
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,1,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,2,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,3,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,Control,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,4,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,NPK,T3,1,2024
+Wytham Woods,wyth_dn.uk,Trifolium_pratense,5,Control,T3,1,2024
+Blandy Experimental Farm,blan_dn.us,Verbascum_thapsus,1,NPK,T1,20,2023
+Blandy Experimental Farm,blan_dn.us,Verbascum_thapsus,2,NPK,T1,15,2023
+Blandy Experimental Farm,blan_dn.us,Verbascum_thapsus,3,NPK,T1,4,2023
+Blandy Experimental Farm,blan_dn.us,Verbascum_thapsus,4,Disturbance,T1,15,2023
+Blandy Experimental Farm,blan_dn.us,Verbascum_thapsus,5,Disturbance,T1,10,2023
+Cedar Creek LTER,cedr_dn.us,Verbascum_thapsus,1,Control,T0,3,2021
+Cedar Creek LTER,cedr_dn.us,Verbascum_thapsus,2,Disturbance,T0,8,2021
+Cedar Creek LTER,cedr_dn.us,Verbascum_thapsus,2,NPK,T0,5,2021
+Cedar Creek LTER,cedr_dn.us,Verbascum_thapsus,2,Disturbance,T1,10,2022
+Cedar Creek LTER,cedr_dn.us,Verbascum_thapsus,3,Disturbance,T1,25,2022
+Churning Rapids,chur_dn.us,Verbascum_thapsus,2,Disturbance,T1,2,2022
+Izaak Walton League of America (IWLA),iwla_dn.us,Verbascum_thapsus,1,Disturbance,T1,4,2023
+Izaak Walton League of America (IWLA),iwla_dn.us,Verbascum_thapsus,2,Disturbance,T1,2,2023
+Piedmont Prairie,pied_dn.us,Verbascum_thapsus,1,Disturbance,T1,10,2023
+Piedmont Prairie,pied_dn.us,Verbascum_thapsus,3,Disturbance,T1,15,2023
+Piedmont Prairie,pied_dn.us,Verbascum_thapsus,3,NPK,T2,3,2024
+University of Michigan Biological Station,umbs_dn.us,Verbascum_thapsus,5,Disturbance,T3,12,2024
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,2,NPK,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Disturbance,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Control,T0,0.5,2021
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,NPK,T0,3,2021
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,1,Control,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,1,Disturbance,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Disturbance,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Control,T1,1,2022
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,NPK,T1,0.5,2022
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,1,Control,T2,0.5,2023
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,1,Disturbance,T2,2,2023
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,2,Disturbance,T2,0.5,2023
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Disturbance,T2,3,2023
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Control,T2,1,2023
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,1,Disturbance,T3,1,2024
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,1,NPK,T3,0.5,2024
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,2,NPK,T3,0.5,2024
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,2,Disturbance,T3,1,2024
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,Disturbance,T3,0.5,2024
+Bad Lauchstaedt,badlau_dn.de,Veronica_arvensis,3,NPK,T3,0.5,2024
+Bayreuth DRAGNet,bayr_dn.de,Veronica_arvensis,1,Disturbance,T1,2,2021
+Bayreuth DRAGNet,bayr_dn.de,Veronica_arvensis,1,Disturbance,T2,1,2022
+Bayreuth DRAGNet,bayr_dn.de,Veronica_arvensis,4,Disturbance,T2,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,1,Disturbance,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,1,NPK,T1,3,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,2,Disturbance,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,2,NPK,T1,2,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,Disturbance,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,Control,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,NPK,T1,1,2022
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,1,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,1,Disturbance,T2,0.5,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,1,NPK,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,2,Disturbance,T2,0.5,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,2,NPK,T2,2,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,2,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,Disturbance,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,Control,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,NPK,T2,1,2023
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,1,NPK,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,2,NPK,T3,1,2024
+CEREEP - Ecotron IDF,cereep_dn.fr,Veronica_arvensis,3,NPK,T3,1,2024
+Agroscope Changins,chan_dn.ch,Veronica_arvensis,1,NPK,T0,0.5,2020
+Agroscope Changins,chan_dn.ch,Veronica_arvensis,4,Control,T0,0.1,2020
+Agroscope Changins,chan_dn.ch,Veronica_arvensis,1,NPK,T1,0.5,2021
+Agroscope Changins,chan_dn.ch,Veronica_arvensis,1,Disturbance,T1,0.1,2021
+Cowichan,cowi_dn.ca,Veronica_arvensis,1,Disturbance,T1,1,2020
+Cowichan,cowi_dn.ca,Veronica_arvensis,2,Disturbance,T1,3,2020
+Cowichan,cowi_dn.ca,Veronica_arvensis,1,Disturbance,T2,1,2021
+Cowichan,cowi_dn.ca,Veronica_arvensis,2,Disturbance,T2,1,2021
+Cowichan,cowi_dn.ca,Veronica_arvensis,1,Disturbance,T3,2,2022
+Domaninek,doma_dn.cz,Veronica_arvensis,1,Disturbance,T2,12,2024
+Domaninek,doma_dn.cz,Veronica_arvensis,2,Disturbance,T2,5,2024
+Domaninek,doma_dn.cz,Veronica_arvensis,3,Disturbance,T2,7,2024
+Jena,jena_dn.de,Veronica_arvensis,4,Control,T0,4,2021
+Jena,jena_dn.de,Veronica_arvensis,4,NPK,T0,3,2021
+Jena,jena_dn.de,Veronica_arvensis,4,Disturbance,T0,4,2021
+Jena,jena_dn.de,Veronica_arvensis,5,NPK,T0,5,2021
+Jena,jena_dn.de,Veronica_arvensis,5,Control,T0,4,2021
+Jena,jena_dn.de,Veronica_arvensis,5,Disturbance,T0,1,2021
+Jena,jena_dn.de,Veronica_arvensis,6,Disturbance,T0,2,2021
+Jena,jena_dn.de,Veronica_arvensis,6,NPK,T0,1,2021
+Jena,jena_dn.de,Veronica_arvensis,6,Control,T0,1,2021
+Jena,jena_dn.de,Veronica_arvensis,4,NPK,T1,0.5,2022
+Jena,jena_dn.de,Veronica_arvensis,5,Control,T1,0.5,2022
+Jena,jena_dn.de,Veronica_arvensis,6,NPK,T1,0.5,2022
+Jena,jena_dn.de,Veronica_arvensis,4,Control,T2,0.5,2023
+Jena,jena_dn.de,Veronica_arvensis,4,NPK,T2,0.5,2023
+Jena,jena_dn.de,Veronica_arvensis,4,Disturbance,T2,2,2023
+Jena,jena_dn.de,Veronica_arvensis,5,NPK,T2,0.5,2023
+Jena,jena_dn.de,Veronica_arvensis,5,Disturbance,T2,1,2023
+Jena,jena_dn.de,Veronica_arvensis,6,Disturbance,T2,1,2023
+Jena,jena_dn.de,Veronica_arvensis,6,NPK,T2,0.5,2023
+Jena,jena_dn.de,Veronica_arvensis,6,Control,T2,0.5,2023
+Kniezenberg,kzbg_dn.at,Veronica_arvensis,3,Disturbance,T1,1,2023
+WSL,wald_dn.ch,Veronica_arvensis,2,Disturbance,T0,2,2020
+WSL,wald_dn.ch,Veronica_arvensis,3,Control,T0,1,2020
+Cary IES,cary_dn.us,Vincetoxicum_nigrum,3,Disturbance,T0,20,2022
+Cary IES,cary_dn.us,Vincetoxicum_nigrum,3,Disturbance,T1,1,2023

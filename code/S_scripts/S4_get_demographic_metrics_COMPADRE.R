@@ -1,7 +1,7 @@
-# R Thornley
-# 19/11/2024
-# Project: P1_COMPADRE_DRAGNET
-# Script: S4_get_demographic_metrics_COMPADRE.R
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script Name: S4_get_demographic_metrics_COMPADRE.R
 
 rm(list = ls())
 

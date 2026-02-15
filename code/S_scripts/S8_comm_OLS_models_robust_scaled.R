@@ -1,8 +1,7 @@
-# R Thornley
-# 07/10/2025
-# Project: P1_COMPADRE_DRAGNET
-# S8_comm_OLS_models_robust_scaled
-# Fit the robust interaction models scaled with demo vars not logged
+# Author: R Thornley 
+# Date Final Version: 15/01/2026
+# Github Repro: Macro_resilience_clean
+# Script Name: S8_comm_OLS_models_robust_scaled.R
 
 rm(list= ls())
 
@@ -43,7 +42,7 @@ demo <- read_csv("results/all_COMPADRE_metrics.csv") %>%
 demo %>% group_by(Taxon, Demo_trait) %>% count()
 
 # save a vector of taxa names to use in the next stage of modelling
-comp_taxa <- unique(demo$Taxon) # 42 taxa
+comp_taxa <- unique(demo$Taxon) # 39 taxa
 comp_taxa
 
 # read in effect sizes from the whole of DRAGNet 
@@ -73,7 +72,7 @@ taxa <- taxa %>%
   rename(Taxon_site = group, RE = value, RE_se = se) %>%
   filter(ID == "1")
 names(taxa)
-unique(taxa$Taxon) # 41 unique taxa here
+unique(taxa$Taxon) # 39 unique taxa here
 
 # now join the data
 # first simplify the demo data to just the mean values
@@ -90,7 +89,6 @@ demo %>%
 
 # join both data sets
 both <- taxa %>% left_join(demo, by = "Taxon")
-# create a site variable as this is now missing
 
 both %>% group_by(site_name, time_period, experiment, Taxon, Demo_trait, model) %>% tally()
 
@@ -135,7 +133,7 @@ unique(both$Taxon) # 39 taxa
 # export that list of species we are using in the final models
 taxa_list <- unique(both$Taxon)
 length(taxa_list) # 39 taxa here
-saveRDS(taxa_list, "results/List_taxa_OLS_mods.R")
+saveRDS(taxa_list, "results/List_taxa_OLS_sites_mods.R")
 
 # save the modelling data
 write_csv(both, "results/OLS_comm_var_modelling_master_data_T0.csv")
@@ -157,7 +155,7 @@ write_csv(both, "results/OLS_comm_var_modelling_master_data_T0.csv")
 cover <- read_csv("results/total_cover_T0.csv") %>% 
   dplyr::select(!experiment) 
 cover <- cover %>% group_by(site_name, year_trt, trt) %>% mutate(mean_cover = mean(mean_cover))
-unique(cover$site_name) # cover values for 54 sites
+unique(cover$site_name) # cover values for 45 sites
 
 # read in the diversity data
 div <- read_csv("results/diversity_metrics_dragnet_T0.csv") # plot / site
@@ -171,7 +169,6 @@ all_comm <- all_comm %>% left_join(cover, join_by("site_name", "year_trt", "trt"
 all_comm <- 
   all_comm %>% 
   mutate(trt = case_when(trt == "Disturbance" ~ "DIST",
-                         trt == "NPK+Disturbance"  ~ "INTER", 
                          trt == "NPK"  ~ "NPK", 
                          trt == "Control" ~ "CONTROL")) %>%
   rename("experiment" = "trt") %>%
@@ -236,19 +233,30 @@ nested_all <- all_scaled %>%
   nest()
 
 # clean up data frame by removing rows with NA/ INF etc.
-nested_clean <- 
+nested_clean <-
   nested_all %>%
-  mutate(data = purrr::map(data, ~ .x %>% 
-                      filter(if_all(everything(), ~ is.finite(Demo_value))) %>%  # keep only finite values
-                      drop_na(Demo_value)))
-
+  mutate(data = purrr::map(data, ~ .x %>%
+                             dplyr::select(RE, Demo_value, Comm_value) %>%
+                             dplyr::filter(dplyr::if_all(everything(), is.finite)) %>%  # checks each col
+                             tidyr::drop_na()))
 
 # default uses the Tukey's bisquare (biweight) function
-fit_rlm_safe_lmrob <- 
-  purrr::possibly(~ lmrob(RE ~ Demo_value * Comm_value, method = "MM",
-                          control = lmrob.control(psi = "bisquare"), data = .x),
-                  otherwise = NULL)
-
+fit_rlm_safe_lmrob <- function(df) {
+  out <- tryCatch(
+    purrr::quietly(robustbase::lmrob)(
+      RE ~ Demo_value * Comm_value,
+      method = "MM",
+      control = robustbase::lmrob.control(psi = "bisquare"),
+      data = df
+    ),
+    error = function(e) NULL
+  )
+  
+  if (is.null(out)) return(NULL)
+  if (length(out$warnings) > 0) return(NULL)
+  
+  out$result
+}
 
 # build the augment function manually
 augment_lmrob <- function(m) {
@@ -275,6 +283,7 @@ comm_results <-
 # save to disk for model checking and plotting
 saveRDS(comm_results, file = "results/robust_model_comm_results_T0_scaled_not_logged.rds")
 
+#################################################################################
 
 # extract the results of these models 
 # filter out the estimate and p-value for the New_demo_value term only
