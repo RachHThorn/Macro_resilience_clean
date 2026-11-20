@@ -12,6 +12,7 @@
 # installing directly from the github repro
 install.packages("remotes")
 remotes::install_github('m-clark/mixedup', force = TRUE)
+remotes::install_github("m-clark/mixedup")
 install.packages("phytools")
 install.packages("kableExtra")
 
