@@ -1,7 +1,14 @@
 # Author: R Thornley 
-# Date Final Version: 15/01/2026
+# Date Final Version: 18/11/2026
 # Github Repro: Macro_resilience_clean
 # Script Name: S4_get_demographic_metrics_COMPADRE.R
+
+library(Rcompadre)
+library(Rage)
+library(popbio) 
+library(popdemo)
+library(tidyverse)
+
 
 rm(list = ls())
 
@@ -25,14 +32,13 @@ Com_dat <- cdb_fetch("compadre")
 # function cdb_flag gives us info on potential issues with the matrices
 # it adds a column to the database so we can filter it
 Com_flags <- cdb_flag(Com_dat)
-Com_flags$check_NA_A # missing values in matA
-Com_flags$check_NA_U # missing values in matU
+# Com_flags$check_NA_A # missing values in matA
+# Com_flags$check_NA_U # missing values in matU
 # similar check_NA vars do the same
-Com_flags$check_irreducible #  matA is irreducible - usually biologically unreasonable - cause some calculations to fail
-Com_flags$check_ergodic # Non-Ergodic matrices are usually biologically unreasonable - cause some calculations to fail
-Com_flags$check_surv_gte_1 # contains matrix with survival rates greater than 1 - biologically unreasonable
+# Com_flags$check_irreducible #  matA is irreducible - usually biologically unreasonable - cause some calculations to fail
+# Com_flags$check_ergodic # Non-Ergodic matrices are usually biologically unreasonable - cause some calculations to fail
+# Com_flags$check_surv_gte_1 # contains matrix with survival rates greater than 1 - biologically unreasonable
 
-names(Com_flags)
 
 # We need to drop the matrices that have particular issues
 # we need matrices that are defensible
@@ -59,7 +65,7 @@ Drag_taxa_new
 # now we can filter the COMPADRE data for the DRAGNet species
 shared_data_more <- cdb_check_species(Com_clean, Drag_taxa_new, return_db = TRUE)
 unique(shared_data_more$SpeciesAccepted) # 73 species
-dim(shared_data_more) # 373 matrices 
+dim(shared_data_more) # 292 matrices 
 
 ################################################################################
 # 2) Calculate the Life History Traits and resilience metrics
@@ -181,14 +187,16 @@ output
 names(output)
 output %>% group_by(SpeciesAccepted) %>% tally() # we have metrics for 460 species
 nos_matrix <- output %>% filter(DRAGNet == TRUE) %>% group_by(SpeciesAccepted) %>% tally()
-nos_matrix # we have 42 species
-nos_matrix %>% filter(n > 1) # we have 25 species for which we have more than one matrix
+nos_matrix # we have 39 species
+nos_matrix %>% filter(n > 1) # we have 24 species for which we have more than one matrix
 
 # some of the metrics are not reasonable values though
 # just tidy this up a bit
 # we need to change any inf values to NA
 # dat <- output %>% mutate(across(29:37, ~na_if(abs(.), Inf)))
 names(output)
+
+write_csv(output, "results/unfiltered_COMPADRE_metrics.csv")
 
 # we need to get rid of ridiculous data here and put NA values instead
 check <-
@@ -208,7 +216,7 @@ check <-
 
 # just check the number of species we have here now
 check %>% filter(DRAGNet == TRUE) %>% summarise(n_species = n_distinct(SpeciesAccepted))
-# there are just 42 taxa 
+# there are still 39 taxa 
 # now save the dataframe (this is all metrics for all species in compadre but with a DRAGNet flag)
 write_csv(check, "results/all_COMPADRE_metrics.csv")
 

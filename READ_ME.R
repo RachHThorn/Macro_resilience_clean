@@ -120,7 +120,8 @@ source("code/S_scripts/S8_comm_OLS_models_robust_scaled.R")
 # Only panels B and C are prodcued inside R
 source("code/F_scripts/F1_map.R")
 
-# Figure 2 is a schematic of the analysis work flow and is produced outside R
+# Figure 2: Demographic variation
+source("code/F_scripts/F2_demographic_variation.R")
 
 # Figure 3: Robust OLS 
 source("code/F_scripts/F3_robust_regressions.R")
