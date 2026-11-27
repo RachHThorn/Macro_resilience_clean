@@ -113,6 +113,9 @@ make_h_plot <- function(dat, Hx, show_y = TRUE,
     facet_wrap(~ New_demo_trait, ncol = 1, scales = "free_x") +
     geom_vline(xintercept = 0, linetype = "dashed") +
     scale_color_manual(values = cols, guide = "none") +
+    scale_y_discrete(labels = c("T0-T1" = "T0-T1\n(single pulse)",
+                                "T0-T2" = "T0-T2\n(two pulses)",
+                                "T0-T3" = "T0-T3\n(three pulses)")) +
     labs(title = panel_title, x = NULL, y = NULL) +
     theme(
       strip.background = element_blank(),
@@ -140,7 +143,7 @@ build_rm_figure_2x3 <- function(RM_df,
   
   # Top row
   p_A <- get_or_spacer("H1", show_y = TRUE)    # row1 col1
-  p_B <- get_or_spacer("H2", show_y = FALSE)   # row1 col2
+  p_B <- get_or_spacer("H2", show_y = TRUE)   # row1 col2
   p_C <- get_or_spacer("H3", show_y = FALSE)   # row1 col3
   
   # Bottom row
@@ -165,7 +168,7 @@ build_rm_figure_2x3 <- function(RM_df,
   "
   
   (p_A + p_B + p_C + p_D + p_E + p_F) +
-    plot_layout(design = design, guides = "collect")
+    plot_layout(design = design, guides = "collect", heights = c(1.5, 1))
   
 }
 

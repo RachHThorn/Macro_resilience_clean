@@ -11,7 +11,7 @@ library(tidyverse)
 library(ggpubr)
 
 
-dat_1 <- read_csv("results/DRAGNet_T0_T1_overlap.csv")  %>% 
+dat_1 <- read_csv("results/DRAGNet_T0_T1_all.csv")  %>% 
   mutate(trt = factor(trt, levels = c("Control", "Disturbance", "NPK+Disturbance", "NPK", "NPK_Cessation"))) %>%
   filter(!trt == "NPK_Cessation") %>%
   filter(!trt == "NPK+Disturbance") %>%

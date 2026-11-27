@@ -260,8 +260,11 @@ new_plot <-
     rows   = vars(Plot_var),
     cols   = vars(time_period_cover_change),
     scales = "free",        # allow different x ranges
-    independent = "x"         # make x scales independent per *panel*
-  ) +
+    independent = "x",         # make x scales independent per *panel*
+    labeller = labeller(time_period_cover_change = c(
+      "T0-T1" = "T0-T1\n(single pulse)",
+      "T0-T2" = "T0-T2\n(two pulses)",
+      "T0-T3" = "T0-T3\n(three pulses)"))) +
   labs(
     x = "Demographic metric (scaled)",
     y = "Species abundance change at the site level",
@@ -277,19 +280,47 @@ new_plot <-
          linetype = guide_legend(override.aes = list(fill = alpha("grey50", 0.2), size = 1.2))) +
   theme(
     strip.background = element_rect(fill = "white", colour = NA),
-    strip.text = element_text(colour = "black", size = 8),
+    strip.text = element_text(colour = "black", size = 10),
+    strip.background.x = element_rect(fill = "grey94", colour = NA),
+    strip.text.x = element_text(
+      size = 11, face = "bold", lineheight = 1.05,
+      margin = margin(t = 5, b = 5)),
+    strip.text.y = element_text(angle = 0),
+    axis.text = element_text(size = 10),
+    axis.title = element_text(size = 12),
+    axis.text.y = element_text(
+      size = 10, colour = "grey25", margin = margin(r = 4)),
+    axis.title.y = element_text(
+      size = 13, face = "bold", margin = margin(r = 10)),
+    legend.title = element_text(size = 11),
+    legend.text = element_text(size = 10),
     legend.position = "top",
     legend.justification = "center",
     panel.grid = element_blank(),
-    strip.text.y = element_text(angle = 0),
-    axis.text.x = element_text(size = 8),
-    axis.text.y = element_text(size = 8),
-    plot.margin = margin(5, 15, 5, 5)
-  ) +
+    plot.margin = margin(5, 15, 5, 5)) +
   coord_cartesian(clip = "off")
-new_plot
+
+fig4 <- ggplotGrob(new_plot)
+panel_rows <- sort(unique(fig4$layout$t[grepl("^panel-", fig4$layout$name)]))
+stopifnot(length(panel_rows) == 6L)
+
+# Insert a column for A–F between the y-axis title and the panels
+title_col <- fig4$layout$r[fig4$layout$name == "ylab-l"]
+fig4 <- gtable::gtable_add_cols(fig4, grid::unit(7, "mm"), pos = title_col)
+
+row_labels <- lapply(LETTERS[1:6], function(label) {
+  grid::textGrob(label, gp = grid::gpar(fontsize = 14, fontface = "bold"))
+})
+
+fig4 <- gtable::gtable_add_grob(
+  fig4, row_labels, t = panel_rows, l = title_col + 1L, name = "row-label"
+)
+
+grid::grid.newpage()
+grid::grid.draw(fig4)
+
 
 # plot with the completely independent axes
-ggsave("figures/Fig_4.tiff", new_plot, width = 10, height = 11)
+ggsave("figures/Fig_4.tiff", plot = fig4, width = 10, height = 11)
 
 
